@@ -1,0 +1,3283 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. Text in function
+#: jaguar-translate/library/options/a-general.php:1
+msgid "\"client\" permalink"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-general.php:1
+msgid "\"module\" permalink"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-general.php:1
+msgid "\"portfolio\" permalink"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-general.php:1
+msgid "\"slide\" permalink"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-general.php:1
+msgid "\"team-member\" permalink"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/wm-options-panel.php:1
+msgid "%s options"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-general.php:1
+msgid "Add reset button to this admin panel"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-general.php:1
+msgid "Adding a custom widget areas"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-cta.php:1
+msgid "Adds page settings to override default callout texts and button"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Admin Panel consists of <em>main navigation panel</em> on the left which contains options categories, <em>admin panel header</em> (displays theme name and version, submit button and tabbed <em>category subnavigation</em>), <em>section screen</em> which contains all the settings options for the selected category and <em>footer</em> where you can find another submit button (and, if enabled, also reset button). Submit buttons are conveniently placed in upper right and lower right corner of the panel for easy access. "
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-design.php:1
+msgid "Admin custom footer text"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-design.php:1
+msgid "Admin page logo"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-design.php:1
+msgid "Admin panel logo"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-security.php:1
+msgid "After installation remove \"wp-admin/install.php\" file"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-slider.php:1
+msgid "Allows controlling the animation by dragging slides on touch screens"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-general.php:1
+msgid "Although Clients posts are being redirected to homepage, you might want to change this in case the permalink colides with some plugins"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-general.php:1
+msgid "Although Content Modules posts are being redirected to homepage, you might want to change this in case the permalink colides with some plugins"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-general.php:1
+msgid "Although Slides posts are being redirected to homepage, you might want to change this in case the permalink colides with some plugins"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-general.php:1
+msgid "Although Team posts are being redirected to homepage, you might want to change this in case the permalink colides with some plugins"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Althouth the website color skin is set, you can override its colors by setting them below. All text colors will be set automatically to assure the best readability (you can tweak the Background color brightness treshold to change how automatic color works)."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-slider.php:1
+msgid "Animation effect"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-slider.php:1
+msgid "Animation tilting"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-general.php:1
+msgid "As page"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-general.php:1
+msgid "As post"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "As the website is all about you, it is important to brand it as much as possible. WebMan allows you to set the website logo, its position, favicon and touch icon. And yes, you can even brand WordPress admin area - set the admin page logo and footer text."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-design.php:1
+msgid "Automatic text color tweaking"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-slider.php:1
+msgid "Back In"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-slider.php:1
+msgid "Back In Out"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-slider.php:1
+msgid "Back Out"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-design.php:1
+msgid "Background color brightness treshold"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-design.php:1
+msgid "Background image attachment"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-design.php:1
+msgid "Background image position"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-design.php:1
+msgid "Background image repeat"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-seo.php:1
+msgid "Basic <abbr title=\"Search Engine Optimization\">SEO</abbr> settings include global website keywords and description displayed in the HTML head section of the website. You can also set whether search engines should index archive lists or not. To improve the SEO it is recommended to set the permalink structure (in <strong>Settings / Permalinks</strong>) to \"Post name\"."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-seo.php:1
+msgid "Basic SEO"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Basic SEO tab"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-security.php:1
+msgid "Basic WordPress security"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-design.php:1
+msgid "Basic colors"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+#: jaguar-translate/library/options/a-design.php:1
+msgid "Basic font size"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Basic tab"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-design.php:1
+msgid "Basic website font"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-design.php:1
+msgid "Basic website font stack"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-general.php:1
+msgid "Basics"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-cta.php:1
+msgid "Below are global callout options. They can be overridden when you set callout for a specific page."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-blog.php:1
+msgid "Blog"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-blog.php:1
+msgid "Blog entry meta information"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Blog options"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-blog.php:1
+msgid "Blog posts list settings"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Blog tab"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-cta.php:1
+msgid "Blue button"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-design.php:1
+msgid "Blue color used on special elements like buttons, message boxes, markers"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-slider.php:1
+msgid "Bounce In"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-slider.php:1
+msgid "Bounce In Out"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-slider.php:1
+msgid "Bounce Out"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-slider.php:1
+msgid "Box columns count"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-layout.php:1
+msgid "Box padding"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-slider.php:1
+msgid "Box rows count"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/styles/a-layouts.php:1
+msgid "Boxed - website sections will be contained in a centered box"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/styles/a-layouts.php:1
+msgid "Boxed layout"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-layout.php:1
+msgid "Boxed top bar"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-design.php:1
+msgid "Branding"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Branding tab"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-seo.php:1
+msgid "Breadcrumbs"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Breadcrumbs navigation is displayed just above the main page content. It makes it easier to follow the website page hierarchy and it is recommended also as good search engine optimization tool to ease the website crawling."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-seo.php:1
+msgid "Breadcrumbs navigation settings"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Breadcrumbs tab"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-seo.php:1
+msgid "Breadcrums"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-cta.php:1
+msgid "Button color"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-cta.php:1
+msgid "Button link"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-cta.php:1
+msgid "Button text"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-design.php:1
+msgid "Button text color will be set automatically"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-cta.php:1
+msgid "By default, callout is only enabled on homepage. This will show it also on archives."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-cta.php:1
+msgid "By default, callout is only enabled on homepage. This will show it also on pages and subpages."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-cta.php:1
+msgid "By default, callout is only enabled on homepage. This will show it also on portfolio items."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-cta.php:1
+msgid "By default, callout is only enabled on homepage. This will show it also on posts."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-layout.php:1
+msgid "By default, clients list is displayed on homepage, pages, portfolio list and portfolio item detail pages"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-design.php:1
+msgid "CSS styles"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "CSS styles tab"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-cta.php:1
+msgid "Callout"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Callout (or call to action) area is displayed on homepage (by default) in between the website header and content area. You can place a simple welcome text here, or direct the visitor to your product or landing page by placing a button after text. In this tab you can set all the options related to callout area."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-cta.php:1
+msgid "Callout area settings"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-design.php:1
+msgid "Callout background"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-design.php:1
+msgid "Callout background color"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-cta.php:1
+msgid "Callout button URL link"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-cta.php:1
+msgid "Callout button text"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-design.php:1
+msgid "Callout font"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-design.php:1
+msgid "Callout font size"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-design.php:1
+msgid "Callout font stack"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Callout options"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Callout tab"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-cta.php:1
+msgid "Callout text"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-design.php:1
+msgid "Callout text color"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-layout.php:1
+msgid "Callout | Heading | Slider"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-layout.php:1
+msgid "Callout | Slider | Heading"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-design.php:1
+msgid "Center"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-design.php:1
+msgid "Center horizontally, bottom"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-design.php:1
+msgid "Center horizontally, top"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-slider.php:1
+msgid "Changes automatic rotation direction (left to right)"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-slider.php:1
+msgid "Choose Kwicks Accordion easing effect"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-slider.php:1
+msgid "Choose Nivo slider animation effect"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-slider.php:1
+msgid "Choose Roundabout slider animation effect"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-slider.php:1
+msgid "Choose Roundabout slider easing effect"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-layout.php:1
+msgid "Choose a sidebar position on portfolio category page (set the first one to use the theme default settings - no sidebar)"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-general.php:1
+msgid "Choose how clients should be treated"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-general.php:1
+msgid "Choose how content modules should be treated"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-general.php:1
+msgid "Choose how slides should be treated"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-general.php:1
+msgid "Choose how team custom post should be treated"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-general.php:1
+msgid "Choose how the portfolio post should be treated"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-design.php:1
+msgid "Choose preferred icons pack to use with icon modules (the theme contains just a selection of icons from each pack)"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-blog.php:1
+msgid "Choose the post meta information to display. By default all the information below are displayed."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-layout.php:1
+msgid "Choose the website layout"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-general.php:1
+msgid "Choose what image size should be displayed when portfolio or blog featured image is zoomed"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-cta.php:1
+msgid "Choose what type of button is displayed"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-layout.php:1
+msgid "Choose what type of portfolio item description to use when displaying portfolio items in single column view"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-blog.php:1
+msgid "Choose whether above categories should be excluded or used (does not apply on \"All posts\")"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-layout.php:1
+msgid "Choose, how the portfolio archives will be displayed"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-layout.php:1
+msgid "Choose, how the portfolio item detail page will be displayed"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-slider.php:1
+msgid "Circ In"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-slider.php:1
+msgid "Circ In Out"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-slider.php:1
+msgid "Circ Out"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-general.php:1
+msgid "Clients"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-design.php:1
+msgid "Clients / partners section background color"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-general.php:1
+msgid "Clients custom post"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-layout.php:1
+msgid "Clients list"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-design.php:1
+msgid "Clients section background"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-layout.php:1
+msgid "Clients section title"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-general.php:1
+msgid "Clients, Slides, Content Modules and Team custom posts are being redirected to homepage when visited directly. There is no need to display them individually."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-design.php:1
+msgid "Color brightness value when to switch between text colors (set above) depending on the background color brightness"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-general.php:1
+msgid "Comments"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-design.php:1
+msgid "Compress the main CSS stylesheet file (speeds up website loading)"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-general.php:1
+msgid "Content Modules"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-general.php:1
+msgid "Content Modules custom post"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-slider.php:1
+msgid "Conveyor Belt (Left)"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-slider.php:1
+msgid "Conveyor Belt (Right)"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-general.php:1
+msgid "Copyright text at the bottom of the website. You can use (C) to display &copy; sign, (R) for &reg;, (TM) for &trade; or YEAR for dynamic year."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-general.php:1
+msgid "Create additional widget areas"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-general.php:1
+msgid "Credits (copyright) text"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Credits (copyright) text, Custom posts treatment, Comments"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-slider.php:1
+msgid "Cubic In"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-slider.php:1
+msgid "Cubic In Out"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-slider.php:1
+msgid "Cubic Out"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-design.php:1
+msgid "Custom CSS"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-design.php:1
+msgid "Custom background image"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-design.php:1
+msgid "Custom favicon (16x16, .ico format) URL address"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-design.php:1
+msgid "Custom font stylesheet link (HTML)"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-design.php:1
+msgid "Custom icons packs"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-design.php:1
+msgid "Custom logo image URL address"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-general.php:1
+msgid "Custom posts"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-general.php:1
+msgid "Custom scripts at the end of the website HTML code just before closing BODY tag. Can be used for tracking code placement. Please include a SCRIPT tag too."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-general.php:1
+msgid "Custom scripts in HTML head. Can be used for tracking code placement. Please include a SCRIPT tag too."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-design.php:1
+msgid "Custom touch icon URL address"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-design.php:1
+msgid "Dark background text colors"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-design.php:1
+msgid "Dark icon scheme"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-design.php:1
+msgid "DarkGlass icons pack"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-design.php:1
+msgid "Default headings color on dark backgrounds"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-design.php:1
+msgid "Default headings color on light backgrounds"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-seo.php:1
+msgid "Default meta description"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-seo.php:1
+msgid "Default meta keywords"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Default meta keywords, Default meta description"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-design.php:1
+msgid "Default text color on dark backgrounds"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-design.php:1
+msgid "Default text color on light backgrounds"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-design.php:1
+msgid "DefaultIcon icons pack"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-design.php:1
+msgid "Define blue color"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-design.php:1
+msgid "Define gray color"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-design.php:1
+msgid "Define green color"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-design.php:1
+msgid "Define orange color"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-design.php:1
+msgid "Define red color"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Definitelly have a look..."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Definitelly take a look at these settings..."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-design.php:1
+msgid "Depends on the color scheme used and background color set, you can choose between light and dark icon scheme (will affect message box and post formats icons)"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-design.php:1
+msgid "Design"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Design options"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Design tab"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-slider.php:1
+msgid "Diagonal Ring (Left)"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-slider.php:1
+msgid "Diagonal Ring (Right)"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-general.php:1
+msgid "Disable"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-general.php:1
+msgid "Disable Tipsy tooltips"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-security.php:1
+msgid "Disable Windows Live Writer support"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-security.php:1
+msgid "Disable WordPress version"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-blog.php:1
+msgid "Disable author biography altogether"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-blog.php:1
+msgid "Disable author name"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-slider.php:1
+msgid "Disable automatic animation"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-seo.php:1
+msgid "Disable breadcrumbs"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-seo.php:1
+msgid "Disable breadcrumbs on Error 404 page"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-seo.php:1
+msgid "Disable breadcrumbs on archives"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-cta.php:1
+msgid "Disable button only"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-blog.php:1
+msgid "Disable categories"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-layout.php:1
+msgid "Disable clients on homepage"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-layout.php:1
+msgid "Disable clients on pages"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-layout.php:1
+msgid "Disable clients on portfolio item details page"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-layout.php:1
+msgid "Disable clients on portfolio items list page"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-layout.php:1
+msgid "Disable clients section on the whole website"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-blog.php:1
+msgid "Disable comments count"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-blog.php:1
+msgid "Disable featured image in a single post view"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-seo.php:1
+msgid "Disable indexing archives"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-slider.php:1
+msgid "Disable navigation arrows"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-social.php:1
+msgid "Disable on portfolio"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-blog.php:1
+msgid "Disable post format icon"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-blog.php:1
+msgid "Disable publish date"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-layout.php:1
+msgid "Disable related items"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-social.php:1
+msgid "Disable share buttons on portfolio item pages"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-social.php:1
+msgid "Disable social networking links"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-layout.php:1
+msgid "Disable special menu area"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-blog.php:1
+msgid "Disable tags"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-general.php:1
+msgid "Disable theme contextual help"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-general.php:1
+msgid "Disable theme update notifier"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-seo.php:1
+msgid "Disables breadcrumbs navigation on Error 404 page"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-seo.php:1
+msgid "Disables breadcrumbs navigation on all archive pages"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-seo.php:1
+msgid "Disables breadcrumbs navigation on the whole website"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-general.php:1
+msgid "Disables jQuery Tipsy tooltips"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-general.php:1
+msgid "Disables page comments and pingbacks only (even if global comments are enabled)"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-general.php:1
+msgid "Disables post comments and pingbacks only (even if global comments are enabled)"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-general.php:1
+msgid "Disallow page comments"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-general.php:1
+msgid "Disallow post comments"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-seo.php:1
+msgid "Disallow search engines to index all archive pages (like category, tag, author, date, search archive)"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-layout.php:1
+msgid "Display \"Header Right\" widget area"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-layout.php:1
+msgid "Display nothing"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-blog.php:1
+msgid "Display post excerpt or content (until \"More\" tag) on posts list pages"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-layout.php:1
+msgid "Display status posts"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-slider.php:1
+msgid "Displays prev/next slide navigation only when mouse hovers over the slider"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-general.php:1
+msgid "Do not rearrange WordPress admin menu"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-design.php:1
+msgid "Do not repeat the image"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-security.php:1
+msgid "Do not use \"admin\" as user name and set strong passwords"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-slider.php:1
+msgid "Do not use the default prev/next navigation"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-slider.php:1
+msgid "Dragging transition speed"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-slider.php:1
+msgid "Easing effect"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-slider.php:1
+msgid "Elastic In"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-slider.php:1
+msgid "Elastic In Out"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-slider.php:1
+msgid "Elastic Out"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-design.php:1
+msgid "Elements colors"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-security.php:1
+msgid "Eliminate potentional security risk by removing Windows Live Writer support"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-seo.php:1
+msgid "Empty spaces will be applied on both sides of the separator, so no need to type them in"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-social.php:1
+msgid "Enable Facebook sharing button"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-social.php:1
+msgid "Enable Google+ sharing button"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-social.php:1
+msgid "Enable Twitter sharing button"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-cta.php:1
+msgid "Enable callout"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-cta.php:1
+msgid "Enable callout overriding on pages"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-slider.php:1
+msgid "Enable dragging"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-slider.php:1
+msgid "Enable navigation buttons"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-cta.php:1
+msgid "Enables callout area on home page (for other website sections check the settings below)"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-design.php:1
+msgid "Enter font names hierarchically separated by commas. Provide also the most basic fallback (\"sans-serif\" or \"serif\")."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-layout.php:1
+msgid "Enter the title for clients (or partners) list section"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-layout.php:1
+msgid "Enter the toggle button title of the special menu area (do not forget to assign widgets to \"Special Menu Area\" widget area)"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-blog.php:1
+msgid "Excerpt length"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-blog.php:1
+msgid "Excerpt or content"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-blog.php:1
+msgid "Exclude / use categories"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-blog.php:1
+msgid "Exclude posts from these categories"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-slider.php:1
+msgid "Expo In"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-slider.php:1
+msgid "Expo In Out"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-slider.php:1
+msgid "Expo Out"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-general.php:1
+msgid "Export"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-general.php:1
+msgid "Export / import"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Export / import tab"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-social.php:1
+msgid "Facebook sharing"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-slider.php:1
+msgid "Fading"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-design.php:1
+msgid "Faenza icons pack"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-design.php:1
+msgid "Favicon will be displayed as bookmark icon or on browser tab or in browser address line"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-slider.php:1
+msgid "Figure 8"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-design.php:1
+msgid "Fixed position"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-slider.php:1
+msgid "Folding"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-design.php:1
+msgid "Font families"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-design.php:1
+msgid "Fonts"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Fonts tab"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-design.php:1
+msgid "Footer background"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-general.php:1
+msgid "Footer credits"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "For RSS prepend the link with \"rss:\". If you set the RSS link here, it will be used as the main website RSS link."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-design.php:1
+msgid "For automatic text color try to match this background color to dominant color on applied background image"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "For better WordPress security it is recommended to go through these settings and take the appropriate actions. There are some usefull WordPress security tips at the bottom too ;)"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-security.php:1
+msgid "For security reasons it is recommended to check all the options below. Uncheck only ifs you really need the option to be enabled."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-design.php:1
+msgid "Form background color"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-design.php:1
+msgid "Form settings"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-general.php:1
+msgid "Full original size of the image"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/styles/a-layouts.php:1
+msgid "Full width - website sections will spread across the whole browser window width"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/styles/a-layouts.php:1
+msgid "Full width layout"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-general.php:1
+#: jaguar-translate/library/options/a-slider.php:1
+msgid "General"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-design.php:1
+msgid "General blue color"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-design.php:1
+msgid "General gray color"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-design.php:1
+msgid "General green color"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "General options"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-design.php:1
+msgid "General orange color"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-design.php:1
+msgid "General red color"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-slider.php:1
+msgid "General slider settings"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-cta.php:1
+msgid "Global callout"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-slider.php:1
+msgid "Goodbye Cruel World"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-social.php:1
+msgid "Google+ sharing"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-cta.php:1
+msgid "Gray button"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-design.php:1
+msgid "Gray color used on special elements like buttons, message boxes, markers"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-cta.php:1
+msgid "Green button"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-design.php:1
+msgid "Green color used on special elements like buttons, message boxes, markers"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-design.php:1
+msgid "HTML container background"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-design.php:1
+msgid "HTML container background color"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-general.php:1
+msgid "HTML head"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-design.php:1
+msgid "Header background"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-design.php:1
+msgid "Heading font"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-layout.php:1
+msgid "Heading | Callout | Slider"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-layout.php:1
+msgid "Heading | Slider | Callout"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-design.php:1
+msgid "Headings color on dark background"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-design.php:1
+msgid "Headings color on light background"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-design.php:1
+msgid "Headings font stack"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-design.php:1
+msgid "Headings sizes"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Here you can set the basic (and advanced) CSS stuff. It is strongly recommended to enable CSS minimization as it speeds up website loading time. Into Custom CSS field you can place your custom CSS code that will be included in the main theme CSS stylesheet file."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Here you can set the main website layout and tweek its basic attributes. Also set the global portfolio layout settings (for portfolio items list and portfolio item detail page)."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Here you will find all the settings related to your blog."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-slider.php:1
+msgid "Hide navigation arrows"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-blog.php:1
+msgid "Hides author information below all posts (otherwise the information is displayed, but only if author entered Biographical Info in his/her user profile). You can hide this information also on per post basis (see corresponding post settings)."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-blog.php:1
+msgid "Hides featured image when displaying actual post"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-blog.php:1
+msgid "Hides post author"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-blog.php:1
+msgid "Hides post categories links"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-blog.php:1
+msgid "Hides post comments count link"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-blog.php:1
+msgid "Hides post format icon"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-blog.php:1
+msgid "Hides post publish date and time"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-blog.php:1
+msgid "Hides post tags list"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-layout.php:1
+msgid "Hides related portfolio items displayed on portfolio item detail page"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-slider.php:1
+msgid "Horizontal number of boxes for \"Rain\" and \"Boxes\" animations"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "How to use WebMan Admin Panel"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-design.php:1
+msgid "HydroxyGen icons pack"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-design.php:1
+msgid "Icons"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-general.php:1
+msgid "Import"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-general.php:1
+msgid "In addition to predefined widget areas you can create custom ones directly from this Admin Panel, without any coding knowledge or editing theme files. To create a new widget area use the generator below."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "It is recommended to keep the backup copy of your settings, but it is completely optional."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-design.php:1
+msgid "It is recommended to set a website color scheme first to be used as a base for your additional design changes. When color scheme is changed, save the settings (note that you will loose any color and font changes made as these will be set to color skin values; you will need to reapply these changes again)."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-layout.php:1
+msgid "Item attributes"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-layout.php:1
+msgid "Item description text"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Just like the design of the website you can actually style the WordPress login screen. The WebMan Admin Panel allows you to set custom login logo, login page background, login form background and login button color. All the text colors will be set automatically for the best contrast with the background color."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-security.php:1
+msgid "Keep backups of the database and WordPress installation"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-security.php:1
+msgid "Keep your WordPress installation up to date"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-slider.php:1
+msgid "Kwicks Accordion"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-slider.php:1
+msgid "Kwicks Accordion customization"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-design.php:1
+msgid "Label color will be set automatically"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-general.php:1
+msgid "Large image (can be set in Settings > Media)"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-layout.php:1
+msgid "Layout"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Layout options"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-layout.php:1
+msgid "Layout settings"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Layout settings tab"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-slider.php:1
+msgid "Lazy Susan"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-design.php:1
+msgid "Left, bottom"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-design.php:1
+msgid "Left, center vertically"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-design.php:1
+msgid "Left, top"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-design.php:1
+msgid "Light background text colors"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-design.php:1
+msgid "Light icon scheme"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-design.php:1
+msgid "Link background color"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-design.php:1
+msgid "Link color"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-cta.php:1
+msgid "Link color button (default)"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-design.php:1
+msgid "Link text color"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-design.php:1
+msgid "Links below login form settings"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-design.php:1
+msgid "Login"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-security.php:1
+msgid "Login error messages will be replaced with generic one"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-design.php:1
+msgid "Login logo"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Login logo, Logo container height"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-design.php:1
+msgid "Login page background"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-design.php:1
+msgid "Login page customization"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Login tab"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-design.php:1
+msgid "Logo container height"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-design.php:1
+msgid "Logo margin"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-design.php:1
+msgid "Logo type"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-design.php:1
+msgid "Main heading background"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-design.php:1
+msgid "Main heading background color"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-design.php:1
+msgid "Main heading text color"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-layout.php:1
+msgid "Main heading, slider and callout order"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-design.php:1
+msgid "Main website icons scheme"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-layout.php:1
+msgid "Main website layout"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-general.php:1
+msgid "Make valid HTML code"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-slider.php:1
+msgid "Maximum number of slides"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-design.php:1
+msgid "Maximum size is 20px &times; 20px. For WordPress older than version 3.3 the maximum image size is 16px &times; 16px"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-design.php:1
+msgid "Message text color will be set automatically"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-design.php:1
+msgid "Messages background color"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-design.php:1
+msgid "Messages settings"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-slider.php:1
+msgid "Minimal slide width"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+#: jaguar-translate/library/options/a-design.php:1
+msgid "Minimize CSS"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-design.php:1
+msgid "Move on scrolling"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-slider.php:1
+msgid "Nivo Slider"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-slider.php:1
+msgid "Nivo Slider customization"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-layout.php:1
+msgid "No clients on homepage"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-layout.php:1
+msgid "No clients on pages"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-layout.php:1
+msgid "No clients on portfolio item page"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-layout.php:1
+msgid "No clients on portfolio page"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-slider.php:1
+msgid "No easing"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-design.php:1
+msgid "No logo will be displayed in theme admin panel"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-blog.php:1
+msgid "Number of posts to display"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-slider.php:1
+msgid "Number of slices for \"Slice\" animations"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-design.php:1
+msgid "NuoveXT icons pack"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-cta.php:1
+msgid "On archives"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-cta.php:1
+msgid "On pages"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-cta.php:1
+msgid "On portfolio items"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-cta.php:1
+msgid "On posts"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-slider.php:1
+msgid "Only manual slide switching will be available"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-social.php:1
+msgid "Open in new window"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-social.php:1
+msgid "Opens social links in new browser window or tab"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-design.php:1
+msgid "Or: set background pattern"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-cta.php:1
+msgid "Orange button"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-design.php:1
+msgid "Orange color used on special elements like buttons, message boxes, markers"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-design.php:1
+msgid "Other CSS settings "
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-general.php:1
+msgid "Others"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-design.php:1
+msgid "Page background color"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-general.php:1
+msgid "Page footer"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-design.php:1
+msgid "Patterns are prioritized over background image. For transparent patterns you can also set the background color."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-slider.php:1
+msgid "Pause on hover"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-slider.php:1
+msgid "Pause on mouse hover"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-layout.php:1
+msgid "Place top bar inside website container box"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-layout.php:1
+msgid "Please choose the order of displaying the Callout, Main Heading and Slider sections"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-design.php:1
+msgid "Please note, that CSS styles are being cached (the theme sets this to 2 days interval). If your changes are not being applied, clean the browser cache first and reload the website. Or you can put WordPress into debug mode when the cache interval decreases to 30 seconds."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Please set the icons that you wish to use on the website."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Please use WebMan's unique way of adding a social networking links into the theme. Social icons will be displayed on the right side of website header, but you can disable them altogether by setting the option below."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Please, go through all of these settings and tweak them to your needs."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-general.php:1
+msgid "Portfolio"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-general.php:1
+msgid "Portfolio \"category\" permalink"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-general.php:1
+msgid "Portfolio categories permalink base - you might need to change this for localization purposes"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-general.php:1
+msgid "Portfolio custom post"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-layout.php:1
+msgid "Portfolio description"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-layout.php:1
+msgid "Portfolio details layout"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-layout.php:1
+msgid "Portfolio list layout"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-seo.php:1
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Portfolio list page"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-general.php:1
+msgid "Portfolio posts permalink base - you might need to change this for localization purposes"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-layout.php:1
+msgid "Portfolio single item layout"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-blog.php:1
+msgid "Posts just from these categories"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-blog.php:1
+msgid "Posts source"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-general.php:1
+msgid "Press [+] button and enter the name for new widget area. If the widget area of the same name already exists, it will not be created again. To remove a custom widget area press [X] button preceding its name in the list. Note that renaming previously created widget area changes its ID and all widgets assigned to it will be lost! Do not forget to save the changes."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-social.php:1
+msgid "Press [+] button to add new social networking link and enter the full URL into the field. The theme will automatically detect which icon to use with the link (if not recognized, link will not be displayed). For RSS feed link prepend the link with \"rss:\". The theme supports these social networks: deviantArt, Dribbble, Facebook, Flickr, Forrst, Google+, LinkedIn, Twitter, Vimeo and YouTube."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-design.php:1
+msgid "Primary font stack"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-slider.php:1
+msgid "Quad In"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-slider.php:1
+msgid "Quad In Out"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-slider.php:1
+msgid "Quad Out"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-slider.php:1
+msgid "Quart In"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-slider.php:1
+msgid "Quart In Out"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-slider.php:1
+msgid "Quart Out"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-quickstart.php:1
+msgid "Quick start"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-quickstart.php:1
+msgid "Quick start guide"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-slider.php:1
+msgid "Quint In"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-slider.php:1
+msgid "Quint In Out"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-slider.php:1
+msgid "Quint Out"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-slider.php:1
+msgid "Rain"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-slider.php:1
+msgid "Rain grow"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-slider.php:1
+msgid "Rain grow reverse"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-slider.php:1
+msgid "Rain reverse"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-slider.php:1
+msgid "Random"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-slider.php:1
+msgid "Random boxes"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Recommended to set?"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-cta.php:1
+msgid "Red button"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-design.php:1
+msgid "Red color used on special elements like buttons, message boxes, markers"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-design.php:1
+msgid "Remove logo from admin panel"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-cta.php:1
+msgid "Removes button from callout area"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-general.php:1
+msgid "Removes recommended, but invalid (according to W3C validator) meta tags from HTML head (whole Dublin core and X-UA-Compatible will be removed)"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-layout.php:1
+msgid "Removes special menu area from website main menu area"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-general.php:1
+msgid "Removes theme help from WordPress contextual help"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-design.php:1
+msgid "Repeat the image"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-security.php:1
+msgid "Replace login errors"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Replace login errors, Disable WordPress version, Disable Windows Live Writer support"
+msgstr ""
+
+#. Text in echo
+#: jaguar-translate/library/wm-options-panel.php:389
+msgid "Reset defaults"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-design.php:1
+msgid "Right, bottom"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-design.php:1
+msgid "Right, center vertically"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-design.php:1
+msgid "Right, top"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-slider.php:1
+msgid "Roller Coaster"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-slider.php:1
+msgid "Roundabout Slider"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-slider.php:1
+msgid "Roundabout Slider customization"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "SEO Settings options"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-seo.php:1
+msgid "SEO settings"
+msgstr ""
+
+#. Text in echo
+#: jaguar-translate/library/wm-options-panel.php:380
+msgid "Save changes"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-general.php:1
+msgid "Search field"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-general.php:1
+msgid "Search input field placeholder text"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-general.php:1
+msgid "Search placeholder text"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-design.php:1
+msgid "Secondary font stack"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-security.php:1
+msgid "Security"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Security options"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-security.php:1
+msgid "Security settings"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Security settings tab"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-seo.php:1
+msgid "Select a portfolio list page used as base for single portfolio item page"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-layout.php:1
+msgid "Select a widget area used as a sidebar displayed on portfolio category page (if not set no sidebar is displayed)"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-design.php:1
+msgid "Select previously set font stack for call to action section"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-design.php:1
+msgid "Select previously set font stack for entire website"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-design.php:1
+msgid "Select previously set font stack for website headings"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-security.php:1
+msgid "Set the $table_prefix variable in \"wp-config.php\" file (do not use the default value \"wp_\")"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-security.php:1
+msgid "Set the Authentication Unique Keys and Salts in \"wp-config.php\" file"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-design.php:1
+msgid "Set the background image attachment"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-design.php:1
+msgid "Set the background image position"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-design.php:1
+msgid "Set the background image repeating"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-design.php:1
+msgid "Set the basic font size of the website (in pixels)."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-layout.php:1
+msgid "Set the box padding size when boxed website layout used"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-design.php:1
+msgid "Set the hight of login logo container in pixels"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-slider.php:1
+msgid "Set the lowes transparency of the background slides in % against focused slide"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-slider.php:1
+msgid "Set the maximum number of slides (note that more slides in slider means more time to load the page)"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-design.php:1
+msgid "Set the relative call to action font size in % against the theme default sizes"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-design.php:1
+msgid "Set the relative heading font size in % against the theme default sizes"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-slider.php:1
+msgid "Set the smallest size of the background slides in % against focused slide"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-design.php:1
+msgid "Set the top and bottom logo margin size (\"-1\" sets the default logo margin)"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-layout.php:1
+msgid "Set the top margin size for status posts area in header (\"-1\" sets default theme margin)"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-design.php:1
+msgid "Set the transparency of website container shadow in % (100% = opaque, 0% = fully transparent / no border)"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-design.php:1
+msgid "Set this only if you need to override the automatic text color"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-blog.php:1
+msgid "Sets the excerpt length in words"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-design.php:1
+msgid "Sets the logo displayed above admin panel main navigation"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-slider.php:1
+msgid "Sets the tilt of the slides during certain animation effects"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/wm-options-panel.php:396
+msgid "Settings were reset."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/wm-options-panel.php:396
+msgid "Settings were updated successfully."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-general.php:1
+msgid "Show [RESET] button at the bottom of this admin panel. You will loose all changes by resetting the theme options!"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-blog.php:1
+msgid "Show content until \"More\" tag"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-blog.php:1
+msgid "Show just excerpt"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-slider.php:1
+msgid "Shrunk slide width minimal in pixels"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-layout.php:1
+msgid "Sidebar on portfolio category page"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-layout.php:1
+msgid "Sidebar on portfolio category page position"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-slider.php:1
+msgid "Simple Slider"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-slider.php:1
+msgid "Simple Slider customization"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-slider.php:1
+msgid "Sine In"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-slider.php:1
+msgid "Sine In Out"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-slider.php:1
+msgid "Sine Out"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-slider.php:1
+msgid "Slice down"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-slider.php:1
+msgid "Slice down (right to left)"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-slider.php:1
+msgid "Slice up"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-slider.php:1
+msgid "Slice up (right to left)"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-slider.php:1
+msgid "Slice up and down"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-slider.php:1
+msgid "Slice up and down (right to left)"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-slider.php:1
+msgid "Slices count"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-slider.php:1
+msgid "Slide display time"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-slider.php:1
+msgid "Slide in"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-slider.php:1
+msgid "Slide in from right"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-slider.php:1
+msgid "Slider"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-design.php:1
+msgid "Slider background"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-design.php:1
+msgid "Slider container background color"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Slider options"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-layout.php:1
+msgid "Slider | Callout | Heading"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-layout.php:1
+msgid "Slider | Heading | Callout"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-general.php:1
+msgid "Slides"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-general.php:1
+msgid "Slides custom post"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Social Links options"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-social.php:1
+msgid "Social links"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-social.php:1
+msgid "Social networking"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-social.php:1
+msgid "Social networking links"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-social.php:1
+msgid "Social networking links will not be displayed"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Social networking tab"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-social.php:1
+msgid "Social share buttons on posts and portfolio items"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-social.php:1
+msgid "Social sharing"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-seo.php:1
+msgid "Some SEO plugins meta title settings may not work with Jaguar. You can try to enable this for more compatibility."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-general.php:1
+msgid "Some plugins may add an item to WordPress admin menu. Check this for best compatibility with the plugins. "
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-layout.php:1
+msgid "Special menu area title"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-slider.php:1
+msgid "Speed of transition effect between slides (in miliseconds)"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-slider.php:1
+msgid "Speed of transitioning between slides (in miliseconds) when dragging"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-slider.php:1
+msgid "Square"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-slider.php:1
+msgid "Start animation on random slide"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-slider.php:1
+msgid "Start at random slide"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-layout.php:1
+msgid "Status area"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-layout.php:1
+msgid "Status area margin"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Status area margin, Special menu area title, Clients section title"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-layout.php:1
+msgid "Status posts are being displayed in the right side of the website header. Choose how this area should be treated."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-layout.php:1
+msgid "Sticks the top bar to the top of the browser window even when scrolling"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-layout.php:1
+msgid "Sticky top bar"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-slider.php:1
+msgid "Stop animation on mouse hovering the slider"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-slider.php:1
+msgid "Stops the automatic rotation when mouse hovers over slider"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-design.php:1
+msgid "Submit button color"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-slider.php:1
+msgid "Switch direction"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/wm-options-panel.php:396
+msgid "THIS THEME IS NOT COMPATIBLE WITH YOUR WORDPRESS VERSION. PLEASE UPGRADE YOUR WORDPRESS INSTALLATION."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-design.php:1
+msgid "Tango icons pack"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-general.php:1
+msgid "Team"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-general.php:1
+msgid "Team custom post"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-slider.php:1
+msgid "Tear Drop"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-cta.php:1
+msgid "Text"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-design.php:1
+msgid "Text (you can use inline HTML tags) will be inserted into Paragraph HTML tag of WordPress admin footer"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-design.php:1
+msgid "Text color on blue background (will be set automatically if left blank)"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-design.php:1
+msgid "Text color on dark background"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-design.php:1
+msgid "Text color on gray background (will be set automatically if left blank)"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-design.php:1
+msgid "Text color on green background (will be set automatically if left blank)"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-design.php:1
+msgid "Text color on light background"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-design.php:1
+msgid "Text color on orange background (will be set automatically if left blank)"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-design.php:1
+msgid "Text color on red background (will be set automatically if left blank)"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-design.php:1
+msgid "Text on blue color"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-design.php:1
+msgid "Text on gray color"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-design.php:1
+msgid "Text on green color"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-design.php:1
+msgid "Text on orange color"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-design.php:1
+msgid "Text on red color"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-slider.php:1
+msgid "The Juggler"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-seo.php:1
+msgid "The above option will disable breadcrumbs navigation altogether. However, it is recommended to use breadcrumbs navigation as it improves SEO. Alternatively you can choose to disable breadcrumbs only on specific website sections (see the settings below) or on specific page (see the corresponding page settings)."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-slider.php:1
+msgid "The backmost slide opacity"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-slider.php:1
+msgid "The backmost slide size"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-design.php:1
+msgid "The main link color. Will be used also on various other elements, like default button color for example."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "The theme allows you to choose from several different featured content sliders. You can find settings options for each one of them in this section. Other settings related to slider can be set on per Page basis."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "The theme allows you to set the main HTML container, main website container, header, slider, callout, main heading, clients section and footer background (and text) colors. For background you can set the color, background image (and its position) or background pattern. The pattern takes priority against the background image and color. For automatic text color please set the background color even if you are using the background image or pattern. Try to match the background color to background image (or pattern) color feel."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-seo.php:1
+msgid "The theme generates meta description automatically depending on the page you are on (from excerpt)"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-seo.php:1
+msgid "The theme generates meta keywords automatically depending on the page you are on (from categories and tags)"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "The theme is optimized for search engine and do lots of SEO trickery automatically behind the scene. Although it needs some help, so please take time to set the default meta keywords and description of your website. You can even set the meta title separator that will be displayed in the browser title bar."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-general.php:1
+msgid "The theme is using update notifier script that checks for new theme update connecting to WebMan server. If you notice slow response of WordPress admin, please try to disable update notifier as it is possible that your server can not connect and obtain correct theme version which causes the slowdown."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-design.php:1
+msgid "Theme admin panel branding"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-general.php:1
+msgid "Theme settings export / import"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-design.php:1
+msgid "These styles will be applied also on widget titles."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "This is completely optional setting."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "This is optional"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-blog.php:1
+msgid "This will affect the number of posts listed on blog page only. Other archives will display posts according to WordPress settings (check <strong>Settings / Reading</strong>). Value of \"-1\" will display all posts. When you set the value of \"0\", WordPress settings are applied."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-design.php:1
+msgid "This works only with boxed website layout. For full width layout set just Website container background."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-design.php:1
+msgid "Tile horizontally"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-design.php:1
+msgid "Tile vertically"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-slider.php:1
+msgid "Time of slide being displayed (in miliseconds)"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "To add a new social link just press the [+] button and type in the link. That's really it :). The theme will automatically assign the social network icon (not all social networks are recognized by the theme, of course - check the Social Networking option description for the list of supported networks)."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-general.php:1
+msgid "To export the current settings copy and keep (save to external file) the settings string below"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-general.php:1
+msgid "To import previously saved settings, insert the settings string below. Note that by importing new settings you will loose all current ones. Always keep the backup of current settings."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-seo.php:1
+msgid "To include Google Analytics script please use <strong>General &rarr; Tracking</strong> section of this admin panel."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "To switch the section screen select a category in the main navigation panel on the left and choose the sub section by clicking the tab in the header of each section screen. Options grouped under the section screen will be displayed."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-security.php:1
+msgid "To take the additional security steps it is recommended to install additional security plugins like:"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-design.php:1
+msgid "To upload a new image, press the [+] button and use the Media Uploader as you would be adding an image into post"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-layout.php:1
+msgid "Top bar"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-design.php:1
+msgid "Touch icon will be displayed on smartphones or in Speed Dial of Opera browser"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-general.php:1
+msgid "Tracking"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-general.php:1
+msgid "Tracking codes or custom <abbr title=\"JavaScript\">JS</abbr> scripts"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Tracking tab"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-slider.php:1
+msgid "Transition speed"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-social.php:1
+msgid "Twitter sharing"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-design.php:1
+msgid "Type in custom CSS styles. These styles will be added at the end of the main CSS stylesheet file."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-seo.php:1
+msgid "Use default WordPress meta title"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-design.php:1
+msgid "Use embedding LINK tag for custom font (obtained from <a href=\"http://www.google.com/webfonts\" target=\"_blank\">Google Web Fonts</a>, for example)"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-design.php:1
+msgid "Use image logo"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-slider.php:1
+msgid "Use slides navigation buttons"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-design.php:1
+msgid "Use website title from WordPress Settings"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/wm-options-panel.php:363
+msgid "Using %1$s theme, version %2$s"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-slider.php:1
+msgid "Vertical number of boxes for \"Rain\" and \"Boxes\" animations"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-slider.php:1
+msgid "Water Wheel"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "WebMan Admin Panel"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-seo.php:1
+msgid "Website Search Engine Optimization"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-design.php:1
+msgid "Website background color"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Website can be designed to your needs. Start by selecting the website color skin. (Note that after changing the color skin you will loose any color or font changes you made after saving the options.)"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Website color skin, Custom icons packs"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-design.php:1
+msgid "Website color skins"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-design.php:1
+msgid "Website container background"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-design.php:1
+msgid "Website container shadow transparency"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-layout.php:1
+msgid "Website content header sections"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-design.php:1
+msgid "Website footer background color"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-design.php:1
+msgid "Website footer text color"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-layout.php:1
+msgid "Website header"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-design.php:1
+msgid "Website header background color"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-design.php:1
+msgid "Website header text color"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-layout.php:1
+msgid "Website layout"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Website layout, Box padding, Portfolio list layout"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-design.php:1
+msgid "Website logo, favicon and touch icon"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-design.php:1
+msgid "Website main color skin"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-seo.php:1
+msgid "Website meta title separator"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-layout.php:1
+msgid "Website sections"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Website sections tab"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-design.php:1
+msgid "Website text color"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Welcome to beautiful WebMan Admin Panel. It is as easy to use as it gets and offers several different intuitive options fields and input types which help to set the right option values."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Well, this is completely optional"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-design.php:1
+msgid "When boxed layout used, this is the box background. Otherwise the background spreads full width of the browser window."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-general.php:1
+msgid "When setting permalinks, use URL address allowed characters only, please."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-seo.php:1
+msgid "Where to put Google Analytics code?"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-design.php:1
+msgid "Why my changes are not being applied?"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-general.php:1
+msgid "Widget areas"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Widget areas tab"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-design.php:1
+msgid "WooFunction icons pack"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-design.php:1
+msgid "WordPress admin area customization"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-security.php:1
+msgid "WordPress security tips"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-security.php:1
+msgid "WordPress version will be removed from HTML head"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Yes, you can create any number of widget areas very easily. Just pres the [+] button, type in the name of the new widget area and save the settings. The areas will be added below the predefined ones and coloured blue to separate them visually from the predefined widget areas. Please note, that when you rename already created widget area, all the widgets assigned to it will be lost, so make sure you first \"backup\" the widgets by dragging them into \"Inactive Widgets\" area of widgets management screen. To delete the area simply press the [x] button left from widget area title."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-blog.php:1
+msgid "You can choose to display all posts or posts from specific categories. Press [+] button to add a category and select the category name from dropdown list."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "You can even export all your settings. Just copy the string in Export field and paste it into an external text file. Anytime in the future you can restore those settings by copying them from the external file and pasting them into import field and save the settings. Note that by importing new settings you will loose all current ones."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-security.php:1
+msgid "You can improve your WordPress installation by these aditional steps:"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "You can place custom JavaScript code in these fields. Like Google Analytics script. Please enter the script enclosed in HTML script tags. Where you place the script (whether into HTML head or page footer) is up to you, although recommended placement is in the footer."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "You can set most of the font related settings here, even include a new custom fonts (just place the HTML link tag for your custom font stylesheet into the Custom font embeding field). It is possible to manipulate the font stacks used by the theme - just remember to separate each font with a comma (as you would in CSS stylesheet). Then assign these font stacks to general website and headings font family and set their sizes."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "You can set the basic and generalized theme settings here, like footer credits text, disabling certain custom posts, set privileges to custom posts, set comments defaults and other settings."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "You can set the layout of several website sections here. Start with website header which displays a special \"hidden\" area, that can be used for quick contact information or anything else, and status posts area. Continue with settings of main heading, callout and slider area display order. The last available settings on this screen is clients (or partners,...) list section."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-design.php:1
+msgid "You can use image or text logo."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-general.php:1
+msgid "Zoomed image size"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-design.php:1
+msgid "color scheme description"
+msgstr ""

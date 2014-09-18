@@ -1,0 +1,383 @@
+/* Core styles */
+
+/*********************************************/
+/* main elements                             */
+/*********************************************/
+
+.wm-wrap * {
+	padding: 0;
+	margin: 0;
+}
+.wm-wrap {
+	position: relative;
+	min-width: 680px;
+	max-width: 960px;
+	color: #555;
+	padding: 0 0 0 220px;
+	margin: 20px 120px 20px 20px;
+	background: #ddd;
+	background: url(../../img/bg-nav-alt.png) repeat-y 0 0;
+	border-left: 1px solid #ddd;
+	overflow: hidden;
+}
+	.wm-wrap.meta {
+		min-width: 180px;
+		max-width: 100%;
+		padding: 0;
+		margin: 20px 10px;
+		background: transparent;
+		border: none;
+	}
+.wm-wrap .option { /* for IE7 jQuery toggle bug */
+	position: relative;
+	overflow: hidden;
+}
+.wm-wrap .option.radios {padding-bottom: 20px}
+
+
+
+/*********************************************/
+/* general elements                          */
+/*********************************************/
+
+/* links */
+.wm-wrap a {
+	color: #06f;
+	text-decoration: none;
+}
+	.wm-wrap a * {cursor: pointer} /* IE */
+	.wm-wrap a:hover {color: #08f}
+	.wm-wrap a:visited {}
+
+/* text elements */
+.wm-wrap abbr {
+	border-bottom: 1px dashed;
+	cursor: help;
+}
+.wm-wrap p {
+	padding-bottom: 1.5em;
+	margin: 0 !important;
+}
+
+/* general classes */
+.wm-wrap .left {
+	float: left;
+	margin: 0 20px 0 0;
+}
+.wm-wrap .right {
+	float: right;
+	margin: 0 0 0 20px;
+}
+.wm-wrap .hidden,
+.wm-wrap .hide,
+.wm-wrap .no-js {display: none !important}
+.wm-wrap .mt0 {margin-top: 0 !important}
+.wm-wrap .pt0 {padding-top: 0 !important}
+.wm-wrap .pb0 {padding-bottom: 0 !important}
+.wm-wrap p.desc {
+	padding: 0 40px 5px 0;
+	margin: -20px 0 0 2px !important;
+	line-height: 1.4em;
+	color: #777;
+}
+.wm-wrap .rows {
+	overflow: hidden;
+	clear: both;
+	padding: 10px 0;
+}
+.wm-wrap .separator {
+	position: relative;
+	clear: both;
+	height: 0;
+	margin: 20px 0;
+	overflow: hidden;
+}
+	.wm-wrap .border-top,
+	.wm-wrap .separator {border-top: 1px solid #ddd}
+	.wm-wrap .separator.top {height: auto}
+	.wm-wrap .separator a {
+		float: right;
+		color: #999;
+	}
+.wm-wrap .border-top {padding-top: 20px}
+
+/* return messages */
+#favorite-actions {margin-right: 140px} /* creating space for status message in WP3.1 */
+#message.wm-message {
+	position: fixed;
+	display: none;
+	width: 240px;
+	padding: 20px;
+	right: 10px;
+	top: 40px;
+	background: url(../../img/transparent-black-75.png);
+	background: rgba(0, 0, 0, 0.75);
+	color: #fff;
+	overflow: hidden;
+	z-index: 9999;
+
+	-webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+	border-radius: 10px;
+}
+	.wrap > #message.wm-message {
+		display: block;
+		border: none;
+	}
+		.wrap > #message.wm-message a {color: #ccc !important}
+	#message.wm-message p {
+		display: table-cell;
+		height: 32px;
+		min-height: 32px;
+		margin: 0;
+		padding: 0 0 0 56px;
+		background: url(../../img/icons/ico-ok.png) no-repeat 0 0;
+		vertical-align: middle;
+	}
+		#message.wm-message.warning p {background-image: url(../../img/icons/ico-error.png)}
+
+.modal-box {
+	width: 320px;
+	left: 50%;
+	top: 30%;
+	margin: 0 -160px;
+	text-align: center;
+}
+	.modal-box a {
+		display: block;
+		margin: 10px 0;
+		padding-top: 6px;
+		padding-bottom: 6px;
+		cursor: pointer;
+	}
+	.modal-box a:hover {
+		font-weight: bold;
+		font-size: 1.1em;
+	}
+
+/* info boxes */
+.wm-wrap .box {
+	padding: 20px;
+	margin-bottom: 30px;
+	background: #fff;
+	border: 1px solid #ddd;
+}
+.wm-wrap .info,
+.wm-wrap .warning,
+.wm-wrap .help {
+	min-height: 28px;
+	padding: 24px 20px 20px 72px;
+	line-height: 1.4em;
+	background: #e6e6e6 url(../../img/icons/ico-info.png) no-repeat 20px 20px;
+	color: #666;
+	border: 1px solid #ddd;
+}
+.wm-wrap .warning {
+	background-image: url(../../img/icons/ico-warning.png);
+	color: #f00;
+	/* border-color: #f00; */
+}
+.wm-wrap .help {
+	background-image: url(../../img/icons/ico-help.png);
+	cursor: pointer;
+}
+	.wm-wrap .help strong {cursor: pointer}
+	.wm-wrap .help em {
+		display: none;
+		padding: 10px 0 0;
+		color: #333;
+	}
+	.wm-wrap .help:hover {
+		color: #000;
+		background-image: url(../../img/icons/ico-help-hot.png);
+	}
+
+/* sub tabs */
+.wm-wrap ul.tabs.sub {
+	display: block;
+	position: absolute;
+	height: 40px;
+	left: 0;
+	top: -70px;
+	overflow: hidden;
+}
+	.wm-wrap.meta ul.tabs {
+		display: block;
+		position: relative;
+		height: 40px;
+		padding: 0;
+		margin: 0 0 20px 0;
+		background: url(../../img/bg-tabs.png) repeat-x 0 0;
+		overflow: hidden;
+	}
+	.wm-wrap ul.tabs.sub li,
+	.wm-wrap.meta ul.tabs li {
+		float: left;
+		margin-right: 10px;
+	}
+	.wm-wrap ul.tabs.sub li a,
+	.wm-wrap.meta ul.tabs li a {
+		display: block;
+		height: 40px;
+		line-height: 40px;
+		padding: 0 20px;
+		background: #ddd;
+		color: #3e3e3e;
+	}
+		.wm-wrap.meta ul.tabs li a {
+			border-top: 1px solid #ccc;
+			border-left: 1px solid #ccc;
+			border-right: 1px solid #ccc;
+		}
+		.wm-wrap ul.tabs.sub li a:hover,
+		.wm-wrap.meta ul.tabs li a:hover {background: #ddd}
+		.wm-wrap ul.tabs.sub li.active a {color: #000}
+		.wm-wrap.meta ul.tabs li.ui-state-active a {color: #000}
+
+/* buttons */
+.wm-wrap .button {color: #464646}
+.wm-wrap .button:hover {color: #000}
+.wm-wrap .button-primary {color: #fff}
+.wm-wrap .button-primary:hover {color: #EAF2FA}
+.wm-wrap .desc .button,
+.wm-wrap .desc .button-primary {
+	display: inline-block;
+	width: auto;
+	margin-top: 10px;
+	font-weight: normal;
+}
+.wm-wrap .btn {border: none}
+.wm-wrap .btn-add,
+.wm-wrap .btn-remove,
+.wm-wrap .btn-default,
+.wm-wrap .btn-preview {
+	display: block;
+	float: left;
+	width: 40px;
+	height: 40px;
+	margin: 5px 0 0 0;
+	text-indent: -999em;
+	background: url(../../img/buttons/btn-add.png) no-repeat left;
+	vertical-align: middle;
+	cursor: pointer;
+}
+	.wm-wrap .add-items .btn-add {
+		float: none;
+		margin: -5px 10px 10px 0;
+	}
+.wm-wrap .btn-remove {background: url(../../img/buttons/btn-remove.png) no-repeat left}
+.wm-wrap .btn-default {
+	float: right;
+	background: url(../../img/buttons/btn-default.png) no-repeat left;
+}
+	.wm-wrap .btn-default span {display: none}
+.wm-wrap .btn-preview {background: url(../../img/buttons/btn-preview.png) no-repeat left}
+
+.wm-wrap .btn-add:hover,
+.wm-wrap .btn-remove:hover,
+.wm-wrap .btn-default:hover,
+.wm-wrap .btn-preview:hover {background-position: center}
+.wm-wrap .btn-add:active,
+.wm-wrap .btn-remove:active,
+.wm-wrap .btn-default:active,
+.wm-wrap .btn-preview:active {background-position: right}
+
+/* color picker */
+.wm-wrap .color-wrapper {
+	overflow: hidden;
+	padding-bottom: 1.5em;
+}
+	.wm-wrap .color-wrapper label {line-height: 1.4em}
+	.wm-wrap .color-wrapper p {padding: 0}
+		.wm-wrap .color-wrapper p.desc {
+			line-height: 1.4em;
+			padding: 0 0 0 38px;
+			margin: 6px 0 0 !important;
+		}
+		.wm-wrap .color-wrapper p span {color: #999}
+	.wm-wrap .color-select {
+		position: relative;
+		display: inline-block;
+		vertical-align: bottom;
+		width: 28px;
+		height: 40px;
+		margin-right: 5px;
+		background: #f2f2f2;
+		cursor: pointer;
+	}
+	.wm-wrap .color-select .color-display {
+		position: absolute;
+		display: block;
+		top: 6px;
+		left: 0;
+		width: 28px;
+		height: 28px;
+		background: url(../../img/buttons/select-alt.png) center;
+	}
+
+/* sorting */
+.wm-wrap .sort-handle {
+	display: inline-block;
+	width: 20px;
+	height: 40px;
+	line-height: 40px;
+	text-align: center;
+	margin: 5px 0 0 1px;
+	color: #999;
+	background: #666;
+	vertical-align: middle;
+	cursor: move;
+	-webkit-border-top-right-radius: 5px;
+	-webkit-border-bottom-right-radius: 5px;
+	-moz-border-radius-topright: 5px;
+	-moz-border-radius-bottomright: 5px;
+	border-top-right-radius: 5px;
+	border-bottom-right-radius: 5px;
+}
+
+/* image uploader */
+.wm-wrap .image-container {
+	position: relative;
+	min-width: 60px;
+	min-height: 30px;
+	max-width: 300px;
+	max-height: 150px;
+	margin: 0 0 20px 0;
+	background: #48e url(../../img/gradient-top.png) repeat-x top;
+	border: 10px solid #DEDEDE;
+	overflow: hidden;
+	text-align: center;
+}
+	.wm-wrap .image-container em {
+		position: absolute;
+		display: none;
+		left: 0;
+		top: 0;
+		padding: 0 10px 5px 0;
+		line-height: 1em;
+		background: #DEDEDE;
+		color: #666;
+	}
+	.wm-wrap .image-container img {
+		max-width: 300px;
+		max-height: 140px;
+		padding: 5px;
+		vertical-align: top;
+	}
+
+/* colorpicker */
+.colorpicker {z-index: 10}
+
+/* dropcaps */
+.dropcap {
+	float: left;
+	display: block;
+	width: 35px;
+	margin: 4px 8px 0px 0px;
+	line-height: 35px;
+	text-align: center;
+	color: #fff;
+	background-color: #000;
+}
+
+

@@ -1,0 +1,3200 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. Text in function
+#: jaguar-translate/library/updater/update-notifier.php:1
+msgid "%s Theme Updates"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/form-generator.php:1843
+msgid "&uarr; Top of the page"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/core.php:1
+msgid "- All posts (%d) -"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/core.php:1
+msgid "- All projects (%d) -"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/core.php:1
+msgid "- All slides (%d) -"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/core.php:1
+msgid "- None -"
+msgstr ""
+
+#. Text in echo
+#: jaguar-translate/library/widgets/w-cpmodules.php:93
+msgid "- Select Content Module -"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/core.php:1
+msgid "- Select area -"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/m-cp-portfolio.php:1
+msgid "- Select client -"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/core.php:1
+#: jaguar-translate/library/widgets/w-pagecontent.php:83
+msgid "- Select page -"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/core.php:1
+msgid "- Select portfolio category -"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/core.php:1
+msgid "- Select posts category -"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/core.php:1
+msgid "- Select slides category -"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/admin.php:1
+msgid "- automatic accordion"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/admin.php:1
+msgid "- icon \"Cancel\""
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/admin.php:1
+msgid "- icon \"Check\""
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/admin.php:1
+msgid "- icon \"Info\""
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/admin.php:1
+msgid "- icon \"Question\""
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/admin.php:1
+msgid "- icon \"Warning\""
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/admin.php:1
+msgid "- large size"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/admin.php:1
+msgid "- last column in row"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/admin.php:1
+msgid "- medium size"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/a-meta-page.php:1
+msgid "- no slider -"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/widgets/w-cpportfolio.php:201
+msgid "- theme default -"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/widgets/w-cpportfolio.php:201
+msgid "1 column"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/widgets/w-postslist.php:174
+msgid "10 words"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/widgets/w-postslist.php:174
+msgid "15 words"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/widgets/w-cpportfolio.php:201
+msgid "2 columns"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/widgets/w-postslist.php:174
+msgid "20 words"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/widgets/w-postslist.php:174
+msgid "25 words"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/widgets/w-cpportfolio.php:201
+msgid "3 columns"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/widgets/w-postslist.php:174
+msgid "30 words"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/widgets/w-postslist.php:174
+msgid "35 words"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/widgets/w-cpportfolio.php:201
+msgid "4 columns"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/widgets/w-postslist.php:174
+msgid "40 words"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/widgets/w-postslist.php:174
+msgid "5 words"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/updater/update-notifier.php:95
+msgid "<strong>%s</strong> Theme Updates"
+msgstr ""
+
+#. Text in echo
+#: jaguar-translate/library/updater/update-notifier.php:115
+msgid "<strong>Note:</strong> <em>If you didn't make any changes to the theme files, you are free to overwrite them with the new ones without the risk of losing theme settings, pages, posts, etc, and backwards compatibility is guaranteed. In case you have made changes to the theme files, make sure you have a backup copy of the theme files before you overwrite them.</em>"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/custom-posts/ct-taxonomies.php:1
+msgid "A job position of this team member"
+msgstr ""
+
+#. Text in echo
+#: jaguar-translate/library/widgets/w-pagecontent.php:81
+msgid "A page to display:"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/admin.php:1
+msgid "ACCORDION"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/custom-posts/cp-team.php:1
+msgid "About"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/admin.php:1
+msgid "Accordion wrapper"
+msgstr ""
+
+#. Text in echo
+#: jaguar-translate/library/form-generator.php:1547
+msgid "Add an item"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/custom-posts/ct-taxonomies.php:1
+msgid "Add new category"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/custom-posts/cp-clients.php:1
+msgid "Add new client"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/custom-posts/cp-team.php:1
+msgid "Add new member"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/custom-posts/cp-modules.php:1
+msgid "Add new module"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/custom-posts/ct-taxonomies.php:1
+msgid "Add new position"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/custom-posts/cp-slides.php:1
+msgid "Add new slide"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/a-meta-page.php:1
+msgid "Add widget areas displayed on this page"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/admin.php:1
+msgid "Adding icon to message box"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/m-cp-slides.php:1
+msgid "Additional slide description text"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/a-meta-page.php:1
+msgid "Address"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/a-meta-page.php:1
+msgid "Address line 1"
+msgstr ""
+
+#. Text in echo
+#: jaguar-translate/library/widgets/w-contact.php:89
+msgid "Address line 1:"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/a-meta-page.php:1
+msgid "Address line 2"
+msgstr ""
+
+#. Text in echo
+#: jaguar-translate/library/widgets/w-contact.php:93
+msgid "Address line 2:"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/a-meta-page.php:1
+msgid "Adjust Roundabout slider width"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/custom-posts/ct-taxonomies.php:1
+msgid "All categories"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/custom-posts/ct-taxonomies.php:1
+msgid "All positions"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/a-meta-page.php:1
+msgid "Alphabetically"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/shortcodes/a-shortcodes.php:1
+msgid "Apply"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/shortcodes/shortcodes-generator.php:1
+msgid "Apply changes"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/shortcodes/a-shortcodes.php:1
+msgid "Apply link"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/admin.php:1
+msgid "Apply on last column in row"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/admin.php:1
+msgid "Apply on selected heading and subsequent text"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/admin.php:1
+msgid "Apply on selected image"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/admin.php:1
+msgid "Apply on selected letter"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/admin.php:1
+msgid "Apply on selected link, that will be transformed to button"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/admin.php:1
+msgid "Apply on selected paragraph, address or heading element"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/admin.php:1
+msgid "Apply on selected text"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/admin.php:1
+msgid "Apply on selected unformated text"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/admin.php:1
+msgid "Apply on selected unformated text (do not apply on blockquote elements)"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/admin.php:1
+msgid "Apply on selected unformated text inside accordion section (list item)"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/admin.php:1
+msgid "Apply on selected unformated text inside tab section (list item)"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/admin.php:1
+msgid "Apply on selected unformated text. You can format the text afterwards."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/admin.php:1
+msgid "Apply on selected unordered list"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/admin.php:1
+msgid "Apply on toggle heading (first heading in selected text section)"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/m-cp-portfolio.php:1
+msgid "Apply the project URL link directly on the item in portfolio list"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/shortcodes/a-shortcodes.php:1
+msgid "Area to display"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/admin.php:1
+msgid "Arrow (inverted) list"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/admin.php:1
+msgid "Arrow list"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/form-generator.php:1767
+msgid "Attribute"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/admin.php:1
+msgid "BUTTONS"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/a-meta-page.php:1
+#: jaguar-translate/library/meta/m-cp-portfolio.php:1
+msgid "Background image attachment"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/a-meta-page.php:1
+#: jaguar-translate/library/meta/m-cp-portfolio.php:1
+msgid "Background image position"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/a-meta-page.php:1
+#: jaguar-translate/library/meta/m-cp-portfolio.php:1
+msgid "Background image repeat"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/admin.php:1
+msgid "Big text"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/core.php:1424
+msgid "Blog featured image"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/a-meta-page.php:1
+#: jaguar-translate/library/admin.php:1
+msgid "Blue button"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/admin.php:1
+msgid "Blue marker"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/shortcodes/a-shortcodes.php:1
+msgid "Border"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/m-cp-slides.php:1
+msgid "Bottom"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/a-meta-page.php:1
+msgid "Button color"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/a-meta-page.php:1
+msgid "Button link"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/shortcodes/a-shortcodes.php:1
+#: jaguar-translate/library/meta/a-meta-page.php:1
+msgid "Button text"
+msgstr ""
+
+#. Text in echo
+#: jaguar-translate/library/widgets/w-pagecontent.php:102
+#: jaguar-translate/library/widgets/w-cpmodules.php:110
+msgid "Button title:"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/admin.php:1
+msgid "CODE"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/admin.php:1
+msgid "COLUMNS"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/a-meta-page.php:1
+msgid "Callout"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/a-meta-page.php:1
+msgid "Callout button URL link"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/a-meta-page.php:1
+msgid "Callout button text (required for button to be displayed)"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/a-meta-page.php:1
+msgid "Callout text (required for callout to be displayed)"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/custom-posts/cp-slides.php:1
+msgid "Category"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/a-meta-page.php:1
+#: jaguar-translate/library/meta/m-cp-portfolio.php:1
+msgid "Center"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/a-meta-page.php:1
+#: jaguar-translate/library/meta/m-cp-portfolio.php:1
+msgid "Center horizontally, bottom"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/a-meta-page.php:1
+#: jaguar-translate/library/meta/m-cp-portfolio.php:1
+msgid "Center horizontally, top"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/shortcodes/a-shortcodes.php:1
+msgid "Centered"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/admin.php:1
+msgid "Check (inverted) list"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/admin.php:1
+msgid "Check list"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/a-meta-post.php:1
+#: jaguar-translate/library/meta/a-meta-page.php:1
+msgid "Choose a sidebar"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/a-meta-post.php:1
+#: jaguar-translate/library/meta/a-meta-page.php:1
+msgid "Choose a sidebar position on the page (set the first one to use the theme default settings)"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/m-cp-modules.php:1
+msgid "Choose an icon to use with this Icon module. Featured image is prioritized and will be used as an icon when Content type is set to \"Icon module\"."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/a-meta-page.php:1
+msgid "Choose how portfolio items are being displayed"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/a-meta-page.php:1
+#: jaguar-translate/library/meta/m-cp-portfolio.php:1
+msgid "Choose slider images"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/a-meta-page.php:1
+msgid "Choose what type of button is displayed"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/a-meta-page.php:1
+msgid "Choose which content type will populate the slider"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/a-meta-page.php:1
+msgid "Choose which image size should be used in slider"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/shortcodes/a-shortcodes.php:1
+msgid "Choose which layout to use"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/a-meta-page.php:1
+msgid "Choose which slides category items will populate the slider"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/a-meta-page.php:1
+msgid "Choose, how the portfolio list will be displayed"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/a-meta-page.php:1
+msgid "City"
+msgstr ""
+
+#. Text in echo
+#: jaguar-translate/library/widgets/w-contact.php:98
+msgid "City:"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/form-generator.php:1767
+msgid "Click the pattern for preview"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/custom-posts/cp-clients.php:1
+#: jaguar-translate/library/meta/m-cp-portfolio.php:1
+msgid "Client"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/custom-posts/cp-clients.php:1
+msgid "Client URL"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/custom-posts/cp-clients.php:1
+msgid "Client draft updated."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/m-cp-clients.php:1
+msgid "Client info"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/custom-posts/cp-clients.php:1
+msgid "Client name"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/custom-posts/cp-clients.php:1
+msgid "Client published."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/custom-posts/cp-clients.php:1
+msgid "Client restored to revision from %s"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/custom-posts/cp-clients.php:1
+msgid "Client saved."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/custom-posts/cp-clients.php:1
+msgid "Client scheduled for: <strong>%1$s</strong>."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/custom-posts/cp-clients.php:1
+msgid "Client submitted."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/custom-posts/cp-clients.php:1
+msgid "Client updated."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/admin.php:1
+msgid "Client's name"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/custom-posts/cp-clients.php:1
+msgid "Clients"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/admin.php:1
+msgid "Column 1/2"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/admin.php:1
+msgid "Column 1/3"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/admin.php:1
+msgid "Column 1/4"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/admin.php:1
+msgid "Column 1/5"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/admin.php:1
+msgid "Column 1/6"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/admin.php:1
+msgid "Column 2/3"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/admin.php:1
+msgid "Column 2/5"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/admin.php:1
+msgid "Column 3/4"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/admin.php:1
+msgid "Column 3/5"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/admin.php:1
+msgid "Column 4/5"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/admin.php:1
+msgid "Column 5/6"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/widgets/w-contact.php:1
+#: jaguar-translate/library/meta/a-meta-page.php:1
+msgid "Contact"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/shortcodes/a-shortcodes.php:1
+#: jaguar-translate/library/widgets/w-cpmodules.php:1
+msgid "Content Module"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/m-cp-modules.php:1
+msgid "Content Module settings"
+msgstr ""
+
+#. Text in echo
+#: jaguar-translate/library/widgets/w-cpmodules.php:91
+msgid "Content Module to display:"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/custom-posts/cp-modules.php:1
+msgid "Content Modules"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/custom-posts/cp-modules.php:1
+#: jaguar-translate/library/meta/m-cp-modules.php:1
+msgid "Content module"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/m-cp-modules.php:1
+msgid "Content module settings"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/m-cp-modules.php:1
+msgid "Content type"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/a-meta-page.php:1
+msgid "Country"
+msgstr ""
+
+#. Text in echo
+#: jaguar-translate/library/widgets/w-contact.php:108
+msgid "Country:"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/custom-posts/cp-clients.php:1
+#: jaguar-translate/library/custom-posts/cp-modules.php:1
+#: jaguar-translate/library/custom-posts/cp-slides.php:1
+#: jaguar-translate/library/custom-posts/cp-team.php:1
+msgid "Created by"
+msgstr ""
+
+#. Text in echo
+#: jaguar-translate/library/widgets/w-pagecontent.php:96
+msgid "Custom URL:"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/a-meta-page.php:1
+#: jaguar-translate/library/meta/m-cp-portfolio.php:1
+msgid "Custom background image"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/custom-posts/cp-clients.php:1
+#: jaguar-translate/library/custom-posts/cp-modules.php:1
+#: jaguar-translate/library/custom-posts/cp-slides.php:1
+#: jaguar-translate/library/custom-posts/cp-team.php:1
+msgid "Custom field deleted."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/custom-posts/cp-clients.php:1
+#: jaguar-translate/library/custom-posts/cp-modules.php:1
+#: jaguar-translate/library/custom-posts/cp-slides.php:1
+#: jaguar-translate/library/custom-posts/cp-team.php:1
+msgid "Custom field updated."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/m-cp-portfolio.php:1
+msgid "Custom image displayed in portfolio list"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/m-cp-modules.php:1
+msgid "Custom link to more information on the topic"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-general.php:1
+msgid "Custom widget area"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/sidebars.php:1
+msgid "Custom widget area created in %s admin panel. Flexible layout, maximum 5 widgets (when displayed horizontally)."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/admin.php:1
+msgid "DROPCAPS"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/shortcodes/a-shortcodes.php:1
+msgid "Default"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/a-meta-page.php:1
+msgid "Default slider images"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/styles/a-layouts.php:1
+msgid "Default theme settings"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/form-generator.php:1651
+#: jaguar-translate/library/form-generator.php:610
+#: jaguar-translate/library/form-generator.php:1136
+#: jaguar-translate/library/form-generator.php:1311
+#: jaguar-translate/library/form-generator.php:1586
+msgid "Default value"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/shortcodes/a-shortcodes.php:1
+msgid "Define map height (in pixels)"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/shortcodes/a-shortcodes.php:1
+msgid "Define map width (in pixels)"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/shortcodes/a-shortcodes.php:1
+msgid "Define video height (in pixels)"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/shortcodes/a-shortcodes.php:1
+msgid "Define video width (in pixels)"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/a-meta-page.php:1
+#: jaguar-translate/library/meta/m-cp-portfolio.php:1
+msgid "Design"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/shortcodes/a-shortcodes.php:1
+msgid "Devider"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/shortcodes/a-shortcodes.php:1
+msgid "Disable"
+msgstr ""
+
+#. Text in echo
+#: jaguar-translate/library/widgets/w-cpmodules.php:117
+msgid "Disable Content Module custom link"
+msgstr ""
+
+#. Text in echo
+#: jaguar-translate/library/widgets/w-cpmodules.php:122
+msgid "Disable Content Module title"
+msgstr ""
+
+#. Text in echo
+#: jaguar-translate/library/widgets/w-twitter.php:90
+msgid "Disable Twitter user info"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/a-meta-post.php:1
+msgid "Disable author details"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/a-meta-post.php:1
+#: jaguar-translate/library/meta/a-meta-page.php:1
+msgid "Disable breadcrumbs"
+msgstr ""
+
+#. Text in echo
+#: jaguar-translate/library/widgets/w-postslist.php:163
+msgid "Disable excerpt text"
+msgstr ""
+
+#. Text in echo
+#: jaguar-translate/library/widgets/w-pagecontent.php:114
+#: jaguar-translate/library/widgets/w-cpmodules.php:127
+msgid "Disable featured image"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/a-meta-post.php:1
+#: jaguar-translate/library/meta/a-meta-page.php:1
+#: jaguar-translate/library/meta/m-cp-portfolio.php:1
+msgid "Disable main heading"
+msgstr ""
+
+#. Text in echo
+#: jaguar-translate/library/widgets/w-postslist.php:168
+msgid "Disable more link"
+msgstr ""
+
+#. Text in echo
+#: jaguar-translate/library/widgets/w-pagecontent.php:109
+msgid "Disable page title"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/a-meta-page.php:1
+msgid "Disable portfolio categories"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/a-meta-page.php:1
+msgid "Disable portfolio pagination"
+msgstr ""
+
+#. Text in echo
+#: jaguar-translate/library/widgets/w-postslist.php:158
+msgid "Disable publish date"
+msgstr ""
+
+#. Text in echo
+#: jaguar-translate/library/widgets/w-postslist.php:153
+msgid "Disable thumbnail image"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/a-meta-post.php:1
+#: jaguar-translate/library/meta/a-meta-page.php:1
+msgid "Disable top bar"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/m-cp-portfolio.php:1
+msgid "Disables PrettyPhoto zooming effect on images"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/a-meta-post.php:1
+msgid "Disables author information below the post content"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/a-meta-post.php:1
+#: jaguar-translate/library/meta/a-meta-page.php:1
+msgid "Disables breadcrumbs navigation on this page"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/m-cp-slides.php:1
+msgid "Disables slide title"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/a-meta-post.php:1
+#: jaguar-translate/library/meta/a-meta-page.php:1
+msgid "Disables top bar widget area on this page"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/shortcodes/a-shortcodes.php:1
+msgid "Display bubble"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/a-meta-page.php:1
+msgid "Display excluded images below the page"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/a-meta-post.php:1
+msgid "Display excluded images below the post"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/widgets/w-contact.php:1
+msgid "Displays a contact information"
+msgstr ""
+
+#. Text in echo
+#: jaguar-translate/library/widgets/w-subpages.php:68
+msgid "Displays a hierarchical list of subpages and siblings pages for the current page (page submenu)."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/widgets/w-cpportfolio.php:1
+msgid "Displays a list of portfolio items"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/widgets/w-postslist.php:1
+msgid "Displays a list of recent, popular, random or upcoming posts with thumbnail images"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/widgets/w-subpages.php:1
+msgid "Displays a list of subpages (submenu)"
+msgstr ""
+
+#. Text in echo
+#: jaguar-translate/library/widgets/w-postslist.php:77
+msgid "Displays advanced posts list. You can set multiple post categories, just press [CTRL] key and click the category names. Note that only standard and gallery post formats will be displayed in the list."
+msgstr ""
+
+#. Text in echo
+#: jaguar-translate/library/widgets/w-cpmodules.php:74
+msgid "Displays content of the specific Content Module custom post. Please choose the Content Module and set other options."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/widgets/w-cpmodules.php:1
+msgid "Displays content of the specific Content Module post"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/widgets/w-pagecontent.php:1
+msgid "Displays content of the specific Page"
+msgstr ""
+
+#. Text in echo
+#: jaguar-translate/library/widgets/w-pagecontent.php:73
+msgid "Displays content of the specific page. Please choose the page and set other options."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/m-cp-portfolio.php:1
+msgid "Displays gallery from attached images below portfolio item preview"
+msgstr ""
+
+#. Text in echo
+#: jaguar-translate/library/widgets/w-cpportfolio.php:72
+msgid "Displays list of portfolio items from all categories. Please set the list type and number of items to display."
+msgstr ""
+
+#. Text in echo
+#: jaguar-translate/library/widgets/w-twitter.php:71
+msgid "Displays recent tweets from specific Twitter account. Also displays Twitter account details. Tweets are being cached to reduce the page load."
+msgstr ""
+
+#. Text in echo
+#: jaguar-translate/library/widgets/w-contact.php:76
+msgid "Displays specially styled contact information. If the field is left empty, the information will not be displayed. JavaScript anti-spam protection will be applied on the email address (also, email will not be displayed when JavaScript is turned off)."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/a-meta-page.php:1
+msgid "Displays these excluded images in a new gallery below the page content"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/a-meta-post.php:1
+msgid "Displays these excluded images in a new gallery below the post content"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/widgets/w-twitter.php:1
+msgid "Displays your recent tweets"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/m-cp-portfolio.php:1
+msgid "Do not crop images"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/m-cp-slides.php:1
+#: jaguar-translate/library/meta/m-cp-portfolio.php:1
+msgid "Do not forget to set the featured image."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/a-meta-page.php:1
+msgid "Do not hide filter categories"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/a-meta-page.php:1
+#: jaguar-translate/library/meta/m-cp-portfolio.php:1
+msgid "Do not repeat the image"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/custom-posts/ct-taxonomies.php:1
+msgid "Edit category"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/custom-posts/cp-clients.php:1
+msgid "Edit client"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/custom-posts/cp-team.php:1
+msgid "Edit member"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/custom-posts/cp-modules.php:1
+msgid "Edit module"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/custom-posts/ct-taxonomies.php:1
+msgid "Edit position"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/custom-posts/cp-slides.php:1
+msgid "Edit slide"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/a-meta-page.php:1
+msgid "Email"
+msgstr ""
+
+#. Text in echo
+#: jaguar-translate/library/widgets/w-contact.php:118
+msgid "Email address (JavaScript anti-spam protection applied):"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/a-meta-page.php:1
+msgid "Enable filterable portfolio items. Note that all portfolio items (from the category if set previously) will be listed on the page with no pagination applied."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/a-meta-page.php:1
+msgid "Enable slider"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/a-meta-page.php:1
+msgid "Enter a slider more link when static featured image is used"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/a-meta-page.php:1
+msgid "Enter city or town name here"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/a-meta-page.php:1
+msgid "Enter country / state here"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/a-meta-page.php:1
+msgid "Enter email address here (JavaScript antispam filter will be applied on the address)"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/a-meta-page.php:1
+#: jaguar-translate/library/meta/m-cp-portfolio.php:1
+msgid "Enter full video URL (check the <a href=\"http://codex.wordpress.org/Embeds#Can_I_Use_Any_URL_With_This.3F\" target=\"_blank\">list of supported video portals</a>)"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/a-meta-page.php:1
+msgid "Enter phone numbers here"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/a-meta-page.php:1
+msgid "Enter the postal code here"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/admin.php:1
+msgid "Error (red)"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/widgets/a-areas.php:1
+msgid "Error 404 Page"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/widgets/a-areas.php:1
+msgid "Error 404 page widget area below error explanation. Flexible layout, maximum 5 widgets."
+msgstr ""
+
+#. Text in echo
+#: jaguar-translate/library/widgets/w-postslist.php:104
+msgid "Excerpt length:"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/a-meta-post.php:1
+#: jaguar-translate/library/meta/a-meta-page.php:1
+msgid "Exclude gallery images"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/a-meta-page.php:1
+msgid "Exclude images from image gallery shortcode used in the page content"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/a-meta-post.php:1
+msgid "Exclude images from image gallery shortcode used in the post content"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/m-cp-team.php:1
+msgid "Facebook"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/m-cp-slides.php:1
+msgid "Fading"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/a-meta-page.php:1
+msgid "Filter categories are being displayed all the time"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/a-meta-page.php:1
+msgid "Filterable list"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/a-meta-page.php:1
+msgid "First address line"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/styles/a-layouts.php:1
+msgid "First portfolio description, then portfolio preview"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/styles/a-layouts.php:1
+msgid "First portfolio preview, then portfolio description"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/a-meta-page.php:1
+#: jaguar-translate/library/meta/m-cp-portfolio.php:1
+msgid "Fit browser window width"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/a-meta-page.php:1
+#: jaguar-translate/library/meta/m-cp-portfolio.php:1
+msgid "Fixed position"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/widgets/a-areas.php:1
+msgid "Flexible layout, maximum 2 widgets. Recommended widgets are Custom menu, Text or Search."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/widgets/a-areas.php:1
+msgid "Flexible layout, maximum 5 widgets."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/widgets/a-areas.php:1
+msgid "Footer Widgets"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/setup.php:1
+msgid "Footer navigation"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/styles/a-layouts.php:1
+msgid "Four columns"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/styles/a-layouts.php:1
+msgid "Four columns preview with basic info"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/admin.php:1
+msgid "Framed image"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/admin.php:1
+msgid "Full name"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/a-meta-page.php:1
+msgid "Full size images"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/a-meta-post.php:1
+#: jaguar-translate/library/meta/a-meta-page.php:1
+#: jaguar-translate/library/meta/m-cp-portfolio.php:1
+msgid "Gallery"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/m-cp-portfolio.php:1
+msgid "Gallery below portfolio item preview"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/a-meta-post.php:1
+#: jaguar-translate/library/meta/a-meta-page.php:1
+#: jaguar-translate/library/meta/m-cp-portfolio.php:1
+msgid "Gallery columns"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/a-meta-post.php:1
+#: jaguar-translate/library/meta/a-meta-page.php:1
+#: jaguar-translate/library/meta/m-cp-portfolio.php:1
+msgid "General"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/admin.php:1
+msgid "General (gray)"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/widgets/a-areas.php:1
+msgid "General Sidebar"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/m-cp-slides.php:1
+msgid "General settings"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/shortcodes/a-shortcodes.php:1
+msgid "Google Map"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/m-cp-team.php:1
+msgid "Google+"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/a-meta-page.php:1
+#: jaguar-translate/library/admin.php:1
+msgid "Gray button"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/admin.php:1
+msgid "Gray marker"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/a-meta-page.php:1
+#: jaguar-translate/library/admin.php:1
+msgid "Green button"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/admin.php:1
+msgid "Green marker"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/widgets/a-areas.php:1
+msgid "Header Right"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/shortcodes/a-shortcodes.php:1
+msgid "Height of empty space after devider (in pixels)"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/shortcodes/a-shortcodes.php:1
+msgid "Hide"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/m-cp-slides.php:1
+msgid "Hide title"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/m-cp-portfolio.php:1
+msgid "Hides main heading - the title"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/a-meta-page.php:1
+msgid "Hides page main heading - the title"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/a-meta-post.php:1
+msgid "Hides post main heading - the title"
+msgstr ""
+
+#. Text in echo
+#: jaguar-translate/library/widgets/w-postslist.php:143
+msgid "Hold down control key for multiselection"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/widgets/w-postslist.php:174
+msgid "Horizontal 1/2"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/widgets/w-postslist.php:174
+msgid "Horizontal 1/3"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/widgets/w-postslist.php:174
+msgid "Horizontal 1/4"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/widgets/w-postslist.php:174
+msgid "Horizontal 1/5"
+msgstr ""
+
+#. Text in echo
+#: jaguar-translate/library/widgets/w-cpportfolio.php:107
+msgid "Horizontal layout:"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/m-cp-modules.php:1
+msgid "Icon"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/m-cp-modules.php:1
+msgid "Icon module"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/a-meta-post.php:1
+#: jaguar-translate/library/meta/a-meta-page.php:1
+#: jaguar-translate/library/meta/m-cp-portfolio.php:1
+msgid "If defined, the specially styled subtitle will be displayed"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/a-meta-page.php:1
+msgid "If set, displays a widget area below the portfolio items list"
+msgstr ""
+
+#. Text in echo
+#: jaguar-translate/library/widgets/w-subpages.php:73
+msgid "If you leave blank, the main parent page title will be displayed."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/custom-posts/cp-slides.php:1
+#: jaguar-translate/library/custom-posts/cp-team.php:1
+#: jaguar-translate/library/admin.php:1
+msgid "Image"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/custom-posts/cp-modules.php:1
+msgid "Image <small>[type]</small>"
+msgstr ""
+
+#. Text in echo
+#: jaguar-translate/library/form-generator.php:1220
+msgid "Image full size preview"
+msgstr ""
+
+#. Text in echo
+#: jaguar-translate/library/form-generator.php:1219
+#: jaguar-translate/library/form-generator.php:1233
+msgid "Image preview"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/m-cp-portfolio.php:1
+msgid "Image slider"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/m-cp-portfolio.php:1
+msgid "Images will not be cropped, original proportions are kept"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/admin.php:1
+msgid "Info (blue)"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/admin.php:1
+msgid "Inline code"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/shortcodes/shortcodes-generator.php:1
+msgid "Insert into editor"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/shortcodes/a-shortcodes.php:1
+msgid "Insert more info link button text"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/shortcodes/a-shortcodes.php:1
+msgid "Insert video ID obtained from Vimeo"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/shortcodes/a-shortcodes.php:1
+msgid "Insert video ID obtained from YouTube"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/shortcodes/a-shortcodes.php:1
+msgid "Insert video URL"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/setup.php:1
+msgid "It seems something went wrong..."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/m-cp-portfolio.php:1
+msgid "Keep image proportions"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/m-cp-portfolio.php:1
+msgid "Keeps aspect ratio of slider images"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/a-meta-page.php:1
+msgid "Kwicks Accordion"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/admin.php:1
+msgid "LIST ITEMS"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/styles/a-layouts.php:1
+msgid "Large preview and item description"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/shortcodes/a-shortcodes.php:1
+msgid "Layout"
+msgstr ""
+
+#. Text in echo
+#: jaguar-translate/library/widgets/w-pagecontent.php:104
+#: jaguar-translate/library/widgets/w-cpmodules.php:112
+msgid "Leave empty to hide the button"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/m-cp-slides.php:1
+msgid "Left"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/admin.php:1
+msgid "Left pullquote"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/a-meta-page.php:1
+#: jaguar-translate/library/meta/m-cp-portfolio.php:1
+msgid "Left, bottom"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/a-meta-page.php:1
+#: jaguar-translate/library/meta/m-cp-portfolio.php:1
+msgid "Left, center vertically"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/a-meta-page.php:1
+#: jaguar-translate/library/meta/m-cp-portfolio.php:1
+msgid "Left, top"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/m-cp-slides.php:1
+msgid "Link button text"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/a-meta-page.php:1
+msgid "Link color button (default)"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/m-cp-team.php:1
+msgid "Link to Facebook profile"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/m-cp-team.php:1
+msgid "Link to Google+ profile"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/m-cp-team.php:1
+msgid "Link to Twitter profile"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/m-cp-slides.php:1
+msgid "Link to more information on the topic"
+msgstr ""
+
+#. Text in echo
+#: jaguar-translate/library/form-generator.php:1090
+msgid "Link to the image"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/m-cp-portfolio.php:1
+msgid "List image"
+msgstr ""
+
+#. Text in echo
+#: jaguar-translate/library/widgets/w-postslist.php:172
+msgid "List layout:"
+msgstr ""
+
+#. Text in echo
+#: jaguar-translate/library/widgets/w-postslist.php:85
+#: jaguar-translate/library/widgets/w-cpportfolio.php:85
+msgid "List type:"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/shortcodes/a-shortcodes.php:1
+msgid "Location"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/custom-posts/cp-clients.php:1
+msgid "Logo"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/admin.php:1
+msgid "MARKERS"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/admin.php:1
+msgid "MESSAGE BOXES"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/setup.php:1
+msgid "Main navigation"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/a-meta-page.php:1
+#: jaguar-translate/library/meta/m-cp-portfolio.php:1
+msgid "Makes the image to scale to browser window width. Note that background image position and repeat options does not apply when this is checked."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/a-meta-page.php:1
+msgid "Map URL"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/shortcodes/a-shortcodes.php:1
+msgid "Map height"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/a-meta-page.php:1
+msgid "Map link obtained from Google Maps (or leave blank and map will set the location on the address below)"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/shortcodes/a-shortcodes.php:1
+msgid "Map width"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/a-meta-page.php:1
+msgid "Map zoom"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/a-meta-page.php:1
+msgid "Map zoom on location"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/a-meta-page.php:1
+msgid "Maximum number of slides (items) to be displayed in the slider"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/m-cp-team.php:1
+msgid "Member bio"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/custom-posts/cp-team.php:1
+msgid "Member info draft updated."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/custom-posts/cp-team.php:1
+msgid "Member info published."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/custom-posts/cp-team.php:1
+msgid "Member info restored to revision from %s"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/custom-posts/cp-team.php:1
+msgid "Member info saved."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/custom-posts/cp-team.php:1
+msgid "Member info scheduled for: <strong>%1$s</strong>."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/custom-posts/cp-team.php:1
+msgid "Member info submitted."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/custom-posts/cp-team.php:1
+msgid "Member info updated."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/m-cp-team.php:1
+msgid "Member information"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/custom-posts/cp-modules.php:1
+msgid "Module draft updated."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/custom-posts/cp-modules.php:1
+msgid "Module published."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/custom-posts/cp-modules.php:1
+msgid "Module restored to revision from %s"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/custom-posts/cp-modules.php:1
+msgid "Module saved."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/custom-posts/cp-modules.php:1
+msgid "Module scheduled for: <strong>%1$s</strong>."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/custom-posts/cp-modules.php:1
+msgid "Module submitted."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/shortcodes/a-shortcodes.php:1
+msgid "Module title"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/custom-posts/cp-modules.php:1
+msgid "Module updated."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/custom-posts/cp-modules.php:1
+msgid "More info link"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/a-meta-page.php:1
+#: jaguar-translate/library/meta/m-cp-portfolio.php:1
+msgid "Move on scrolling"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/a-meta-page.php:1
+#: jaguar-translate/library/custom-posts/cp-team.php:1
+msgid "Name"
+msgstr ""
+
+#. Text in echo
+#: jaguar-translate/library/widgets/w-contact.php:84
+msgid "Name:"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/custom-posts/ct-taxonomies.php:1
+msgid "New category title"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/custom-posts/ct-taxonomies.php:1
+msgid "New position title"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/a-meta-page.php:1
+msgid "Newest first"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/a-meta-page.php:1
+msgid "Nivo Slider"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/shortcodes/a-shortcodes.php:1
+msgid "No"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/custom-posts/cp-clients.php:1
+msgid "No client found"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/custom-posts/cp-clients.php:1
+msgid "No clients found in trash"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/custom-posts/cp-clients.php:1
+#: jaguar-translate/library/custom-posts/cp-modules.php:1
+#: jaguar-translate/library/custom-posts/cp-slides.php:1
+#: jaguar-translate/library/custom-posts/cp-portfolio.php:1
+#: jaguar-translate/library/custom-posts/cp-team.php:1
+#: jaguar-translate/library/admin.php:1
+msgid "No image"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/custom-posts/cp-team.php:1
+msgid "No member found"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/custom-posts/cp-team.php:1
+msgid "No members found in trash"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/custom-posts/cp-modules.php:1
+msgid "No module found"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/custom-posts/cp-modules.php:1
+msgid "No module found in trash"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/styles/a-layouts.php:1
+msgid "No sidebar is displayed, the page content takes the full width of the website"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/styles/a-layouts.php:1
+msgid "No sidebar, full width"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/custom-posts/cp-slides.php:1
+msgid "No slide found"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/custom-posts/cp-slides.php:1
+msgid "No slides found in trash"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/admin.php:1
+msgid "No top margin"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/admin.php:1
+msgid "Normal dropcap"
+msgstr ""
+
+#. Text in echo
+#: jaguar-translate/library/widgets/w-cpportfolio.php:102
+msgid "Number of items to display:"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/a-meta-page.php:1
+msgid "Number of portfolio items"
+msgstr ""
+
+#. Text in echo
+#: jaguar-translate/library/widgets/w-postslist.php:147
+msgid "Number of posts to display:"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/a-meta-page.php:1
+msgid "Number of slides"
+msgstr ""
+
+#. Text in echo
+#: jaguar-translate/library/widgets/w-twitter.php:84
+msgid "Number of tweets to display:"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/form-generator.php:1
+msgid "OK, leave without saving..."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/a-meta-page.php:1
+msgid "Oldest first"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/styles/a-layouts.php:1
+msgid "One column"
+msgstr ""
+
+#. Text in echo
+#: jaguar-translate/library/form-generator.php:1090
+msgid "Open image in another window"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/shortcodes/shortcodes-generator.php:1
+msgid "Or copy and insert this shortcode"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/a-meta-page.php:1
+#: jaguar-translate/library/admin.php:1
+msgid "Orange button"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/admin.php:1
+msgid "Orange marker"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/m-cp-portfolio.php:1
+msgid "Others"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/admin.php:1
+msgid "PULLQUOTES"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/widgets/w-pagecontent.php:1
+msgid "Page"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/a-meta-page.php:1
+msgid "Page image gallery"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/m-page.php:1
+msgid "Page settings"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/a-meta-page.php:1
+msgid "Page subtitle"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/admin.php:1
+msgid "Page template"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/custom-posts/ct-taxonomies.php:1
+msgid "Parent category"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/form-generator.php:1767
+msgid "Pattern preview"
+msgstr ""
+
+#. Text in echo
+#: jaguar-translate/library/widgets/w-contact.php:113
+msgid "Phone number:"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/a-meta-page.php:1
+msgid "Phones"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/admin.php:1
+msgid "Plus (inverted) list"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/admin.php:1
+msgid "Plus list"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/widgets/w-postslist.php:174
+msgid "Popular posts"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/a-meta-page.php:1
+#: jaguar-translate/library/widgets/w-cpportfolio.php:1
+#: jaguar-translate/library/custom-posts/cp-portfolio.php:1
+msgid "Portfolio"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/widgets/a-areas.php:1
+msgid "Portfolio Item Page"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/m-cp-portfolio.php:1
+msgid "Portfolio attributes"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/custom-posts/ct-taxonomies.php:1
+msgid "Portfolio categories"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/custom-posts/ct-taxonomies.php:1
+msgid "Portfolio category"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/a-meta-page.php:1
+msgid "Portfolio layout"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/a-meta-page.php:1
+msgid "Portfolio list title"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/a-meta-page.php:1
+msgid "Portfolio main category"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/a-meta-page.php:1
+msgid "Portfolio order"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/styles/a-layouts.php:1
+msgid "Portfolio preview left"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/styles/a-layouts.php:1
+msgid "Portfolio preview right"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/m-cp-portfolio.php:1
+msgid "Portfolio settings"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/m-cp-portfolio.php:1
+msgid "Portfolio type"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/custom-posts/ct-taxonomies.php:1
+#: jaguar-translate/library/custom-posts/cp-team.php:1
+msgid "Position"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/m-post.php:1
+msgid "Post settings"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/a-meta-post.php:1
+msgid "Post subtitle"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/a-meta-page.php:1
+msgid "Postal code"
+msgstr ""
+
+#. Text in echo
+#: jaguar-translate/library/widgets/w-contact.php:103
+msgid "Postal code:"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/widgets/w-postslist.php:1
+msgid "Posts"
+msgstr ""
+
+#. Text in echo
+#: jaguar-translate/library/widgets/w-postslist.php:127
+msgid "Posts source (category):"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/a-meta-page.php:1
+msgid "Press [+] button to add a new widget area and select the area from dropdown list"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/m-cp-portfolio.php:1
+msgid "Press [+] button to add an attribute, then type in the attribute name and value"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/m-cp-portfolio.php:1
+msgid "Project URL link"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/custom-posts/cp-clients.php:1
+#: jaguar-translate/library/custom-posts/cp-modules.php:1
+#: jaguar-translate/library/custom-posts/cp-slides.php:1
+#: jaguar-translate/library/custom-posts/cp-team.php:1
+msgid "Published"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/widgets/w-cpportfolio.php:201
+msgid "Random items"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/a-meta-page.php:1
+msgid "Random ordering"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/widgets/w-postslist.php:174
+msgid "Random posts"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/widgets/w-cpportfolio.php:201
+msgid "Recent items"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/widgets/w-postslist.php:174
+msgid "Recent posts"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/a-meta-page.php:1
+#: jaguar-translate/library/admin.php:1
+msgid "Red button"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/admin.php:1
+msgid "Red marker"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/m-cp-portfolio.php:1
+msgid "Remove image zooming"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/form-generator.php:1364
+msgid "Remove item"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/m-cp-slides.php:1
+msgid "Right"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/admin.php:1
+msgid "Right pullquote"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/widgets/a-areas.php:1
+msgid "Right side of the website header. Takes only 1 widget."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/a-meta-page.php:1
+#: jaguar-translate/library/meta/m-cp-portfolio.php:1
+msgid "Right, bottom"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/a-meta-page.php:1
+#: jaguar-translate/library/meta/m-cp-portfolio.php:1
+msgid "Right, center vertically"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/a-meta-page.php:1
+#: jaguar-translate/library/meta/m-cp-portfolio.php:1
+msgid "Right, top"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/admin.php:1
+msgid "Rising size of created button"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/a-meta-page.php:1
+msgid "Roundabout Slider"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/admin.php:1
+msgid "Rounded dropcap"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/custom-posts/ct-taxonomies.php:1
+msgid "Search categories"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/custom-posts/cp-clients.php:1
+msgid "Search clients"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/custom-posts/cp-team.php:1
+msgid "Search members"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/custom-posts/cp-modules.php:1
+msgid "Search modules"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/custom-posts/ct-taxonomies.php:1
+msgid "Search positions"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/custom-posts/cp-slides.php:1
+msgid "Search slides"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/a-meta-page.php:1
+msgid "Second address line"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/admin.php:1
+msgid "Section title"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/shortcodes/a-shortcodes.php:1
+msgid "Select Content Module to displayed"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/m-cp-portfolio.php:1
+msgid "Select a client from the list below"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/a-meta-page.php:1
+msgid "Select a slider type from the dropdown list below"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/m-cp-modules.php:1
+msgid "Select a type of content module styling"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/m-cp-portfolio.php:1
+msgid "Select a type of portfolio item styling"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/shortcodes/a-shortcodes.php:1
+msgid "Select a widget area from dropdown menu"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/a-meta-post.php:1
+#: jaguar-translate/library/meta/a-meta-page.php:1
+msgid "Select a widget area used as a sidebar for this page (if not set, the dafault theme settings will apply)"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/shortcodes/a-shortcodes.php:1
+msgid "Select map zoom"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/m-cp-slides.php:1
+msgid "Select the slide text animation effect"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/a-meta-page.php:1
+msgid "Select whether to display all portfolio items or just those from specific main category (only first level categories can be chosen)"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/shortcodes/a-shortcodes.php:1
+msgid "Select whether you want the bubble to be visible"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/shortcodes/a-shortcodes.php:1
+msgid "Select whether you want the module custom link to be applied"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/shortcodes/a-shortcodes.php:1
+msgid "Select whether you want the module title to be displayed"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/shortcodes/a-shortcodes.php:1
+msgid "Select whether you want the thumbnail image to be displayed"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/shortcodes/a-shortcodes.php:1
+msgid "Select whether you want to display or hide the border"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/m-cp-portfolio.php:1
+msgid "Select which images from gallery will be displayed in the slider (you may need to save/publish/update the post first to enable images selection)"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/a-meta-page.php:1
+msgid "Select which images will be displayed in the slider (you may need to save/publish/update the post to see the images)"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/a-meta-page.php:1
+#: jaguar-translate/library/meta/m-cp-portfolio.php:1
+msgid "Set background image attachment"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/a-meta-page.php:1
+#: jaguar-translate/library/meta/m-cp-portfolio.php:1
+msgid "Set background image position"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/a-meta-page.php:1
+#: jaguar-translate/library/meta/m-cp-portfolio.php:1
+msgid "Set background image repeating"
+msgstr ""
+
+#. Text in echo
+#: jaguar-translate/library/widgets/w-postslist.php:189
+msgid "Set only for a single widget in horiztal widget area. Number of posts will be changed accordingly."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/m-cp-portfolio.php:1
+msgid "Set the number of columns for the gallery"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/a-meta-page.php:1
+msgid "Set the number of columns for the gallery below the page content"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/a-meta-post.php:1
+msgid "Set the number of columns for the gallery below the post content"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/a-meta-page.php:1
+msgid "Set the title text for portfolio items list section on the page"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/m-cp-team.php:1
+msgid "Short biography or description text (only plain text allowed, no HTML tags). Will be displayed when hovering the member box on About page."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/custom-posts/cp-modules.php:1
+msgid "Shortcode"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/shortcodes/a-shortcodes.php:1
+msgid "Show"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/shortcodes/a-shortcodes.php:1
+msgid "Show thumb"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/a-meta-post.php:1
+#: jaguar-translate/library/meta/a-meta-page.php:1
+msgid "Sidebar"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/styles/a-layouts.php:1
+msgid "Sidebar is aligned left from the page/post content"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/styles/a-layouts.php:1
+msgid "Sidebar is aligned right from the page/post content"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/styles/a-layouts.php:1
+msgid "Sidebar left"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/a-meta-post.php:1
+#: jaguar-translate/library/meta/a-meta-page.php:1
+msgid "Sidebar position"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/styles/a-layouts.php:1
+msgid "Sidebar right"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/a-meta-page.php:1
+msgid "Simple Slider"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/m-cp-portfolio.php:1
+#: jaguar-translate/library/custom-posts/cp-portfolio.php:1
+msgid "Single image"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/widgets/a-areas.php:1
+msgid "Sitemap / Archives"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/widgets/a-areas.php:1
+msgid "Sitemap / Archives page widget area. Flexible layout, maximum 3 widgets."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/custom-posts/cp-slides.php:1
+msgid "Slide"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/m-cp-slides.php:1
+msgid "Slide animation"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/m-cp-slides.php:1
+msgid "Slide description"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/m-cp-portfolio.php:1
+msgid "Slide display time"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/custom-posts/cp-slides.php:1
+msgid "Slide draft updated."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/custom-posts/cp-slides.php:1
+msgid "Slide link"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/custom-posts/cp-slides.php:1
+msgid "Slide published."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/custom-posts/cp-slides.php:1
+msgid "Slide restored to revision from %s"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/custom-posts/cp-slides.php:1
+msgid "Slide saved."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/custom-posts/cp-slides.php:1
+msgid "Slide scheduled for: <strong>%1$s</strong>."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/m-cp-slides.php:1
+msgid "Slide settings"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/custom-posts/cp-slides.php:1
+msgid "Slide submitted."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/m-cp-slides.php:1
+msgid "Slide text animation"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/custom-posts/cp-slides.php:1
+msgid "Slide title"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/custom-posts/cp-slides.php:1
+msgid "Slide updated."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/a-meta-page.php:1
+msgid "Slider"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/a-meta-page.php:1
+msgid "Slider content"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/a-meta-page.php:1
+msgid "Slider image size"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/a-meta-page.php:1
+msgid "Slider width"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/custom-posts/cp-slides.php:1
+msgid "Slides"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/custom-posts/ct-taxonomies.php:1
+msgid "Slides categories"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/a-meta-page.php:1
+#: jaguar-translate/library/custom-posts/ct-taxonomies.php:1
+msgid "Slides category"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/a-meta-page.php:1
+msgid "Slides custom posts"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/core.php:1424
+msgid "Small thumb"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/m-cp-team.php:1
+msgid "Social connections"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/shortcodes/a-shortcodes.php:1
+msgid "Space height"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/shortcodes/a-shortcodes.php:1
+msgid "Spacer"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/shortcodes/a-shortcodes.php:1
+msgid "Spacer with top link"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/widgets/a-areas.php:1
+msgid "Special Menu Area"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/widgets/a-areas.php:1
+msgid "Special animated information area in main menu section. Used for contact information by default. Flexible layout, maximum 3 widgets."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/admin.php:1
+msgid "Square dropcap"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/admin.php:1
+msgid "Star (inverted) list"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/admin.php:1
+msgid "Star list"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/a-meta-page.php:1
+msgid "Static featured image"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/a-meta-page.php:1
+msgid "Static featured image custom link"
+msgstr ""
+
+#. Text in echo
+#: jaguar-translate/library/widgets/w-cpportfolio.php:81
+msgid "Style title as section heading"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/widgets/w-subpages.php:1
+msgid "Submenu"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/m-cp-portfolio.php:1
+msgid "Subtitle (tagline)"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/admin.php:1
+msgid "Success (green)"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/admin.php:1
+msgid "TABS"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/admin.php:1
+msgid "TOGGLE"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/admin.php:1
+msgid "Tabs wrapper"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/custom-posts/cp-team.php:1
+msgid "Team"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/a-meta-page.php:1
+msgid "Text"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/m-cp-slides.php:1
+msgid "Text of the more information link button in slide description area (if left blank no button will be displayed). Requires link to be set."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/a-meta-page.php:1
+msgid "The address will be displayed on the page and also used as map location (if no map URL set)."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/widgets/a-areas.php:1
+msgid "The default sidebar widget area."
+msgstr ""
+
+#. Text in echo
+#: jaguar-translate/library/widgets/w-cpmodules.php:102
+msgid "There are no Content Modules to choose from. Please add a new Content Module first."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/m-cp-portfolio.php:1
+msgid "This setting will override the featured image (note that featured image needs to be set). Leave blank to use featured image in portfolio list. To keep the list layout use square images of minimum 720 &times; 720 px, please.<br />To upload a new image, press the [+] button and use the Media Uploader as you would be adding an image into post."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/a-meta-page.php:1
+msgid "This will affect the number of portfolio items listed on the page. Set \"-1\" to display all items, set \"0\" to use default WordPress settings."
+msgstr ""
+
+#. Text in echo
+#: jaguar-translate/library/widgets/w-pagecontent.php:98
+msgid "This will apply link on image, title and button"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/styles/a-layouts.php:1
+msgid "Three columns"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/styles/a-layouts.php:1
+msgid "Three columns preview with basic info"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/a-meta-page.php:1
+#: jaguar-translate/library/meta/m-cp-portfolio.php:1
+msgid "Tile horizontally"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/a-meta-page.php:1
+#: jaguar-translate/library/meta/m-cp-portfolio.php:1
+msgid "Tile the image"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/a-meta-page.php:1
+#: jaguar-translate/library/meta/m-cp-portfolio.php:1
+msgid "Tile vertically"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/m-cp-portfolio.php:1
+msgid "Time of slide being displayed (in miliseconds)"
+msgstr ""
+
+#. Text in echo
+#: jaguar-translate/library/widgets/w-contact.php:79
+#: jaguar-translate/library/widgets/w-twitter.php:74
+#: jaguar-translate/library/widgets/w-subpages.php:71
+#: jaguar-translate/library/widgets/w-pagecontent.php:76
+#: jaguar-translate/library/widgets/w-cpmodules.php:77
+#: jaguar-translate/library/widgets/w-postslist.php:80
+#: jaguar-translate/library/widgets/w-cpportfolio.php:75
+msgid "Title:"
+msgstr ""
+
+#. Text in echo
+#: jaguar-translate/library/updater/update-notifier.php:113
+msgid "To install the new updated theme extract the zipped file, look for the extracted theme folder, and after you have all the new files upload them using FTP client (such as <a href=\"http://filezilla-project.org/download.php\">FileZilla</a>) and replace all current theme files."
+msgstr ""
+
+#. Text in echo
+#: jaguar-translate/library/updater/update-notifier.php:111
+msgid "To update the Theme, login to <a href=\"http://www.themeforest.net/\">ThemeForest</a>, head over to your <strong>downloads</strong> section and re-download the theme like you did when you bought it."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/a-meta-page.php:1
+#: jaguar-translate/library/meta/m-cp-portfolio.php:1
+msgid "To upload a new image, press the [+] button and use the Media Uploader as you would be adding an image into post"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/admin.php:1
+msgid "Toggle wrapper"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/m-cp-slides.php:1
+msgid "Top"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/widgets/a-areas.php:1
+msgid "Top Bar"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/m-cp-team.php:1
+#: jaguar-translate/library/widgets/w-twitter.php:1
+msgid "Twitter"
+msgstr ""
+
+#. Text in echo
+#: jaguar-translate/library/widgets/w-twitter.php:79
+msgid "Twitter username:"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/styles/a-layouts.php:1
+msgid "Two columns"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/styles/a-layouts.php:1
+msgid "Two columns preview with basic info"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/shortcodes/a-shortcodes.php:1
+msgid "Type in the address"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/shortcodes/a-shortcodes.php:1
+msgid "Type of devider"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/m-cp-clients.php:1
+msgid "URL of the client's website"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/widgets/w-postslist.php:174
+msgid "Upcoming posts"
+msgstr ""
+
+#. Text in echo
+#: jaguar-translate/library/updater/update-notifier.php:119
+msgid "Update Changes"
+msgstr ""
+
+#. Text in echo
+#: jaguar-translate/library/updater/update-notifier.php:109
+msgid "Update Download and Instructions"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/custom-posts/ct-taxonomies.php:1
+msgid "Update category"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/custom-posts/ct-taxonomies.php:1
+msgid "Update position"
+msgstr ""
+
+#. Text in echo
+#: jaguar-translate/library/form-generator.php:1206
+msgid "Upload an image"
+msgstr ""
+
+#. Text in echo
+#: jaguar-translate/library/form-generator.php:1272
+msgid "Upload audio file"
+msgstr ""
+
+#. Text in echo
+#: jaguar-translate/library/form-generator.php:1316
+msgid "Upload video file"
+msgstr ""
+
+#. Text in echo
+#: jaguar-translate/library/widgets/w-cpmodules.php:132
+msgid "Use centered text layout"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/styles/a-layouts.php:1
+msgid "Use default theme portfolio layout"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/styles/a-layouts.php:1
+msgid "Use default theme position of the sidebar"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/form-generator.php:1651
+#: jaguar-translate/library/form-generator.php:610
+#: jaguar-translate/library/form-generator.php:1136
+#: jaguar-translate/library/form-generator.php:1311
+#: jaguar-translate/library/form-generator.php:1586
+msgid "Use default value"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/m-cp-clients.php:1
+msgid "Use featured image area to upload the clients logo."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/m-cp-portfolio.php:1
+msgid "Use the link in portfolio list"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/form-generator.php:1155
+msgid "Use theme styles"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/form-generator.php:1767
+msgid "Value"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/widgets/w-postslist.php:174
+msgid "Vertical"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/shortcodes/a-shortcodes.php:1
+#: jaguar-translate/library/meta/a-meta-page.php:1
+#: jaguar-translate/library/meta/m-cp-portfolio.php:1
+msgid "Video"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/shortcodes/a-shortcodes.php:1
+msgid "Video ID"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/shortcodes/a-shortcodes.php:1
+#: jaguar-translate/library/meta/a-meta-page.php:1
+#: jaguar-translate/library/meta/m-cp-portfolio.php:1
+msgid "Video URL"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/shortcodes/a-shortcodes.php:1
+msgid "Video height"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/shortcodes/a-shortcodes.php:1
+msgid "Video width"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/custom-posts/cp-clients.php:1
+msgid "View client"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/custom-posts/cp-team.php:1
+msgid "View member"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/custom-posts/cp-modules.php:1
+msgid "View module"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/custom-posts/cp-slides.php:1
+msgid "View slide"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/shortcodes/a-shortcodes.php:1
+msgid "Vimeo Video"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/form-generator.php:1
+msgid "Wait, I need to save my changes first!"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/admin.php:1
+msgid "Warning (orange)"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/m-cp-slides.php:1
+#: jaguar-translate/library/meta/m-cp-clients.php:1
+#: jaguar-translate/library/meta/m-cp-modules.php:1
+msgid "When left blank, no link will be applied"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/m-cp-portfolio.php:1
+msgid "When left blank, no link will be displayed"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/shortcodes/a-shortcodes.php:1
+msgid "Whether the devider is simple one or with \"back to top\" link"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/a-meta-page.php:1
+msgid "Widget Areas"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/shortcodes/a-shortcodes.php:1
+msgid "Widget area"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/a-meta-page.php:1
+msgid "Widget area below portfolio"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/widgets/a-areas.php:1
+msgid "Widgets area below portfolio item content. Flexible layout, maximum 5 widgets."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/shortcodes/a-shortcodes.php:1
+msgid "Yes"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/a-meta-page.php:1
+msgid "You can hide pagination for non-filterable portfolio list (like for example pagination makes little sense on random portfolio list)"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/a-meta-page.php:1
+msgid "You can hide portfolio list categories for non-filterable list"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/wm-options-panel.php:1
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/updater/update-notifier.php:102
+msgid "You have version %1$s installed. Update to version %2$s."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/meta/a-meta-page.php:1
+msgid "Your name or the name of your company"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/shortcodes/a-shortcodes.php:1
+msgid "Youtube Video"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/shortcodes/a-shortcodes.php:1
+msgid "Zoom"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/custom-posts/cp-modules.php:1
+msgid "[Icon module]"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/shortcodes/shortcodes-generator.php:1
+msgid "shortcode"
+msgstr ""

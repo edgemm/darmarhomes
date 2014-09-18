@@ -1,0 +1,59 @@
+/*
+*****************************************************
+*      ROUNDABOUT SLIDER CSS STYLES
+*****************************************************
+*/
+
+ul.roundabout-slider {
+	position: relative;
+	width: 960px;
+	height: 400px;
+	padding: 0;
+	margin: 0 auto;
+	list-style: none;
+}
+	.no-js ul.roundabout-slider {width: 960px}
+	ul.roundabout-slider li {
+		position: relative;
+		width: auto;
+		height: 400px;
+		padding: 0;
+		list-style: none;
+		cursor: pointer;
+		overflow: hidden;
+	}
+		ul.roundabout-slider.size-portfolio li {width: 400px}
+	.no-js .roundabout-slider li {display: none}
+	.no-js li#roundabout-1 {
+		display: block;
+		width: 400px;
+		height: 400px;
+		margin: 0 270px;
+		z-index: 1;
+	}
+	.no-js li#roundabout-2,
+	.no-js li#roundabout-3 {
+		display: block;
+		position: absolute;
+		width: 300px;
+		height: 300px;
+		left: 0;
+		top: 50px;
+		z-index: 0;
+	}
+	.no-js li#roundabout-3 {left: 640px}
+		ul.roundabout-slider li.roundabout-in-focus {cursor: auto}
+		ul.roundabout-slider li img {
+			position: relative;
+			height: 100%;
+			max-height: 400px;
+			z-index: 0;
+		}
+			ul.roundabout-slider.size-portfolio li img {width: 100%}
+
+/* slide description */
+.slider-caption-content {max-width: 45%}
+.no-boxed .slider-caption-content {padding-left: 30px}
+.no-js .boxed .slider-caption-content {left: 0}
+
+/* End of file */

@@ -1,0 +1,163 @@
+/*********************************************/
+/* typography                                */
+/*********************************************/
+
+html {-webkit-font-smoothing: antialiased}
+
+/* fonts */
+.font-primary,
+body,
+.quote-source,
+input,
+select,
+textarea,
+.btn,
+input[type="submit"] {font-family: Helvetica, Arial, FreeSans, sans-serif}
+
+.font-secondary,
+h1, h2, h3, h4, h5, h6,
+blockquote,
+.status,
+.format-status .article-content,
+.cta,
+.big-size,
+.list-articles .date {font-family: 'Open Sans', Helvetica, Arial, FreeSans, sans-serif}
+
+pre,
+code {font-family: 'Lucida Console', Monaco, 'Courier New', monospace}
+
+
+
+/* font sizes */
+body {font-size: 14px}
+
+.comment-reply-link,
+.comment-heading {font-size: 11px}
+
+.btn,
+input[type="submit"] {font-size: 12px}
+
+.btn.size-medium,
+.btn.size-large {font-size: 13px}
+
+table,
+pre,
+#top-bar li,
+#nav-main,
+.portfolio-nav ul,
+.meta-article,
+.quote-source,
+.devider,
+#comments .reply,
+#comments .btn-edit,
+.children .comment-reply-link,
+#footer,
+.sidebar,
+.attributes,
+.wp-caption-text,
+.text-small,
+#breadcrumbs,
+.pagination {font-size: 0.85em}
+
+.wm-post-list li h3,
+h4, h5, h6,
+#comments li li,
+.widget-heading,
+input,
+select,
+textarea,
+blockquote blockquote {font-size: 1em}
+
+h3,
+.article-content .wm-post-list li h3,
+.section-heading,
+#main-heading h2,
+blockquote,
+.status.type-status,
+.sidebar .widget-heading,
+.dropcap.round,
+.dropcap.square,
+.article-excerpt {font-size: 1.2em}
+
+h2,
+.dropcap,
+.format-status .article-content {font-size: 1.4em}
+
+.cta-text {font-size: 1.65em}
+
+h1 {font-size: 2em}
+
+.logo {font-size: 4em}
+
+.page-404 h1 {font-size: 9em}
+
+
+
+/* font weights */
+.status,
+.format-status .article-content,
+.cta,
+#main-heading h1,
+.page-404 h1,
+.slider-caption-content h2 {font-weight: 300}
+
+h1, h2, h3, h4, h5, h6,
+#wp-calendar tfoot a,
+.sitemap-item h5,
+#nav-main li li {font-weight: 400}
+
+#nav-main,
+strong,
+.wm-post-list li h3,
+h4,
+.section-heading,
+th,
+tfoot td,
+#comments .awaiting,
+.contact-name,
+.btn,
+input[type="submit"] {font-weight: 600}
+
+
+
+/* font styles */
+.quote-source,
+#comments .author {font-style: normal}
+
+blockquote {font-style: italic}
+
+
+
+/* line heights */
+body,
+.tagcloud,
+.sidebar .wm-contact-info,
+.article-excerpt {line-height: 1.6em}
+
+table,
+h1, h2, h3, h4, h5, h6,
+.portfolio-content .desc,
+.allowed-tags {line-height: 1.15em}
+
+.status,
+.attributes,
+.format-status .article-content,
+#comments li,
+.slider-caption-content h2,
+.wm-post-list li h3,
+.sidebar,
+.cta-text {line-height: 1.4em}
+
+.logo {line-height: 1em}
+
+
+
+/* special text styles */
+.big-size {
+	margin-top: 0;
+	line-height: 1.15em;
+	text-transform: none;
+	font-size: 2.8em;
+}
+
+

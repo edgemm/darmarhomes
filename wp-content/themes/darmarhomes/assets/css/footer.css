@@ -1,0 +1,89 @@
+/*********************************************/
+/* clients                                   */
+/*********************************************/
+
+#above-footer {position: relative}
+.clients ul {
+	width: 960px;
+	padding: 0;
+	margin: 0;
+	overflow: hidden;
+}
+	.clients li {
+		position: relative;
+		float: left;
+		width: 140px;
+		height: 80px;
+		padding: 0;
+		line-height: 80px;
+		text-align: center;
+		background: none !important;
+		overflow: hidden;
+	}
+	.clients a {
+		display: block;
+		width: 100%;
+		height: 100%;
+	}
+	.clients img {vertical-align: middle}
+	.clients span {
+		display: inline-block;
+		height: 100%;
+		vertical-align: middle;
+	}
+
+
+
+/*********************************************/
+/* footer                                    */
+/*********************************************/
+
+#footer {}
+	#footer .wrap-inner {
+		padding-top: 30px;
+		padding-bottom: 30px;
+		overflow: hidden;
+	}
+
+	/* widgets */
+	#footer .widget {padding: 30px 0}
+	#footer .widget-content {color: #aaa}
+
+	/* menu */
+	.menu-footer {
+		overflow: hidden;
+		padding: 0 0 20px;
+		margin: 0;
+	}
+	#footer .menu-footer li {
+		float: left;
+		padding: 0;
+		margin: 0 15px 0 0;
+		background: none;
+	}
+
+	/* credits */
+	.credits {
+		float: left;
+		max-width: 80%;
+	}
+	.credits p {padding: 0}
+
+	/* to the top */
+	#footer .top-of-page {
+		float: right;
+		display: block;
+		width: 24px;
+		height: 24px;
+		margin-top: -2px;
+		text-indent: -999em;
+		background-repeat: no-repeat;
+		background-position: 0 0;
+		background-image: url(../img/light/btn-top.png);
+		vertical-align: middle;
+		opacity: 0.5;
+	}
+	#footer.bg-light .top-of-page {background-image: url(../img/dark/btn-top.png)}
+	#footer .top-of-page:hover {opacity: 1}
+
+

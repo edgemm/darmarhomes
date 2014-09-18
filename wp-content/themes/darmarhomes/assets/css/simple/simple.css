@@ -1,0 +1,56 @@
+/*
+*****************************************************
+*      SIMPLE SLIDER CSS STYLES
+*****************************************************
+*/
+
+/* slider */
+.simpleSlider,
+.simple-slider {
+	position: relative;
+	width: 1200px;
+	/* height: 360px; */
+	left: 50%;
+	padding: 0;
+	margin: 0 0 0 -600px;
+	overflow: hidden;
+}
+	.simpleSlider figure,
+	.simple-slider figure {
+		position: absolute;
+		width: 100%;
+		height: 100%;
+		left: 0;
+		top: 100%;
+		overflow: hidden;
+	}
+		.simpleSlider figure:first-child,
+		.simple-slider figure:first-child {top: 0}
+
+/* slider navigation */
+.simpleSlider-nav {
+	position: absolute;
+	width: 100%;
+	height: 10px;
+	left: 0;
+	bottom: 10px;
+	line-height: 10px;
+	text-align: center;
+	z-index: 99;
+}
+	.simpleSlider-nav a {
+		display: inline-block;
+		width: 10px;
+		height: 10px;
+		margin: 0 5px;
+		text-indent: -9999em;
+		cursor: pointer;
+	}
+	.ie7 .simpleSlider a {
+		text-indent: 0;
+		font-size: 0;
+		line-height: 0;
+		overflow: hidden;
+	}
+
+/* End of file */

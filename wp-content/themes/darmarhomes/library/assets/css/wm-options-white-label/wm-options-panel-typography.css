@@ -1,0 +1,128 @@
+/*********************************************/
+/* typography                                */
+/*********************************************/
+
+/* font types */
+.wm-wrap {font-family: Arial, sans-serif}
+.wm-wrap #nav,
+.wm-wrap .btn, .wm-wrap .tabs, .wm-wrap .info,
+.wm-wrap label,
+.wm-wrap h2, .wm-wrap h3, .wm-wrap h4, .wm-wrap h5, .wm-wrap h6 {font-family: 'Century Gothic', Arial, sans-serif}
+.wm-wrap #message,
+.wm-wrap p.desc,
+.wm-wrap h3.intro {font-family: Georgia, Times, serif}
+.wm-wrap .color-wrapper p span,
+.wm-wrap .color-wrapper p input[type="text"],
+.wm-wrap .color-prefix,
+.wm-wrap textarea.code {font-family: monospace}
+
+/* blocks */
+.wm-wrap {
+	font-size: 13px;
+	line-height: 1.4em;
+}
+	.wm-wrap p {font-size: 12px !important}
+
+/* headings */
+.wm-wrap h2, .wm-wrap h3, .wm-wrap h4 {
+	padding: 0 0 1em 0;
+	font-size: 14px;
+	font-weight: normal;
+	color: #777;
+	background: transparent;
+}
+	.wm-wrap .bg {background: #000}
+	.wm-wrap .toggle-heading {
+		padding-left: 50px;
+		background: url(../../img/buttons/btn-show.png) no-repeat 0 0.7em;
+		cursor: pointer;
+	}
+	.wm-wrap .first.toggle-heading {
+		padding-top: 0.5em;
+		background-position: 0 0;
+	}
+	.wm-wrap .toggle-heading.active {background-image: url(../../img/buttons/btn-hide.png)}
+.wm-wrap h2 {
+	position: relative;
+	height: 50px;
+	padding: 10px 30px 60px 30px;
+	line-height: 50px;
+	font-size: 22px;
+	color: #ccc;
+}
+	.wm-wrap h2 .btn {
+		position: absolute;
+		right: 0;
+		top: 0;
+	}
+.wm-wrap h3 {
+	padding: 1.25em 0;
+	font-size: 18px;
+	text-transform: uppercase;
+}
+	.wm-wrap h3.first {padding-top: 0}
+	.wm-wrap h3.intro {
+		height: auto;
+		padding: 1.5em 2em 3em;
+		margin-bottom: 2em;
+		text-transform: none;
+		line-height: 1.25em;
+		font-size: 1.6em;
+		font-weight: normal;
+		font-style: italic;
+		background: url(../../img/bg-tabs.png) repeat-x bottom;
+		color: #666;
+	}
+.wm-wrap h4 {
+	text-transform: uppercase;
+	color: #4d4d4d;
+}
+	.wm-wrap h4.toggle-heading {
+		height: 40px;
+		line-height: 40px;
+		background-position: 0 0;
+	}
+
+/* others */
+.wm-wrap #message {
+	font-size: 1.25em;
+	font-style: italic;
+}
+.wm-wrap p.desc {
+	font-size: 11px !important;
+	font-style: italic;
+}
+.wm-wrap .info {font-style: italic}
+.wm-wrap .info,
+.wm-wrap .warning,
+.wm-wrap .help {font-size: 1.15em !important}
+.wm-wrap #nav li {
+	font-size: 14px;
+	font-weight: bold;
+}
+	.wm-wrap .tabs.sub {font-size: 13px}
+.wm-wrap .color-prefix {
+	font-size: 1.6em;
+	color: #bbb !important;
+}
+.dropcap {font-size: 1.4em}
+.wm-wrap .pattern-preview span {font-size: 0.85em}
+
+/* form typography */
+.wm-wrap label {
+	font-size: 14px;
+	font-weight: bold;
+	text-shadow: 1px 2px #fcfcfc;
+}
+.wm-wrap input[type='text'],
+.wm-wrap textarea,
+.wm-wrap select {font-size: 12px !important}
+.wm-wrap .add-items input[type='text'],
+	.wm-wrap .add-items .select-wrapper {font-weight: bold}
+.wm-wrap .add-items input[type='text'] + input[type='text'] {font-weight: normal}
+.wm-wrap input[type='submit'] {
+	font-weight: bold;
+	font-size: 16px;
+}
+
+

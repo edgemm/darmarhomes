@@ -1,0 +1,406 @@
+/*
+*****************************************************
+* WEBMAN'S WORDPRESS THEME FRAMEWORK
+* Created by WebMan - www.webmandesign.eu
+*
+* WebMan Options Panel CSS styles
+*****************************************************
+*/
+
+@import url('wm-options-panel-core.css'); /* General styles */
+
+@import url('wm-options-panel-forms.css'); /* Forms styles */
+
+@import url('wm-options-panel-typography.css'); /* Typography styles */
+
+
+
+/*********************************************/
+/* colors                                    */
+/*********************************************/
+
+/* WP3.2+ */
+/* fresh */
+.wm-wrap .content,
+.wm-wrap ul.tabs.sub li.active a,
+.wm-wrap #nav li:hover,
+.wm-wrap #nav li.active {background: #f6f6f6}
+.wm-wrap h2 {background: #fff}
+
+/* classic */
+/* WP3.1 */
+/* fresh */
+.wm-wrap.wp-31 .content,
+.wm-wrap.wp-31 ul.tabs.sub li.active a {background: #f1f1f1}
+.wm-wrap.wp-31 h2 {background: #f9f9f9}
+/* classic */
+.wm-wrap.wp-31.classic h2 {background: #fcfcfb}
+
+/* meta boxes [there is no WP version nor admin theme class applied] */
+.wm-wrap.meta ul.tabs li.ui-state-active a {background: #f6f6f6}
+div[id*="wm-metabox-"] {background: #f6f6f6 !important}
+
+
+
+/*********************************************/
+/* logo                                      */
+/*********************************************/
+
+.wm-wrap a.logo {
+	position: relative;
+	display: block;
+	width: 220px;
+	height: 120px;
+	left: 0;
+	top: 0;
+	padding: 0;
+	line-height: 120px;
+	text-align: center;
+	background: #ddd;
+}
+	.wm-wrap a.logo img {
+		max-width: 160px;
+		vertical-align: middle;
+	}
+
+
+
+/*********************************************/
+/* navigation                                */
+/*********************************************/
+
+.wm-wrap #nav {
+	position: relative;
+	float: left;
+	width: 220px;
+	margin-left: -220px;
+}
+	.wm-wrap #nav ul {
+		overflow: hidden;
+		border-top: 1px solid #ccc;
+		border-bottom: 1px solid #eee;
+	}
+	.wm-wrap #nav li {
+		position: relative;
+		height: 60px;
+		line-height: 60px;
+		text-transform: uppercase;
+		border-top: 1px solid #eee;
+		border-bottom: 1px solid #ccc;
+	}
+		.wm-wrap #nav li.active {text-shadow: 0 1px #fff}
+	.wm-wrap #nav li a {
+		display: block;
+		width: 100%;
+		height: 100%;
+		text-indent: 64px;
+		color: #7f7f7f;
+	}
+		.wm-wrap #nav li span {
+			position: absolute;
+			width: 24px;
+			height: 60px;
+			left: 30px;
+			top: 0;
+			overflow: hidden;
+		}
+			.wm-wrap #nav li span img {
+				position: absolute;
+				left: -1px;
+				top: -60px;
+			}
+		.wm-wrap #nav li.active a {color: #000}
+			.wm-wrap #nav li.active span img {top: 0}
+
+
+
+/*********************************************/
+/* content                                   */
+/*********************************************/
+
+.wm-wrap .content {position: relative}
+
+	/*********************************************/
+	/* main content area                         */
+	/*********************************************/
+
+	.wm-wrap ul.bullets {
+		padding-bottom: 20px;
+		margin-left: 20px;
+		list-style: disc;
+	}
+
+	.wm-wrap #main {padding: 30px}
+	.wm-wrap ul.list {padding-bottom: 40px}
+	.wm-wrap #main .list li {
+		width: 340px;
+		height: 32px;
+		line-height: 32px;
+		padding: 0 20px;
+		margin: 5px 0 0 0;
+		background: #f3f3f3;
+		border-top: 1px solid #f9f9f9;
+		border-bottom: 1px solid #e9e9e9;
+		border-right: 1px solid #e9e9e9;
+		border-left: 1px solid #e9e9e9;
+		-webkit-box-shadow: 0 1px 5px #bbb;
+		-moz-box-shadow: 0 1px 5px #bbb;
+		box-shadow: 0 1px 5px #bbb;
+	}
+		.wm-wrap #main .list li:hover {background: #f9f9f9}
+	.wm-wrap .tab-content {
+		position: relative;
+		clear: both;
+		background: transparent;
+		border: none;
+	}
+		.wm-wrap.meta.no-js .tab-content {
+			padding-bottom: 20px;
+			margin-bottom: 20px;
+			border-bottom: 1px solid #ddd;
+		}
+
+	/* layout and pattern boxes */
+	.wm-wrap .toggle-patterns .main-label {
+		padding-left: 20px;
+		background: url(../../img/buttons/plus.png) no-repeat 0 50%;
+	}
+		.wm-wrap .toggle-patterns .main-label.active {background-image: url(../../img/buttons/minus.png)}
+	.wm-wrap .layout-boxes,
+	.wm-wrap .pattern-boxes {
+		padding-top: 10px;
+		overflow: hidden;
+	}
+		.wm-wrap .pattern-boxes {
+			max-width: 90%;
+			padding-bottom: 20px;
+		}
+		.wm-wrap.wm-options-panel .pattern-boxes {max-width: 656px}
+	.wm-wrap .layout-box,
+	.wm-wrap .pattern-box {
+		float: left;
+		margin: 0 5px 10px 5px;
+		text-align: center;
+		overflow: hidden;
+	}
+		.wm-wrap .pattern-box {
+			height: 80px;
+			margin-bottom: 0;
+		}
+		.wm-wrap .layout-box img {
+			display: block;
+			background: transparent;
+			padding: 5px;
+			border: 1px solid transparent;
+		}
+			.wm-wrap .layout-box .ie-bug {
+				display: block;
+				position: absolute;
+				width: 100%;
+				height: 100%;
+				left: 0;
+				top: 0;
+				background: url(../../img/ie-bug.png);
+			}
+		.wm-wrap .layout-box.active img {
+			background: #fff;
+			border-color: #ccc;
+		}
+		.wm-wrap .pattern-box span {
+			display: block;
+			/*
+			width: 60px;
+			height: 60px;
+			*/
+			width: 50px;
+			height: 50px;
+			margin-bottom: 7px;
+			text-indent: -999em;
+			border: 6px solid #dedede;
+		}
+			.wm-wrap .pattern-preview {
+				position: relative;
+				clear: both;
+				width: 98%;
+			}
+				.wm-wrap .pattern-preview div {
+					position: relative;
+					display: none;
+					height: 188px;
+					margin: 0 5px 10px 5px;
+					border: 6px solid #ddd;
+					top: 0;
+				}
+				.wm-wrap .pattern-preview span {
+					position: absolute;
+					display: block;
+					left: 0;
+					top: 0;
+					padding: 0 6px 4px 0;
+					text-shadow: 1px 1px #f3f3f3;
+					color: #888;
+					background: #ddd;
+					-webkit-border-bottom-right-radius: 6px;
+					    -moz-border-radius-bottomright: 6px;
+					        border-bottom-right-radius: 6px;
+				}
+			.wm-wrap div[data-option*="icon"] .pattern-box span {
+				width: 32px;
+				height: 32px;
+			}
+			.wm-wrap .pattern-box.active span {border-color: #48e}
+			.wm-wrap .pattern-box label a {display: none}
+			.wm-wrap div[data-option*="icon"] label a {
+				display: block;
+				position: absolute;
+				left: 0;
+				top: 3px;
+				width: 10px;
+				height: 10px;
+				text-indent: -999em;
+				background: url(../../img/icons/ico-link.png) no-repeat;
+				overflow: hidden;
+			}
+
+/*********************************************/
+/* footer                                    */
+/*********************************************/
+
+.wm-wrap #wrap-footer {
+	position: relative;
+	clear: both;
+	padding: 30px 30px 30px 250px;
+	margin: 0 0 0 -220px;
+	text-align: right;
+	border: 0;
+}
+	.wm-wrap #wrap-footer p {
+		position: absolute;
+		width: 160px;
+		left: 0;
+		bottom: 0;
+		padding: 30px;
+		text-align: center;
+		color: #aaa;
+	}
+
+
+
+/*********************************************/
+/* jQuery UI Slider                          */
+/*********************************************/
+
+.wm-wrap .ui-slider {
+	position: relative;
+	display: block;
+	float: left;
+	width: 196px;
+	height: 12px;
+	margin: 17px;
+	text-align: left;
+	background: transparent;
+}
+.wm-wrap .ui-slider .ui-slider-handle {
+	position: absolute;
+	z-index: 2;
+	width: 30px;
+	height: 10px;
+	margin-left: -15px;
+	top: 0;
+	cursor: e-resize;
+	background: transparent url(../../img/slide-number.png) no-repeat left center;
+}
+.wm-wrap .ui-slider .ui-slider-range-min {left: 0}
+.wm-wrap .ui-slider .ui-slider-range-max {right: 0}
+
+
+
+/*********************************************/
+/* jQuery UI Datepicker                      */
+/*********************************************/
+
+.ui-datepicker,
+.ui-datepicker.ui-helper-clearfix {
+	position: relative;
+	display: none;
+	width: 200px;
+	padding: 20px;
+	background: #fff;
+	border: 1px solid #ddd;
+	-webkit-box-shadow: 0 2px 5px 0 rgba(0,0,0, 0.25);
+	        box-shadow: 0 2px 5px 0 rgba(0,0,0, 0.25);
+}
+.ui-datepicker .ui-datepicker-header {
+	position: relative;
+	height: 30px;
+	padding: 0;
+	line-height: 30px;
+	font-weight: bold;
+	text-align: center;
+	background: #eee;
+	border: 1px solid #ddd;
+}
+	.ui-datepicker .ui-datepicker-prev,
+	.ui-datepicker .ui-datepicker-next {
+		position: absolute;
+		width: 0;
+		height: 0;
+		top: 10px;
+		background: none;
+		cursor: pointer;
+	}
+	.ui-datepicker .ui-datepicker-prev {
+		left: 9px;
+		border-right: 6px solid #666;
+		border-top: 6px solid transparent;
+		border-bottom: 6px solid transparent;
+	}
+		.ui-datepicker .ui-datepicker-prev.ui-state-disabled {border-right-color: #ddd}
+	.ui-datepicker .ui-datepicker-next {
+		right: 10px;
+		border-left: 5px solid #666;
+		border-top: 5px solid transparent;
+		border-bottom: 5px solid transparent;
+	}
+		.ui-datepicker .ui-datepicker-next.ui-state-disabled {border-left-color: #ddd}
+.ui-datepicker table {
+	width: 100%;
+	font-size: 0.9em;
+	border-collapse: collapse;
+	text-align: center;
+	margin: 0;
+}
+.ui-datepicker th {
+	padding: 0.7em 0.3em;
+	font-weight: bold;
+	border: 0;
+}
+.ui-datepicker td {
+	padding: 1px;
+	border: 1px solid #ddd;
+}
+.ui-datepicker td span,
+.ui-datepicker td a {
+	display: block;
+	padding: 5px;
+	text-decoration: none;
+	background: #f6f6f6;
+	color: #666;
+}
+	.ui-datepicker td span {
+		background: #fff;
+		color: #ccc;
+	}
+	.ui-datepicker td span.ui-state-active,
+	.ui-datepicker td a.ui-state-active {
+		font-weight: bold;
+		background: #666;
+		color: #fff;
+	}
+	.ui-datepicker td a:hover {
+		font-weight: bold;
+		background: #fff;
+		color: #000;
+	}
+
+/* End of file */

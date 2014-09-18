@@ -1,0 +1,622 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. Text in function
+#: jaguar-translate/library/core.php:1424
+msgid " (part "
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/core.php:1424
+msgid " RSS feed"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/core.php:1424
+msgid " archive"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/core.php:1424
+msgid " feed"
+msgstr ""
+
+#. Text in echo
+#: jaguar-translate/library/core.php:1375
+msgid " logo"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/core.php:1424
+msgid " on "
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/inc/loop/loop-team.php:57
+#: jaguar-translate/library/core.php:1424
+msgid " on Facebook"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/inc/loop/loop-team.php:57
+#: jaguar-translate/library/core.php:1424
+msgid " on Google+"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/inc/loop/loop-team.php:57
+#: jaguar-translate/library/core.php:1424
+msgid " on Twitter"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/core.php:1054
+msgid "%1$s at %2$s"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/core.php:1
+msgid "%s archive"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/core.php:1
+msgid "&laquo; Prev"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/sliders/s-nivo.php:1
+msgid "&laquo; Previous"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/comments.php:45
+msgid "&larr; Older comments"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/inc/loop/loop-portfolio-single.php:1
+msgid "(next entry)"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/inc/loop/loop-portfolio-single.php:1
+msgid "(previous entry)"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/core.php:1
+msgid "<em>%s</em> tag archive"
+msgstr ""
+
+#. Text in echo
+#: jaguar-translate/pagetpl-contact.php:40
+msgid "<strong>Please, set the map location</strong>"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/inc/loop/loop-portfolio.php:136
+msgid "All %s"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/core.php:1424
+msgid "Apologies, but no results were found for the requested archive. Perhaps searching will help find a related content."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/core.php:1
+msgid "Archive"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/core.php:1424
+msgid "Archive for"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/core.php:1
+msgid "Archives"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-comments-form.php:1
+msgid "Be the first to leave a reply!"
+msgstr ""
+
+#. Text in echo
+#: jaguar-translate/inc/loop/loop-sitemap.php:30
+msgid "Blog categories"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/core.php:1424
+msgid "By"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/core.php:1424
+msgid "By "
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-comments-form.php:1
+msgid "Cancel comment"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/inc/content/content-portfolio-list-details-attributes.php:19
+msgid "Category"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/inc/loop/loop-portfolio-single.php:1
+#: jaguar-translate/inc/content/content-portfolio-list-details-attributes.php:19
+msgid "Client"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-comments-form.php:1
+msgid "Comment"
+msgstr ""
+
+#. Text in echo
+#: jaguar-translate/comments.php:44
+msgid "Comment navigation"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/comments.php:23
+msgid "Comments are closed. You can not add new comments."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/core.php:1424
+msgid "Comments: "
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/nav.php:4
+#: jaguar-translate/library/options/a-layout.php:1
+#: jaguar-translate/header.php:150
+msgid "Contact"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/core.php:1424
+msgid "Daily Archives: <span>%s</span>"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/core.php:1
+msgid "Day %1$d, %2$s archive"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/core.php:1025
+#: jaguar-translate/library/core.php:1060
+msgid "Edit"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-comments-form.php:1
+msgid "Email"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/core.php:1
+msgid "Enter password to view the content:"
+msgstr ""
+
+#. Text in echo
+#: jaguar-translate/404.php:10
+msgid "Error 404"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/shortcodes/shortcodes.php:1
+msgid "Hello"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/core.php:1
+msgid "Home"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/shortcodes/shortcodes.php:1
+msgid "I have lost my password"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/core.php:1424
+msgid "In "
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-comments-form.php:1
+msgid "Join the discussion, leave a reply!"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-comments-form.php:1
+msgid "Leave a reply"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-comments-form.php:1
+msgid "Leave a reply for %s"
+msgstr ""
+
+#. Text in echo
+#: jaguar-translate/inc/formats-single/format-link.php:18
+#: jaguar-translate/inc/formats/format-link.php:17
+msgid "Link:"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/shortcodes/shortcodes.php:1
+msgid "Log In"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-comments-form.php:1
+msgid "Log in."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/shortcodes/shortcodes.php:1
+msgid "Log out"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-comments-form.php:1
+msgid "Log out &raquo;"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-comments-form.php:1
+msgid "Log out from your account"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-comments-form.php:1
+msgid "Logged in as"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/core.php:1424
+msgid "Monthly Archives: <span>%s</span>"
+msgstr ""
+
+#. Text in echo
+#: jaguar-translate/inc/loop/loop-sitemap.php:47
+msgid "Monthly archives"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/core.php:1424
+msgid "More about the author"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-comments-form.php:1
+msgid "Name"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/comments.php:46
+msgid "Newer comments &rarr;"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/core.php:1
+#: jaguar-translate/library/sliders/s-nivo.php:1
+msgid "Next &raquo;"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/widgets/w-postslist.php:354
+msgid "No articles found."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/widgets/w-pagecontent.php:187
+msgid "No content found."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/core.php:1424
+msgid "No item found"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/widgets/w-cpportfolio.php:206
+msgid "No portfolio items found."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/widgets/w-twitter.php:92
+msgid "No tweets."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/core.php:1424
+msgid "Number of items found:"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/core.php:1
+msgid "Page not found"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/core.php:1424
+msgid "Part"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/shortcodes/shortcodes.php:1
+msgid "Password"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/shortcodes/shortcodes.php:1
+msgid "Password will be resent to you e-mail address."
+msgstr ""
+
+#. Text in echo
+#: jaguar-translate/library/core.php:1023
+msgid "Pingback:"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/core.php:1367
+msgid "Pingbacks list"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/nav.php:4
+msgid "Please create a menu in WordPress admin and assign it to the Main Navigation menu area."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/inc/formats-single/format-link.php:21
+#: jaguar-translate/inc/formats/format-link.php:22
+msgid "Please place the URL address into the excerpt field"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/inc/formats-single/format-video.php:16
+msgid "Please place the YouTube or Vimeo video URL into the excerpt field"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/inc/formats/format-video.php:20
+msgid "Please place the full YouTube or Vimeo video URL into the excerpt field"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/inc/formats-single/format-quote.php:13
+#: jaguar-translate/inc/formats/format-quote.php:13
+msgid "Please place the quote text into the excerpt field"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/inc/formats/format-status.php:12
+msgid "Please place the status into the post content area"
+msgstr ""
+
+#. Text in echo
+#: jaguar-translate/inc/loop/loop-sitemap.php:17
+msgid "Portfolio categories"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-comments-form.php:1
+msgid "Post comment"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/core.php:1424
+msgid "Posts Tagged \"<span>%s</span>\""
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/core.php:1
+msgid "Posts by <em>%s</em>"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/core.php:1424
+msgid "Posts by <span>%s</span>"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/core.php:1424
+msgid "Posts in <span>%s</span> Category"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/inc/loop/loop-portfolio-single.php:1
+#: jaguar-translate/inc/content/content-portfolio-list-details-attributes.php:19
+msgid "Project URL"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/core.php:1424
+msgid "Read more &raquo;"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/inc/formats/format.php:18
+msgid "Read more..."
+msgstr ""
+
+#. Text in echo
+#: jaguar-translate/single-wm_portfolio.php:50
+msgid "Related items"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/shortcodes/shortcodes.php:1
+msgid "Remember Me"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/core.php:1060
+msgid "Reply"
+msgstr ""
+
+#. Text in echo
+#: jaguar-translate/404.php:14
+msgid "Requested page does not exist"
+msgstr ""
+
+#. Text in echo
+#: jaguar-translate/404.php:15
+msgid "Return to <strong>homepage</strong>"
+msgstr ""
+
+#. Text in echo
+#: jaguar-translate/searchform.php:6
+msgid "Search"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/core.php:1424
+msgid "Search for &quot;"
+msgstr ""
+
+#. Text in echo
+#: jaguar-translate/searchform.php:4
+msgid "Search for:"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/core.php:1
+msgid "Search results for <em>\"%s\"</em>"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/core.php:1424
+msgid "Search results for <span>%s</span>"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-general.php:1
+msgid "Search term"
+msgstr ""
+
+#. Text in echo
+#: jaguar-translate/nav.php:2
+msgid "Skip to content"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/core.php:1
+msgid "Submit"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/core.php:1424
+msgid "Tag archive for &quot;"
+msgstr ""
+
+#. Text in echo
+#: jaguar-translate/inc/loop/loop-sitemap.php:42
+msgid "Tag archives"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/core.php:1424
+msgid "Tags: "
+msgstr ""
+
+#. Text in echo
+#: jaguar-translate/404.php:15
+msgid "The page you are looking for was not found."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/core.php:1424
+msgid "This is featured post"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/shortcodes/shortcodes.php:1
+#: jaguar-translate/footer.php:96
+msgid "Top"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/shortcodes/shortcodes.php:1
+msgid "Twitter account:"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/shortcodes/shortcodes.php:1
+msgid "Username"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/core.php:1424
+msgid "Web page was not found"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-comments-form.php:1
+msgid "Website"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/core.php:1
+msgid "Year %d archive"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/core.php:1424
+msgid "Yearly Archives: <span>%s</span>"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/shortcodes/shortcodes.php:1
+msgid "You have not filled in your biographical info."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-comments-form.php:1
+msgid "You have to be logged in to leave a comment."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/options/a-comments-form.php:1
+msgid "You may use these <abbr title=\"HyperText Markup Language\">HTML</abbr> tags and attributes:"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/shortcodes/shortcodes.php:1
+msgid "Your biography:"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/core.php:1060
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/shortcodes/shortcodes.php:1
+msgid "Your email:"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/shortcodes/shortcodes.php:1
+msgid "Your homepage:"
+msgstr ""
+
+#. Text in echo
+#: jaguar-translate/library/core.php:1050
+msgid "says:"
+msgstr ""

@@ -1,0 +1,1469 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "\"1\" = create automatic accordion, empty = use defaul accordion"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "\"1\" = show, empty = hide. Displays map bubble over location."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "About"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "About page is standard page which displays a list of team members (from Team custom post) below the page content."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "About page with team view"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Accordion"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Accordion item content"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Accordion item title"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Accordion item title. Clicking the title reveals the accordion section."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Although the theme supports the true what-you-see-is-what-you-get content editing by using the [Styles] button instead of shortcodes, there are times you just need to insert a shortcode. The Simple Shortcode Generator allows you to customize and include a selection of special shortcodes. You can use it to include these content elements:"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "As the theme supports the true what-you-see-is-what-you-get content editing, you can use the [Styles] button to create post/page content elements on the go. [Styles] button lets you create these content elements:"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Author"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Basic styles"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Besides the basic information (portfolio item title, description - content, featured image and categories) it is possible to set these options:"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Besides the standard page attributes it is possible to set these options:"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Biography"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Blog page"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Buttons"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Callout <br /><small>(only when enabled in Callout section of admin panel)</small>"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Callout tab lets you override the default callout area settings for this page."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Categories"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Categories, the post is assigned to."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Category"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Changes style of unordered list bullets"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Client URL"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Client info creator name. Click to display clients added by the author."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Client name"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Clients Settings"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Code"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Column content goes here"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Columns"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Comments"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Company or individual client name. Click to edit the client info."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Contact <br /><small>(on Contact page template)</small>"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Contact Info"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Contact page"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Content Module"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Content Module Settings"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Content Module is special type of content that can be displayed anywhere on the website - in page/post content, in widget area. It can be used as featured area, for example, or even as icon box (selection of icons is available). Just remember, the Content Module is not meant to be fully featured post (you can not directly access its content). It is usually short text to supplement the page or post. Used wisely can do magic."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Content module"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Content module creator name. Click to display modules from the author."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Created by"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Custom link"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Date"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Design"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Design <br /><small>(only when boxed website layout used)</small>"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Design tab lets you set the custom background image for this page."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Devider"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Different Colors?"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Displays Google Map with specific location"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Displays accordion type content revealer"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Displays button"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Displays content module featured image and its type (if normal content module used, no type is displayed, if module is of type \"Icon module\", the type will be displayed in [] brackets). Click the image to edit the module."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Displays content module title. Click to edit the module."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Displays content toggler"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Displays custom content module link URL, if set."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Displays custom portfolio link URL, if set."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Displays custom slide link URL, if set."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Displays embeded video"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Displays message box"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Displays page featured image. Click to edit the page."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Displays page title. Click to edit the page."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Displays portfolio item featured image. Click to edit the portfolio item. Please assign featured images to every portfolio item (also video items)."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Displays portfolio item title. Click to edit the portfolio item."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Displays post featured image. Click to edit the post."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Displays post title. Click to edit the post."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Displays quotes aligned left or right from surrounding content"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Displays slide featured image. Click to edit the slide. Please assign featured image to every slide."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Displays slide item title. Click to edit the slide."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Displays specific Content Module"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Displays specific widget area."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Displays tabbed content"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Displays team member photo (featured image)."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Displays the client logo (featured image)."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Displays the client's website URL."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Displays vertical content devider (simple line or with top of the page link)"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Do not place BLOCKQUOTE HTML tag inside [pullquote][/pullquote] shortcode."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Dropcaps"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Enter member's full name, upload member's photo (as featured image), set member's position in the team (like Web Designer, for example), short biographical information (will be displayed when mouse hovers over the person in team members list on About page) and basic social networking links."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Enter the content module title, set custom more link. Choose the content module type - content or icon module. You can set featured image for both types of content, however icon module allows you to choose from selection of icons (if featured image set, it will be prioritized against chosen icon, but displayed the same way as icon)."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Example:"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Footer navigation"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Format text to columns"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Formats letter (or text) as dropcap"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Fully widgetized"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Gallery"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "General"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "General tab lets you disable the breadcrumbs navigation specifically for this page, hide the main page title or add a subtitle."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Google Map"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Hexadecimal value of button background color - without \"#\""
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Hexadecimal value of button text color - without \"#\""
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Hexadecimal value of marked text color - without \"#\""
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Hexadecimal value of marker background color - without \"#\""
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Highlights selected text"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "How the portfolio is displayed?"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "How to use post formats?"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "ID of specific Content Module custom post"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "If post author information is enabled by the theme, you can hide this information for each post specifically."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "If set, Custom Module title is hidden"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "If set, button will be displayed. Requires custom link to be set in Custom Module post and enabled in this shortcode."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "If set, no custom link is applied"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "If set, no devider border is displayed"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "If set, no thumbnail image of Custom Module post is displayed"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "If the project is web-based, you can enter the project URL link, that will be displayed in portfolio attributes area."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "If you are uploading gallery images to be used for slider, note that they should be at least 1200 px &times; 360 px. However, as you can set the website box padding (in admin panel under \"Layout\" section), the visible portion of the slider image will differ. Good rule of thumb is to keep the focus of the image in the central 960 px &times; 360 px area (framed with dashed border on the illustration bellow) while the rest of the image should be considered as background."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "If you keep the database of clients, it is simple to choose the client from the dropdown. Otherwise you can use attributes area to set client among other attributes."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Image"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Image [type]"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Image gallery"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "In this section you can keep simple database of your clients. Clients can be easily assigned to every project just by selecting a client from dropdown list when editing portfolio item. Random selection of clients will be displayed in the list at the bottom of the website."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "In this tab you can exclude images from the gallery inserted in the page content. By default, WordPress offers no easy way to do so, just by adding a parameter of image IDs to exclude to [gallery] shortcode. This theme allows you to simply select images (again, you need to save or update the page to see all the images below) you want to hide from the gallery within the page content. Afterwards you can choose to display these excluded images in separate gallery below the page content (you can additionally set the number of gallery columns for this one too). Alternativelly, the theme makes it also easier to remove images from [gallery] shortcode just by passing the parameter \"remove\" where you specify the position numbers of pictures you want to remove, separated by comma. For example, if you need to exclude third, fifth and sixth image from the gallery, just type [gallery remove=\"3,5,6\"]."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Interactive and Animated Shortcodes"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Link"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "List image"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "List items"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Lists"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Logo"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Main navigation"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Map"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Map height in pixels"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Map width in pixels"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Map zoom on location (values 5 to 19)"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Marker content goes here"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Markers"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Message box content goes here"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Message boxes"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "More info link"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "My address 1, City, Country"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Name"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "No closing shortcode tag required"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Note that Simple Shortcode Generator does not work in Internet Explorer browsers, please use another one or check the contextual help for how to insert shortcodes manually."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Note that if you still preffer shortcodes against [Styles] button styles, you can find all supported shortcodes instructions in the appropriate section of this contextual help."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Note that slider images should be at least 1200 px &times; 360 px. However, as you can set the website box padding (in admin panel under \"Layout\" section), the visible portion of the slider image will differ. Good rule of thumb is to keep the focus of the image in the central 960 px &times; 360 px area (framed with dashed border on the illustration bellow) while the rest of the image should be considered as background."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Number of comments added to the page. Click to display all comments for the page."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Number of comments added to the post. Click to display all comments for the post."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "On Contact page template your contact info and map are displayed. If you wish to display a contact form on the page, install a plugin that allows you to create forms (like Contact Form 7) and insert the form in the page content (as shortcode)."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Other Shortcodes"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Others"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Others tab lets you set the image gallery displayed below portfolio preview. You can also hide the main title or add a subtitle."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Page Settings"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Page Templates"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Page creator name. Click to display pages from the author."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Page template"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Place a character between %1$s and %2$s"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Place an unorderd list between %1$s and %2$s"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Place the accordion item content between %1$s and %2$s"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Place the button title between %1$s and %2$s"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Place the column content between %1$s and %2$s"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Place the marked text between %1$s and %2$s"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Place the message box text between %1$s and %2$s"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Place the quoted text between %1$s and %2$s"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Place the tab content between %1$s and %2$s"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Place the toggle content between %1$s and %2$s"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Place the video URL link between %1$s and %2$s and make sure WordPress does not apply automatic link on it."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Place unordered list here"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Please enable the Excerpt area in Screen Options as this is required with some post formats."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Please enter your Biographical Info if you are displaying post author details on the website below posts."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Please place the URL address into the excerpt field. You can place the link description into the Post editor. Link will be applied on the post title in the posts list."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Please place the full video URL into the excerpt field (check the <a href=\"http://codex.wordpress.org/Embeds#Can_I_Use_Any_URL_With_This.3F\" target=\"_blank\">list of supported video portals</a>). You can place the video description into Post editor. Video will be displayed also in the posts list with full post content."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Please place the quoted text into the excerpt field. Place the quote source into the Post editor (you can use basic stylings, links). Quote will be displayed in the posts list without the post title."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Please place the status into the Post editor. Status posts will be displayed in the posts list and can be displayed also in the website header area right from logo. Post title will not be displayed. Status post should be a short text, similar to Facebook statuses or tweets on Twitter.com."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Portfolio <br /><small>(on Portfolio page template)</small>"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Portfolio Settings"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Portfolio attributes will let you add any amount of attribute-value sets for the project. You can use it for example to set client name, date of the project, used technology,..."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Portfolio categories, the item was assigned to. Portfolio categories are required for portfolio filtering."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Portfolio item"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Portfolio item (project) details page consists of portfolio item title (and subtitle), item preview and item gallery, item attributes and description. Below each portfolio item content there is dedicated widget area \"Portfolio Item\" ready to be displayed (just assign some widgets to the area) and section of related portfolio items list (can be disabled in theme admin panel)."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Portfolio item creator name. Click to display portfolio items from the author."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Portfolio item type (whether it is Single image, Image slider or Video)."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Portfolio page"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Portfolio page template displays a list of portfolio items and lets you set how the list is displayed."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Position"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Position, role of the team member."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Post Formats"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Post Settings"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Post author information"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Post creator name. Click to display posts from the author."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Published"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Pullquote content goes here"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Pullquotes"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Quote"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Set this for the last column in a column row (set \"1\"). Leave empty or remove the option for standard column. <br />Row exapmles:<br />"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Sets the height of the empty space after devider (in pixels)"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Shortcode"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Sidebar"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Sidebar tab lets you choose the widget area to be displayed as sidebar on this page and the position of the sidebar. If you do not change these settings, theme defaults will be applied."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Sidebar tab lets you choose the widget area to be displayed as sidebar on this post and the position of the sidebar. If you do not change these settings, theme defaults or blog page settings will be applied."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Simply set the slide title, slide featured image, link to more information (will be applied on the slide image and button), button text (when set, button will be displayed). You can also assign slide to a category and set short slide description and choose the slide caption text animation (the default animation is Fading)."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Sitamap page lists portfolio categories, blog categories, tag archives and monthly archives. Also contains a dedicated widget area \"Sitemap / Archives\" that will be displayed under the page content."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Sitemap / archives page"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Slide Settings"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Slide categories, the item was assigned to. You can select specific category when displaying the slider."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Slide creator name. Click to display slides from the author."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Slide link"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Slide title"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Slider"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Slider images"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Slides can be used to populate the featured content slider (other option is to populate slider with image gallery). You can assign slides to different slide categories and then select specific category to populate the featured content slider."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Standard"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Standard post. You can also set featured image."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Status"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Tab content"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Tab item title. Clicking the title switches the tab section."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Tab title"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Table Columns"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Tabs"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Tags"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Tags, the post was tagged with."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Team Member Settings"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Team member info creator name. Click to display team members added by the author."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Team member information text."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Team member name. Click to edit the member info."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Team members will be displayed on the special \"About\" page tamplate."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Text and Layout Shortcodes"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "The [+] button - Simple Shortcode Generator"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "The [Styles] button"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "The date when the client info was added and its publish state."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "The date when the content module was created and its publish state."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "The date when the page was created and publish state."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "The date when the portfolio item was created and its publish state."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "The date when the post was created and its publish state."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "The date when the slide was created and its publish state."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "The date when the team member info was added and its publish state."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "The display of the option groups (tabs) below depends on the page template assigned."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "The name of the page template if assigned."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "The new contact info fields were added by the theme: Twitter link, Facebook link and Google+ link."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "The theme allows you to create as many menus as you want. However these menus can be placed only into two predefined positions."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "The theme comes with several predefined page templates:"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Theme Menu Locations"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "This is just a matter of preference. It seems to help to find the right widget and widget area faster. WebMan widgets are coloured dark to separate them from WordPress default and other widgets. Also every custom widget area created in the theme admin panel is coloured blue (these can be removed, added, reordered - do anything from within theme admin panel)."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "This is main navigation area in the header of the website. The menu can be nested and hierarchically organised. Subtle animation is applied when revealing submenu items, but the menu will work even with JavaScript disabled."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "This is navigation area displayed in the website footer just above credits. Just first hierarchical level of the menu will be displayed, so no need for nested items."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "This is not actually a page template. It is assigned to a page when \"Posts page\" is set under WordPress <strong>Settings / Reading > Front page displays</strong>. This theme (unlike other ones) allows to set specific blog page settings and even add a content that will be displayed above the articles list."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "This is standard post format, but can contain an image gallery. You can place the image gallery into the post content with Post editor or use the Post settings options to place the gallery after the post content. Do not forget to set featured image."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "This page template allows to create page layout from separated widget areas. As you can add any amount of widget areas in the theme admin panel and every widget in every widget area is automatically aligned, you can create amazing countless layouts with ease of drag and drop functionality."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Title"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "To add a new client, simply enter the client's name, set the clients website URL (no link will be applied if left empty) and upload a client logo into featured image area."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "To create an image gallery, attach images to the post and insert the gallery directly into Post editor. If you need to exclude some images from the gallery, Post settings area allows you to do so easily just by selecting them and saving the post. You can also choose to insert these excluded images after the post content (you may also want to set the number of columns). Alternativelly, the theme makes it also easier to remove images from [gallery] shortcode just by passing the parameter \"remove\" where you specify the position numbers of pictures you want to remove, separated by comma. For example, if you need to exclude third, fifth and sixth image from the gallery, just type [gallery remove=\"3,5,6\"]."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Toggle"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Toggle content"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Toggle item title. Clicking the title reveals the toggle section content."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Toggle title"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Type"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "URL"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "URL address of the button link"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Under Contact tab you can set the exact map location by inserting the map link obtained from Google Maps, map zoom (which overrides the one that was set on Google Maps website) and fill in your contact information. If you do not enter the map URL, your address will be used to determine the location on the map. JavaScript antispam filter is applied on your email address to prevent email harvesting."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Under Slider tab you can enable the featured content slider for this page. Simply choose one from several different slider types and tweak the options revealed. If you want the slider to display the page image gallery, just attach images to the page, save or update the page and set \"Slider Content\" to \"Page image gallery\". All attached images will be displayed below, so you can choose which will be displayed in slider. If you add an image later, always save or update the page. Images will be added to the selection after page reloads. If you decided to populate the slider with Slides custom post, you can choose specific category to display slides from."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Under design tab you can set the background image for each portfolio project page individually. Though, this is only possible when boxed website layout used."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Under this tab you can set the widget area sections displayed on Fully Widgetized page template. Some amazing layouts can be done when used wisely."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Use either \"center\" or leave blank for default layout"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Video"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Video URL"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Video height in pixels"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Video width in pixels"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Visit Google.com"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "When you use single image portfolio type it displays featured image as the main portfolio item preview image. In case of heigh featured images you may not be satisfied with the crop applied on the image displayed in portfolio list. This option will let you set the different image used in portfolio list."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Why the colors are strange?"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Widget Areas <br /><small>(on Fully widgetized page template)</small>"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Widget area"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Widget area ID"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Wrap all accordion items in %1$s and %2$s"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Wrap all tab items in %1$s and %2$s"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "You can choose to display filterable portfolio, where all portfolio items will be listed on the page and they can be filtered out by the category, or standard paginated portfolio list. Or you can select specific portfolio category of items to be displayed on this page (you can create multiple portfolios this way, note that filterable option will not work when the category is selected). If you want, you can override the default portfolio list layout too."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "You can easily display this Content Module in post or page. Just copy this shortcode and insert it into the post content. (For more information on other options check contextual help for [content_module] shortcode when editing the post.)"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "You can remove specific columns from the table in Screen Options."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "You can use one of the predefined values:"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "You need to set the portfolio type first. Choose from single image, image slider or video. For all types you need to set featured image. Single image type will display featured image as portfolio preview. Image slider type will display image gallery slider in portfolio preview area. Video will be displayed in preview area on video portfolio item type (to display the video, enter the full video URL into the field (check the <a href=\"http://codex.wordpress.org/Embeds#Can_I_Use_Any_URL_With_This.3F\" target=\"_blank\">list of supported video portals</a>))."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "Your address (separate address details with comma)"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "[+] button"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "[Styles] button"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "boolean"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "create a link element and apply the preffered button style. To make the button larger, apply the \"- medium size\" or \"- large size\" styles on the button."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "create an unordered list, select it and apply preffered list style."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "customize and insert a Content Module custom post into the content of the current post/page"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "customize and insert a map into the post or page content"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "customize and insert an embeded video into the post/page content"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "hex"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "number"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "or leave empty for default"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "predefined"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "select a heading followed by text elements and apply \"Toggle wrapper\" style. Then select the heading inside toggle wrapper and apply \"Section title\" (note that section title must be the first element in the toggle). Note that there has to be at least an empty line (or different content element) betweent toggles created with the [Styles] button. If you need the sequence of toggles withou a line space or other text between them, use [toggle] shortcode."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "select a part of text and apply a marker to highlight it."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "select an unformated text and apply a message box style. You can add an icon just by applying the icon styles on the created message box."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "select an unformated text and apply preffered pullquote style."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "select the first letter of a paragraph and apply preffered dropcap style."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "select unformated text and apply the column size. Do not forget to apply the \"- last column in row\" style on the last column in a row of columns."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "select, which widget area will be inserted (as horizontal section) into the post or page"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "set and iserted a vertical devider into the post or page"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "text"
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "to insert an accordion create an unordered list, select it and apply \"Accordion wrapper\" style. Create an accordion section toggle title by selecting the first few words (or sentence) in each section (list item) and apply the \"Section title\" style. Additionally you can make the accordion automatic by applying \"- automatic accordion\" style."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "to insert tabs create an unordered list, select it and apply \"Tabs wrapper\" style. To create a tab title (the actual tab), select the first few words in each section (list item) and apply the \"Section title\" style."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "wraps the selected text in the CODE HTML inline tag."
+msgstr ""
+
+#. Text in function
+#: jaguar-translate/library/help/a-help.php:1
+msgid "you can frame the image with \"Framed image\" style (just select the image and apply the style) or remove top margin from headings or paragraphs by applying the \"No top margin\" style on the element."
+msgstr ""

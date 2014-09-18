@@ -1,0 +1,368 @@
+/*********************************************/
+/* E X P E R I M E N T A L                   */
+/*********************************************/
+
+/*********************************************/
+/* columns                                   */
+/*********************************************/
+
+	/* content columns */
+		/* columns wrapper - used in widget wrappers */
+			.columns {
+				position: relative;
+				overflow: hidden;
+			}
+
+		/* single column (and widget in widget wrappers) basic styles */
+			.column,
+			.columns > .widget {
+				position: relative;
+				float: left;
+				padding: 0;
+				margin: 0 4% 0 0;
+			}
+				.columns > .widget,
+				.columns > .column {margin: 0 0 0 4%}
+					.columns > .widget:first-child,
+					.columns > .column:first-child,
+					.column.no-margin {margin: 0}
+					.column.last {margin-right: 0 !important}
+					.column.last + * {clear: both}
+
+		/* column widths */
+		/* full width = 990, normal content width = 720 */
+		/* 1/1 */
+			.columns.count-1 > div,
+			.columns.count-1 > .widget,
+			.columns.count-1 > .column {width: 100%}
+			.col-11 {width: 100%}
+
+		/* 1/2 */
+			.columns.count-2 > div,
+			.columns.count-2 > .widget,
+			.columns.count-2 > .column,
+			.col-12 {width: 48%}
+			.col-12.no-margin {width: 50%}
+
+		/* 1/3, 2/3 */
+			.columns.count-3 > div,
+			.columns.count-3 > .widget,
+			.columns.count-3 > .column,
+			.col-13 {width: 30.6%}
+			.col-23 {width: 65.2%}
+			.col-13.no-margin {width: 33.33%}
+			.col-23.no-margin {width: 66.66%}
+
+		/* 1/4, 3/4 */
+			.columns.count-4 > div,
+			.columns.count-4 > .widget,
+			.columns.count-4 > .column,
+			.col-14 {width: 22%}
+			.col-34 {width: 74%}
+			.col-14.no-margin {width: 25%}
+			.col-34.no-margin {width: 75%}
+
+		/* 1/5, 2/5, 3/5, 4/5 */
+			.columns.count-5 > div,
+			.columns.count-5 > .widget,
+			.columns.count-5 > .column,
+			.col-15 {width: 16.8%}
+			.col-25 {width: 37.6%}
+			.col-35 {width: 58.4%}
+			.col-45 {width: 79.2%}
+			.col-15.no-margin {width: 20%}
+			.col-25.no-margin {width: 40%}
+			.col-35.no-margin {width: 60%}
+			.col-45.no-margin {width: 80%}
+
+		/* 1/6, 5/6 */
+			.columns.count-6 > div,
+			.columns.count-6 > .widget,
+			.columns.count-6 > .column,
+			.col-16 {width: 13.3%}
+			.col-56 {width: 82.5%}
+			.col-16.no-margin {width: 16.66%}
+			.col-56.no-margin {width: 83.30%}
+
+
+
+	/* gallery columns */
+		.gallery-columns {overflow: hidden}
+		.gallery-columns a {
+			display: block;
+			padding: 4px;
+			border: 1px solid #eee;
+		}
+		.gallery-columns img {width: 100%}
+		.gallery-columns .column {margin-top: 30px}
+		.gallery-columns .column.first-row {margin-top: 0}
+		.single-wm_portfolio .gallery-columns {padding-bottom: 30px}
+		.single-wm_portfolio .gallery-columns .column {
+			position: relative;
+			margin-top: 30px;
+			margin-bottom: 0;
+		}
+		.gallery-caption {
+			display: none;
+			position: absolute;
+			width: 90%;
+			left: 0;
+			bottom: 0;
+			padding: 10px 5%;
+			line-height: 1.25em;
+			color: #ccc;
+			background: url(../img/dark/transparent/80.png);
+		}
+
+
+
+
+/*
+* Based on Skeleton V1.1 by Dave Gamache
+* www.getskeleton.com
+*/
+
+
+/* Table of Contents
+==================================================
+    #Base 960 Grid
+    #Tablet (Portrait)
+    #Mobile (Portrait)
+    #Mobile (Landscape)
+    #Clearing */
+
+
+
+/* #Base 1080 Grid
+================================================== */
+
+	.pane {}
+
+
+
+/* #Tablet (Landscape)
+================================================== */
+
+	/* Note: Design for a width of 1024px (gutter 30px, pane 50px) */
+
+	@media only screen and (min-width: 768px) and (max-width: 1199px) {
+		/* boxed, x = 30 */
+		body.boxed {}
+			.boxed #wrap {
+				width: 1020px !important; /* 960 + x + x */
+				margin: 0 -510px !important; /* (960 + x + x) / 2 */
+			}
+			.boxed .wrap-inner,
+			.boxed .wrap-widgets {
+				width: 960px !important;
+				padding: 0 30px !important; /* x */
+			}
+			.boxed .section {
+				padding-left: 30px !important; /* x */
+				padding-right: 30px !important; /* x */
+				margin: 0 -30px !important; /* -x */
+			}
+
+			.boxed .cta {padding-right: 90px !important} /* 60 + x */
+			.boxed .cta.no-btn {padding-right: 30px !important} /* x */
+			.boxed .cta .btn {margin-right: 30px !important} /* x */
+
+			.boxed #nav-main ul {
+				padding-left: 30px !important; /* x */
+				padding-right: 30px !important; /* x */
+			}
+
+			.boxed .status {margin-right: 30px !important} /* x */
+
+		#footer > .wrap-inner {
+			padding-top: 30px !important;
+			padding-bottom: 30px !important;
+		}
+
+		.portfolio-content > ul,
+		.clients ul {width: 100% !important}
+	}
+
+
+
+/* #Tablet (Portrait)
+================================================== */
+
+	/* Note: Design for a width of 768px (gutter 20px, pane 40px) */
+
+	@media only screen and (min-width: 768px) and (max-width: 1019px) {
+		/* boxed, x = 20 */
+		body.boxed {}
+			.boxed #wrap {
+				width: 760px !important; /* 720 + x + x */
+				margin: 0 -380px !important; /* (720 + x + x) / 2 */
+			}
+			.boxed .wrap-inner,
+			.boxed .wrap-widgets {
+				width: 720px !important;
+				padding: 0 20px !important; /* x */
+			}
+			.boxed .section {
+				padding-left: 20px !important; /* x */
+				padding-right: 20px !important; /* x */
+				margin: 0 -20px !important; /* -x */
+			}
+
+			.boxed .cta {padding-right: 80px !important} /* 60 + x */
+			.boxed .cta.no-btn {padding-right: 20px !important} /* x */
+			.boxed .cta .btn {margin-right: 20px !important} /* x */
+
+			.boxed #nav-main ul {
+				padding-left: 20px !important; /* x */
+				padding-right: 20px !important; /* x */
+			}
+
+			.boxed .status {margin-right: 20px !important} /* x */
+
+		/* widgets */
+		.portfolio-content > ul,
+		.clients ul {width: 100% !important}
+
+		/* sliders */
+		#slider .nivo-slider,
+		#slider ul.roundabout-slider,
+		#slider ul.kwicks-slider,
+		#slider .simple-slider {
+			width: 100% !important;
+			left: 0 !important;
+			margin: 0 !important;
+		}
+		#slider img {width: 100% !important}
+		#slider .slider-caption-content {display: none !important}
+
+		/* footer */
+		#footer > .wrap-inner {
+			padding-top: 20px !important;
+			padding-bottom: 20px !important;
+		}
+	}
+
+
+/*  #Mobile (Portrait)
+================================================== */
+
+	/* Note: Design for a width of 320px */
+
+	@media only screen and (max-width: 767px) {
+		/* boxed, x = 4% */
+		body.boxed {}
+			.boxed #wrap {
+				width: 98% !important; /* 720 + x + x */
+				margin: 0 -49% !important; /* (720 + x + x) / 2 */
+			}
+			.boxed .wrap-inner,
+			.boxed .wrap-widgets {
+				width: 90% !important;
+				padding: 0 4% !important; /* x */
+			}
+			.boxed .section {
+				padding-left: 4% !important; /* x */
+				padding-right: 4% !important; /* x */
+				margin: 0 -4% !important; /* -x */
+			}
+
+			.boxed .cta {padding-right: 80px !important} /* 60 + x */
+			.boxed .cta.no-btn {padding-right: 4% !important} /* x */
+			.boxed .cta .btn {margin-right: 4% !important} /* x */
+
+			.boxed #nav-main ul {
+				padding-left: 4% !important; /* x */
+				padding-right: 4% !important; /* x */
+			}
+
+			.boxed .status {margin-right: 4% !important} /* x */
+
+		/* content columns */
+		.columns > div,
+		.columns > .widget,
+		.column {
+			width: 100% !important;
+			margin-left: 0 !important;
+			margin-right: 0 !important;
+		}
+		.column + .column,
+		.columns > .widget + .widget {margin-top: 20px}
+
+		/* widgets */
+		.portfolio-content > ul {width: 100% !important}
+
+		/* widget areas */
+		#above-footer {display: none}
+
+		/* sliders */
+		#slider .nivo-slider,
+		#slider ul.roundabout-slider,
+		#slider ul.kwicks-slider,
+		#slider .simple-slider {
+			width: 100% !important;
+			left: 0 !important;
+			margin: 0 !important;
+		}
+		#slider img {width: 100% !important}
+		#slider .slider-caption-content {display: none !important}
+
+		/* header */
+		.logo,
+		h1.logo,
+		.status {
+			position: relative !important;
+			width: 100% !important;
+			float: none;
+			clear: both;
+			padding: 20px 0 !important;
+			margin: 0 !important;
+			text-align: center !important;
+		}
+
+		/* footer */
+		#footer > .wrap-inner {
+			padding-top: 20px !important;
+			padding-bottom: 20px !important;
+		}
+	}
+
+
+/* #Clearing
+================================================== */
+
+	/* Self Clearing Goodness */
+		.wrap-inner:after {
+			content: "\0020";
+			display: block;
+			height: 0;
+			clear: both;
+			visibility: hidden;
+		}
+
+	/* Use clearfix class on parent to clear nested columns,
+	or wrap each row of columns in a <div class="row"> */
+		.clear:before,
+		.clear:after,
+		.clearfix:before,
+		.clearfix:after,
+		.row:before,
+		.row:after {
+			content: '\0020';
+			display: block;
+			overflow: hidden;
+			visibility: hidden;
+			width: 0;
+			height: 0;
+		}
+		.row:after,
+		.clear:after,
+		.clearfix:after {
+			clear: both;
+		}
+		.row,
+		.clear,
+		.clearfix {
+			zoom: 1;
+		}
+
+

@@ -1,0 +1,110 @@
+/*
+*****************************************************
+* WEBMAN'S WORDPRESS THEME FRAMEWORK
+* Created by WebMan - www.webmandesign.eu
+*
+* WebMan Shortcodes Generator CSS styles
+*****************************************************
+*/
+
+/*********************************************/
+/* general classes                           */
+/*********************************************/
+
+/* main container */
+#wm-shortcode-generator {
+	display: none;
+	margin: 20px;
+	}
+	#wm-shortcode-generator p {
+		padding: 10px 0;
+		margin: 0;
+		}
+
+#ui-dialog-title-wm-shortcode-generator {line-height: 28px}
+#ui-dialog-title-wm-shortcode-generator + a {margin-top: 6px}
+
+#wm-shortcode-generator .shortcode-title {font-size: 1.4em}
+
+
+
+/*********************************************/
+/* tabs                                      */
+/*********************************************/
+
+/* tabs */
+ul.wm-tabs {
+	position: relative;
+	height: 26px;
+	padding: 0;
+	margin: 0 0 -1px 0;
+	font-size: 11px;
+	overflow: hidden;
+	z-index: 20;
+	}
+	ul.wm-tabs li {
+		float: left;
+		height: 24px;
+		margin: 0 1px 0 0;
+		}
+		ul.wm-tabs li a {
+			display: block;
+			height: 24px;
+			line-height: 24px;
+			padding: 0 10px;
+			text-decoration: none;
+			border-top: 1px solid #ccc;
+			border-right: 1px solid #ccc;
+			border-left: 1px solid #ccc;
+			background: #eee;
+			color: #666;
+			z-index: 20;
+			}
+			ul.wm-tabs li.active a,
+			ul.wm-tabs li a:hover {
+				height: 25px;
+				background: #fff;
+				color: #000;
+				}
+
+/* tab content */
+.wm-tabs-content {
+	padding: 6px 20px 20px 20px;
+	border: 1px solid #ccc;
+	background: #fff;
+	}
+
+
+
+/*********************************************/
+/* forms                                     */
+/*********************************************/
+
+#wm-shortcode-form table {
+	width: 100%;
+	padding-top: 10px;
+	border-top: 1px solid #eee;
+	border-bottom: 1px solid #eee;
+	}
+	#wm-shortcode-form td:first-child {width: 30%}
+#wm-shortcode-form select {width: 100%}
+#wm-shortcode-form input[type="text"] {
+	width: 80%;
+	margin-right: 10px;
+	}
+
+/* apply input changes button */
+#wm-shortcode-form .ico-apply {
+	vertical-align: middle;
+	cursor: pointer;
+	}
+
+/* output button */
+.wm-shortcode-output {
+	padding: 10px;
+	font-family: monospace;
+	background: #eee;
+	border: 1px dashed #ccc;
+	}
+
+/* END OF FILE */

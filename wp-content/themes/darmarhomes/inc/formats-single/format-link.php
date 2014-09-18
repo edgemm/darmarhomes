@@ -1,0 +1,29 @@
+<?php
+$link = ( has_excerpt() ) ? ( esc_url( get_the_excerpt() ) ) : ( '#' );
+?>
+
+<?php
+$positions = array(
+	'formaticon',
+	'date',
+	'cats',
+	'author'
+	);
+
+wm_meta( $positions );
+?>
+
+<div class="article-content">
+	<h2 class="mt0">
+		<small><?php _e( 'Link:', WM_THEME_TEXTDOMAIN ); ?></small> <a href="<?php echo $link; ?>"><?php the_title(); ?></a>
+	</h2>
+
+	<?php
+	if ( ! has_excerpt() )
+		echo '<div class="msg type-red icon-box icon-warning">' . __( 'Please place the URL address into the excerpt field', WM_THEME_TEXTDOMAIN ) . '</div>';
+
+	the_content();
+	?>
+</div>
+
+<?php wm_meta( array( 'tags' ) ); ?>

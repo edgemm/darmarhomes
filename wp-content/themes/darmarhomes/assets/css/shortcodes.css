@@ -1,0 +1,322 @@
+/*********************************************/
+/* shortcodes / styles                       */
+/*********************************************/
+
+/* framed image */
+	img.frame {
+		padding: 4px;
+		border: 1px solid #eee;
+	}
+
+
+
+/* buttons */
+	a.btn.type-gray {
+		color: #666;
+		background-color: #eee;
+		border-color: #eee;
+	}
+	a.btn.type-green {
+		color: #666;
+		background-color: #6f9;
+		border-color: #6f9;
+	}
+	a.btn.type-blue {
+		color: #666;
+		background-color: #bdf;
+		border-color: #bdf;
+	}
+	a.btn.type-orange {
+		color: #666;
+		background-color: #fc0;
+		border-color: #fc0;
+	}
+	a.btn.type-red {
+		color: #666;
+		background-color: #fa9;
+		border-color: #fa9;
+	}
+	a.btn.size-medium {padding: 7px 15px}
+	a.btn.size-large {padding: 10px 20px}
+
+
+
+/* lists */
+	ul.arrow li,
+	div.arrow ul li {
+		padding-left: 24px;
+		background-image: url(../img/dark/bullets/arrow.png) !important;
+	}
+	ul.arrow-invert li,
+	div.arrow-invert ul li {
+		padding-left: 24px;
+		background-image: url(../img/dark/bullets/arrow-inverted.png) !important;
+	}
+	ul.star li,
+	div.star ul li {
+		padding-left: 24px;
+		background-image: url(../img/dark/bullets/star.png) !important;
+	}
+	ul.star-invert li,
+	div.star-invert ul li {
+		padding-left: 24px;
+		background-image: url(../img/dark/bullets/star-inverted.png) !important;
+	}
+	ul.check li,
+	div.check ul li {
+		padding-left: 24px;
+		background-image: url(../img/dark/bullets/check.png) !important;
+	}
+	ul.check-invert li,
+	div.check-invert ul li {
+		padding-left: 24px;
+		background-image: url(../img/dark/bullets/check-inverted.png) !important;
+	}
+	ul.plus li,
+	div.plus ul li {
+		padding-left: 24px;
+		background-image: url(../img/dark/bullets/plus.png) !important;
+	}
+	ul.plus-invert li,
+	div.plus-invert ul li {
+		padding-left: 24px;
+		background-image: url(../img/dark/bullets/plus-inverted.png) !important;
+	}
+
+	.bg-dark ul.arrow li,
+	.bg-dark div.arrow ul li {background-image: url(../img/light/bullets/arrow.png) !important}
+	.bg-dark ul.arrow-invert li,
+	.bg-dark div.arrow-invert ul li {background-image: url(../img/light/bullets/arrow-inverted.png) !important}
+	.bg-dark ul.star li,
+	.bg-dark div.star ul li {background-image: url(../img/light/bullets/star.png) !important}
+	.bg-dark ul.star-invert li,
+	.bg-dark div.star-invert ul li {background-image: url(../img/light/bullets/star-inverted.png) !important}
+	.bg-dark ul.check li,
+	.bg-dark div.check ul li {background-image: url(../img/light/bullets/check.png) !important}
+	.bg-dark ul.check-invert li,
+	.bg-dark div.check-invert ul li {background-image: url(../img/light/bullets/check-inverted.png) !important}
+	.bg-dark ul.plus li,
+	.bg-dark div.plus ul li {background-image: url(../img/light/bullets/plus.png) !important}
+	.bg-dark ul.plus-invert li,
+	.bg-dark div.plus-invert ul li {background-image: url(../img/light/bullets/plus-inverted.png) !important}
+
+
+
+/* dropcaps */
+	.dropcap {
+		float: left;
+		display: block;
+		width: 32px;
+		margin: 4px 15px 0 0;
+		line-height: 32px;
+		text-align: center;
+	}
+	.dropcap.round {
+		-webkit-border-radius: 100px;
+		-moz-border-radius: 100px;
+		border-radius: 100px;
+		color: #fff;
+		background-color: #000;
+	}
+	.dropcap.square {
+		color: #fff;
+		background-color: #000;
+	}
+
+
+
+/* markers */
+	.marker {
+		padding: 2px 5px;
+		text-shadow: none !important;
+		-webkit-border-radius: 2px;
+		-moz-border-radius: 2px;
+		border-radius: 2px;
+	}
+	.marker.type-gray {
+		color: #000;
+		background-color: #eee;
+	}
+	.marker.type-green {
+		color: #000;
+		background-color: #6f9;
+	}
+	.marker.type-blue {
+		color: #000;
+		background-color: #bdf;
+	}
+	.marker.type-orange {
+		color: #000;
+		background-color: #fc0;
+	}
+	.marker.type-red {
+		color: #000;
+		background-color: #fa9;
+	}
+
+
+
+/* pullquotes */
+	blockquote.pullquote {width: 30%}
+
+
+
+/* deviders */
+	.devider {
+		position: relative;
+		display: block;
+		clear: both;
+		width: 100%;
+		height: 0;
+		padding: 30px 0 0;
+		margin: 0 0 30px;
+		text-align: right;
+		border-bottom: 1px solid #eee;
+	}
+	.devider.no-border {
+		padding-top: 0;
+		border: none;
+	}
+	.devider.type-top.no-border {padding: 20px 0}
+	.devider a {
+		position: absolute;
+		right: 0;
+		top: 30px;
+	}
+	.devider.no-border a {top: 20px}
+
+
+
+/* message boxes */
+	div.msg.type-gray {
+		color: #000;
+		color: rgba(0,0,0, 0.66);
+		background-color: #eee;
+		border-color: #eee;
+	}
+	div.msg.type-green {
+		color: #000;
+		color: rgba(0,0,0, 0.66);
+		background-color: #6f9;
+		border-color: #6f9;
+	}
+	div.msg.type-blue {
+		color: #000;
+		color: rgba(0,0,0, 0.66);
+		background-color: #bdf;
+		border-color: #bdf;
+	}
+	div.msg.type-orange {
+		color: #000;
+		color: rgba(0,0,0, 0.66);
+		background-color: #fc0;
+		border-color: #fc0;
+	}
+	div.msg.type-red {
+		color: #000;
+		color: rgba(0,0,0, 0.66);
+		background-color: #fa9;
+		border-color: #fa9;
+	}
+	.ie7 div.msg {border: none}
+	div.msg.icon-box {padding-left: 64px}
+	div.msg a {
+		text-decoration: underline;
+		color: #000;
+	}
+		div.msg a:hover {text-decoration: none}
+
+
+
+/* tabs, accordions and toggles */
+	.accordion-wrapper,
+	.toggle-wrapper,
+	.tabs-wrapper {
+		padding: 0;
+		margin: 1em 0;
+		overflow: hidden;
+	}
+	.tabs-wrapper > ul > li,
+	.accordion-wrapper > ul > li {
+		padding: 0;
+		margin: 0;
+		background: none;
+	}
+	.no-js .tabs-wrapper {padding: 0 0 1em}
+
+	/* tabs */
+	.tabs-wrapper ul.tabs {
+		padding-bottom: 0;
+		margin: 0;
+		overflow: hidden;
+	}
+	.tabs-wrapper ul.tabs li {
+		float: left;
+		padding: 0;
+		margin-right: 2px;
+		border-left: 1px solid #eee;
+		border-top: 1px solid #eee;
+		border-right: 1px solid #eee;
+		background: none;
+	}
+		.no-js .tabs-wrapper > ul > li {background: none !important}
+	.tabs-wrapper .tabs li a {
+		display: block;
+		padding: 0.5em 15px;
+		text-decoration: none;
+	}
+	.tabs-wrapper li.active a {}
+		.no-js .tab-heading {padding-bottom: 0.5em}
+
+	/* tab content */
+	.tabs-wrapper .tabs + ul {margin: 0}
+	.tabs-wrapper .tabs + ul > li,
+	.accordion-content,
+	.toggle-content {
+		padding: 1em;
+		background-repeat: repeat;
+		overflow: hidden;
+	}
+
+	/* accordions and toggles */
+	.accordion-wrapper > ul {
+		margin: 0;
+		padding: 0;
+		border-bottom: 1px solid #eee;
+	}
+		.no-js .accordion-wrapper > ul {border: none}
+	.accordion-wrapper > ul > li {
+		padding: 0;
+		background: transparent !important;
+		overflow: hidden;
+	}
+		.no-js .accordion-wrapper > ul > li {padding: 0 0 1em}
+	.accordion-heading,
+	.toggle-heading {
+		position: relative;
+		height: 40px;
+		padding: 0 32px 0 15px;
+		margin: 0;
+		line-height: 40px;
+		background-repeat: no-repeat;
+		background-position: 98% 50%;
+		border-top: 1px solid #eee;
+		border-right: 1px solid #eee;
+		border-left: 1px solid #eee;
+		cursor: pointer;
+	}
+		.toggle-heading {border: 1px solid #eee}
+		.no-js .accordion-heading,
+		.no-js .toggle-heading {border: none}
+
+	.bg-light .accordion-heading,
+	.bg-light .toggle-heading {background-image: url(../img/dark/bullets/plus.png)}
+	.bg-dark .accordion-heading,
+	.bg-dark .toggle-heading {background-image: url(../img/light/bullets/plus.png)}
+
+	.bg-light .active .accordion-heading,
+	.bg-light .active .toggle-heading {background-image: url(../img/dark/bullets/minus.png)}
+	.bg-dark .active .accordion-heading,
+	.bg-dark .active .toggle-heading {background-image: url(../img/light/bullets/minus.png)}
+
+

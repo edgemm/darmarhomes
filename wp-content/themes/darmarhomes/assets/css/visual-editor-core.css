@@ -1,0 +1,127 @@
+/*
+*****************************************************
+* WEBMAN'S WORDPRESS THEME FRAMEWORK
+* Created by WebMan - www.webmandesign.eu
+*
+* WordPress visual editor stylesheet
+*****************************************************
+*/
+
+body {
+	min-width: 480px !important;
+	width: 720px;
+	padding: 10px;
+	font-size: 13px;
+}
+
+
+
+/* text selection colors */
+body ::-moz-selection {background: #ccc}
+body ::selection {background: #ccc}
+
+
+
+/* columns */
+.column img {max-width: 100% !important}
+
+
+
+/* lists */
+	ol ol {list-style: upper-alpha}
+	ol ol ol {list-style: lower-roman}
+	ol ol ol ol {list-style: lower-alpha}
+
+	ul,
+	ol {
+		margin-top: 1em;
+		padding-left: 0;
+		margin-left: 0;
+		list-style: none;
+	}
+	ol {
+		margin-left: 1.5em;
+		list-style: decimal;
+	}
+
+	ul > li {
+		padding: 0 0 0 18px;
+		margin-top: 0.5em;
+		background-repeat: no-repeat;
+		background-position: 0 0.2em;
+		background-image: url(../img/dark/bullets/bullet.png) !important;
+	}
+
+	ul.no-bullets li {
+		padding: 0;
+		background: transparent !important;
+	}
+	ul.list-inline li {display: inline}
+
+	li:first-child {margin-top: 0}
+
+	li ul,
+	li ol {
+		margin-top: 0.5em;
+		margin-bottom: 0.5em;
+	}
+
+
+
+/* shortcodes / styles overrides in visual editor */
+
+	/* framed image */
+	img.frame {border: 1px dotted #999}
+
+	/* columns */
+		.column {
+			padding-top: 10px;
+			padding-bottom: 10px;
+		}
+
+	/* accordion */
+		div.accordion-wrapper,
+		div.toggle-wrapper,
+		div.tabs-wrapper {
+			padding: 10px;
+			background: url(../../library/assets/img/marks/mark-accordion.png) no-repeat 10px 0;
+			border: 1px dotted #999;
+			-webkit-border-radius: 10px;
+			-moz-border-radius: 10px;
+			border-radius: 10px;
+		}
+		div.accordion-wrapper ul,
+		div.tabs-wrapper ul {border: none}
+			div.accordion-wrapper,
+			div.toggle-wrapper {padding-top: 20px}
+			div.accordion-wrapper.auto {background: url(../../library/assets/img/marks/mark-accordion-auto.png) no-repeat 10px 0}
+		div.accordion-wrapper li,
+		div.tabs-wrapper li {
+			padding: 10px 0 !important;
+			background: none !important;
+			border-top: 1px dotted #999;
+		}
+			div.accordion-wrapper li:first-child,
+			div.tabs-wrapper li:first-child {border: none}
+		.accordion-heading,
+		.toggle-heading,
+		.tab-heading {
+			height: auto !important;
+			line-height: 1em !important;
+			padding: 5px 10px !important;
+			margin: 0 0 0.5em !important;
+			background: #eee !important;
+			border: none !important;
+			-webkit-border-radius: 10px;
+			-moz-border-radius: 10px;
+			border-radius: 10px;
+		}
+
+	/* toggle */
+		div.toggle-wrapper {background: url(../../library/assets/img/marks/mark-toggle.png) no-repeat 10px 0}
+
+	/* tabs */
+		div.tabs-wrapper {background: url(../../library/assets/img/marks/mark-tabs.png) no-repeat 10px 0}
+		h2.tab-heading {background: #ccc}
+
+

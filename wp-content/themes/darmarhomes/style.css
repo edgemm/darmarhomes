@@ -1,0 +1,234 @@
+/*
+Theme Name: Dar Mar Homes
+Theme URI: http://www.edgemm.com/
+Author: Zack Stack // Edge Multimedia
+Author URI: http://www.edgemm.com/
+Description: This is a customized 2013 WordPress Theme designed for Dar Mar Homes based upon the Jaguar Theme by WebMan -- WordPress v3.4.1
+Version: 2.1
+License: GPL, README_License
+License URI: http://wiki.envato.com/support/legal-terms/licensing-terms/
+Tags: professional, portfolio, creative, clean, modern, lightbox, prettyphoto, business, minimal, wpml, blog, dark, jquery, advanced, customizable
+*/
+
+@import url('assets/css/style.css.php');
+
+/*------------------------
+COLOR SCHEME:
+Cedar Red = #a0410d
+Orange = #cd8329
+Black = #231f20
+Gray = #c4c6c8
+Light Gray = #e7e8e9
+White = #FFF
+-------------------------*/
+
+html {
+     background-image: url(http://darmarhomes.com/wp-content/themes/darmarhomes/assets/img/patterns/white-noise.png);
+     background-color: #231f20;
+}
+
+#nav-main {
+     background-color: #a0410d;
+     background: -moz-linear-gradient(
+		top,
+		#ad4811 0%,
+		#85370d);
+	background: -webkit-gradient(
+		linear, left top, left bottom, 
+		from(#ad4811),
+		to(#85370d));    
+}
+
+#nav-main li a:hover span,
+#nav-main li:hover > a span,
+#nav-main li.active > a span,
+#nav-main li.current-menu-item > a span,
+#nav-main li.current-menu-parent > a span,
+#nav-main li.current-post-ancestor > a span,
+#nav-main li.current-page-ancestor > a span,
+#nav-main li.current-menu-ancestor > a span {
+     text-decoration: none;
+     border-color: #cd8329;
+}
+
+/* fonts */
+.font-primary,
+body,
+.quote-source,
+input,
+select,
+textarea,
+.btn,
+input[type="submit"] {
+	font-family: Helvetica, Arial, FreeSans, sans-serif;
+}
+
+#nav-main {
+     font-size: 0.95em;
+}
+
+.section {
+     position: relative;
+     clear: both;
+     padding: 20px 0;
+}
+
+.portfolio-nav {
+     padding: 12px 0 15px 0;
+}
+
+.font-secondary,
+h1, h2, h3, h4, h5, h6,
+blockquote,
+.format-status .article-content,
+.cta,
+.big-size,
+.list-articles .date {
+     font-family: 'Sorts Mill Goudy', Georgia, serif;
+     font-weight: normal;
+}
+
+h2 {
+    color: #a0410d;
+	margin-top: 0;
+        text-transform: uppercase;
+	font-size: 1.7em;
+}
+
+h3 {
+	color: #515151;
+	font-size: 1.4em;
+	font-weight: bold;
+}
+
+h4 {
+	font-size: 1.4em;
+}
+
+.cta-text {
+	color: #515151;
+	line-height: 1.2em;
+}
+
+#breadcrumbs {
+	font-size: 1.0em;
+	line-height: 40px;
+	height: 40px;
+}
+
+/*#breadcrumbs .home-item {
+	font-size: 1.0em;
+}*/
+
+#breadcrumbs .current-item {
+	color: #515151;
+}
+
+.article-content a {
+	padding-bottom: 0px;
+	border-bottom: 1px dashed #cd8329;
+}
+
+.article-content a:hover {
+	padding-bottom: 0px;
+	border-bottom: none;
+}
+
+article.main.normal-width p {
+	color: #3e3e3e;
+	font-size: 1.2em;
+	line-height: 24px;
+}
+
+.status {
+     font-family: Helvetica, Arial, FreeSans, sans-serif;     
+     font-weight: bold;
+}
+
+.status.type-status {
+	font-size: 1.6em;
+}
+
+blockquote {
+     font-size: 1.5em;
+}
+
+.bg-light blockquote {
+     background-image: url(http://darmarhomes.com/wp-content/themes/darmarhomes/assets/img/dark/quote-sorts-mill-goudy.png);
+}
+
+blockquote.pullquote {
+     width: 35%;
+}
+
+.horiz-page-divider {
+	border-bottom: 1px dashed #e1e1e1; 
+	padding-bottom: 26px; 
+	margin-bottom: 26px;
+}
+
+.dropcap.square {
+     font-family: 'Sorts Mill Goudy', Georgia, serif;
+     font-size: 1.7em;
+     background-color: #a0410d;
+     border: 1px solid rgba(0, 0, 0, 0.0976563);
+}
+
+a.btn.type-orange, .marker.type-orange, div.msg.type-orange, div.msg.type-orange a {
+     background-color: #cd8329;
+     color: #ffffff !important;
+     text-shadow: 0 -1px rgba(0,0,0, 0.33);
+}
+
+.portfolio-content .desc a {
+     background-color: #cd8329;
+     background-color: rgba(205,131,41, 0.9);
+     overflow: hidden;
+}
+
+.portfolio-content img {
+     width: 215px;
+     height: 215px;
+     border: 1px solid #e1e1e1;
+}
+
+.portfolio-preview img {
+     width: 720px;
+     border: 1px solid #e7e8e9;
+}
+
+.textwidget p {
+	color: #515151;
+}
+
+::selection {
+     background-color: #cd8329;
+     color: #3e3e3e;
+}
+
+.sidebar .widget-heading {
+     padding: 10px;
+}
+
+.sidebar .widget-heading + .textwidget {
+     margin-top: 15px;
+     font-size: 1.2em;
+     color: #3e3e3e;
+}
+
+#content .widget-heading {
+     border: 1px solid rgba(0, 0, 0, 0.0976563);
+     font-size: 1.3em;
+     letter-spacing: 2px;
+     padding-top: 14px;
+}
+
+#main-heading, #main-heading.set-bg {
+     border-top: 1px solid rgba(0, 0, 0, 0.0976563);
+     border-bottom: 1px solid rgba(0, 0, 0, 0.0976563);
+     font-size: 1.1em;
+}
+
+.date .day {
+     color: #a0410d;
+}

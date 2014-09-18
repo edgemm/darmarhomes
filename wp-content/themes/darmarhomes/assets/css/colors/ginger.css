@@ -1,0 +1,473 @@
+/*
+Package: Jaguar
+Color Scheme: Ginger
+Description: Ginger color skin for Jaguar WordPress theme. This is simple static skin that does not adapt to your additional color changes. It is the best startup when you want to create your own skin.
+Version: 1.0
+Author: WebMan
+
+Link color: de5a49
+Text color on light background: 666666
+Headings color on light background: 666666
+Text color on dark background:
+Headings color on dark background:
+
+HTML: 222222
+#wrap: f9f9f9
+#wrap shadow: 25
+Header:
+Slider:
+Call to action:
+Main heading:
+Clients:
+Footer:
+
+Gray color: dddddd
+Text on gray: 666666
+Green color: 88cc66
+Text on green: 444444
+Blue color: 6699cc
+Text on blue: ffffff
+Orange color: d48728
+Text on orange: ffffff
+Red color: de5a49
+Text on red: eeeeee
+
+Icon scheme: light
+
+Font embed: <link href='http://fonts.googleapis.com/css?family=Corben:400,700|Nobile' rel='stylesheet' type='text/css'>
+Font primary: Nobile, Helvetica, Arial, FreeSans, sans-serif
+Font secondary: Corben, Georgia, Times, serif
+*/
+
+/*
+NOTE:
+As the theme automatically detects brightness of background color on main website sections, it is required (for almost all colors) to set their value for both light and dark backgrounds.
+*/
+
+
+
+
+
+/*********************************************/
+/* website background                        */
+/*********************************************/
+html {background-image: url(../img/patterns/light_subtle_zebra_3d.png)}
+
+
+
+
+
+/*********************************************/
+/* text colors                               */
+/*********************************************/
+
+/* text color when link color used as background */
+	.portfolio-content .desc a,
+	.portfolio-nav a:hover,
+	.portfolio-nav .active a {color: #fff !important}
+
+	.portfolio-content .desc span {color: #000}
+
+
+
+
+
+/*********************************************/
+/* core                                      */
+/*********************************************/
+
+/* links */
+	a:hover {text-decoration: underline}
+	a.btn:hover {text-decoration: none}
+
+
+
+/* typography styles */
+	/* call to action text */
+	.font-secondary,
+	.cta-text {font-style: italic}
+
+	/* headings */
+	h1, h2, h3, h4 {font-weight: bold !important}
+
+
+
+/* basic elements and classes */
+	/* quotations */
+	blockquote {background-image: url(../img/dark/quote.png)}
+
+	/* zoomable image zoom image */
+	.zoomable {background-image: url(../img/dark/zoom.png)}
+
+	/* blog date */
+	.date .day {padding-top: 30px}
+
+
+
+/* buttons  */
+	/* default button color (the same as color link) */
+	a.btn,
+	input[type="submit"] {
+		text-shadow: 0 -1px rgba(0,0,0, 0.5);
+		color: #fff;
+	}
+		/* when mouse over */
+		a.btn:hover,
+		input[type="submit"]:hover {
+			color: #fff;
+			-webkit-box-shadow: 0 1px 3px rgba(0,0,0, 0.25);
+			-moz-box-shadow: 0 1px 3px rgba(0,0,0, 0.25);
+			box-shadow: 0 1px 3px rgba(0,0,0, 0.25);
+		}
+
+
+
+/* borders */
+	.frame,
+	pre,
+	td, th,
+	button, input, select, textarea,
+	.wm-sub-pages ul, .wm-sub-pages li ul, .wm-sub-pages a,
+	.border-color,
+	.devider,
+	.meta-article,
+	.wp-caption, .wp-caption img,
+	.tabs-wrapper ul.tabs li, .accordion-heading, .toggle-heading, .accordion-wrapper ul,
+	.gallery-columns a,
+	.widget ul, .widget li a, .widget_recent_comments ul li.recentcomments, .widget_archive ul li, .widget_categories ul li,
+	.wm-portfolio-list img,
+	.wm-post-list .image-container,
+	.gravatar,
+	.footer-widgets-wrap {
+		/* requires !important rule */
+		border-color: #dddddd !important;
+		border-color: rgba(0,0,0, 0.1) !important;
+	}
+
+	#top-bar input[type="text"] {
+		border-color: #222222 !important;
+		border-color: rgba(255,255,255, 0.1) !important;
+	}
+
+
+
+/* message boxes */
+	/* default message box */
+	.msg {
+		color: #666;
+		color: rgba(0,0,0, 0.66); /* when browser doesn't support RGBA color, falls back to previous line */
+		background-color: #ddd;
+		border-color: #ddd; /* use the same as for message box background color */
+	}
+
+
+
+/* dropcaps */
+	.dropcap.round,
+	.dropcap.square {
+		color: #000;
+		background: url(../img/dark/transparent/10.png);
+		background: rgba(0,0,0, 0.10);
+	}
+
+
+
+/* cite */
+	cite,
+	.quote-source {background-image: url(../img/dark/quote-source.png)}
+
+
+
+/* address */
+	/* main address icon */
+	.address-icons {background-image: url(../img/dark/icons/mail.png)}
+	/* email icon */
+	.contact-email {background-image: url(../img/dark/icons/email.png)}
+	/* phone icon */
+	.contact-phone {background-image: url(../img/dark/icons/phone.png)}
+
+
+
+/* tables */
+	/* table header cells */
+	/* table footer cells */
+	th,
+	tfoot td {
+		color: #000;
+		background: url(../img/dark/transparent/20.png);
+		background: rgba(0,0,0, 0.2);
+	}
+
+	/* table header link */
+	/* table footer link */
+	th a,
+	tfoot a {color: #000}
+
+	/* even table rows background color - doesn't work in older versions of Internet Explorer */
+	tbody tr:nth-child(even) {
+		background: url(../img/dark/transparent/5.png);
+		background: rgba(0,0,0, 0.05);
+	}
+
+	/* table rows background color when mouse over */
+	.article-content tbody tr:hover, .article-content tbody tr:hover td {
+		background: url(../img/dark/transparent/10.png);
+		background: rgba(0,0,0, 0.1);
+	}
+
+
+
+/* stripes */
+	#main-heading,
+	#slider,
+	.portfolio-detail-wrap,
+	.bio,
+	#main-heading,
+	.tabs-wrapper .tabs + ul > li, .tabs-wrapper .tabs li.active a,
+	.accordion-content, .toggle-content,
+	.sidebar .widget-heading,
+	.sitemap-item h5 {background-image: url(../img/dark/stripes/stripes-20.png)}
+
+	#slider.high {background: transparent}
+
+
+
+/* breadcrumbs */
+	/* breadcrumbs link text color */
+	#breadcrumbs a {color: #aaa}
+		/* when mouse over */
+		#breadcrumbs a:hover {color: #000}
+
+	/* current page/post title color */
+	#breadcrumbs .current-item {color: #333}
+
+	/* breadcrumbs separator */
+	#breadcrumbs .separator {background-image: url(../img/dark/separator-breadcrumbs.png)}
+
+
+
+/* pagination */
+	/* dots when lot of page numbers displayed */
+	.page-numbers.dots {background: none}
+
+	/* default pagination numbers colors */
+	/* default post pagination number colors */
+	.page-numbers,
+	.pagination.post a .page-numbers {
+		color: #000;
+		background: url(../img/dark/transparent/5.png);
+		background: rgba(0,0,0, 0.05);
+	}
+
+	/* pagination numbers colors when mouse over */
+	/* post pagination number colors when mouse over */
+	.pagination a.page-numbers:hover,
+	.pagination.post a:hover .page-numbers {
+		color: #000;
+		background: url(../img/dark/transparent/10.png);
+		background: rgba(0,0,0, 0.1);
+	}
+
+	/* current pagination number colors */
+	/* current post pagination number colors */
+	.page-numbers.current,
+	.pagination.post .page-numbers {
+		color: #000;
+		background: url(../img/dark/transparent/20.png);
+		background: rgba(0,0,0, 0.2);
+	}
+
+
+
+
+
+/*********************************************/
+/* forms                                     */
+/*********************************************/
+
+/* text inputs */
+	input[type="text"],
+	input[type="password"],
+	select,
+	textarea {
+		background-color: rgba(0,0,0, 0); /* rgba background color is for Opera browser to force background image */
+		background-image: url(../img/dark/transparent/5.png) !important;
+	}
+
+	#top-bar input[type="text"] {
+		background-color: rgba(255,255,255, 0); /* rgba background color is for Opera browser to force background image */
+		background-image: url(../img/light/transparent/5.png) !important;
+	}
+
+
+
+/* placeholders */
+	:-moz-placeholder {color: #999}
+	::-webkit-input-placeholder {color: #999}
+
+
+
+/* search submit button */
+	#form-search input[type="submit"] {background-image: url(../img/dark/btn-search.png)}
+	#top-bar input[type="submit"] {background-image: url(../img/light/btn-search.png)}
+
+
+
+
+
+/*********************************************/
+/* header                                    */
+/*********************************************/
+
+/* top bar */
+	#top-bar {
+		background: #333;
+		color: #999;
+	}
+	#top-bar a {color: #999}
+	#top-bar a:hover {color: #fff}
+
+/* main navigation submenus */
+	#nav-main {
+		height: 42px;
+		background: #de5a49;
+		color: #fff;
+	}
+	#header #nav-main a {color: #fff}
+	#header #nav-main li a:hover span,
+	#header #nav-main li:hover > a span,
+	#header #nav-main li.active > a span,
+	#header #nav-main li.current-menu-item > a span,
+	#header #nav-main li.current-menu-parent > a span,
+	#header #nav-main li.current-post-ancestor > a span,
+	#header #nav-main li.current-page-ancestor > a span,
+	#header #nav-main li.current-menu-ancestor > a span,
+	#header #contact-section:hover .contact-link > span,
+	#header #contact-section.active .contact-link > span {border-color: #333}
+
+	/* submenu */
+	#nav-main li ul {background: #de5a49 url(../img/dark/transparent/5.png)}
+		#nav-main li li {
+			border-top: 1px solid #bc3827;
+			border-color: rgba(0,0,0, 0.1);
+		}
+		#nav-main li li:first-child {border-top: 0}
+
+
+
+
+
+/*********************************************/
+/* slider                                    */
+/*********************************************/
+
+/* slide caption */
+	.slider-caption-content .desc {color: #eee !important}
+	.slider-caption-content h2,
+	.slider-caption-content h2 a {color: #fff !important}
+
+	/* simple slider */
+	/* nivo slider */
+	.simpleSlider-nav a.active, .simpleSlider-nav a:hover,
+	.nivo-controlNav a.active, .nivo-controlNav a:hover, .nivo-directionNav a:hover {background-color: #fff !important}
+
+
+
+
+
+/*********************************************/
+/* content                                   */
+/*********************************************/
+
+/* callout area */
+	#cta + #content,
+	#cta + #main-heading.invisible + #content {border-top: 1px solid #ddd}
+
+
+
+/* main website heading */
+	#main-heading .section h2 {
+		font-weight: normal !important;
+		font-style: italic;
+	}
+	/* main website heading */
+	#main-heading .section {
+		padding-top: 45px;
+		padding-bottom: 45px;
+	}
+
+
+
+/* lists */
+	/* unordered lists bullet */
+	ul > li {background-image: url(../img/dark/bullets/bullet.png)}
+
+
+
+/* portfolio filter */
+	/* filter button */
+	.portfolio-nav a {
+		color: #333;
+		background-color: #eee;
+	}
+
+
+
+/* clients */
+	/* removing the stripped border */
+	#above-footer {
+		background: url(../img/dark/transparent/15.png);
+		background: rgba(0,0,0, 0.15);
+	}
+
+
+
+
+
+/*********************************************/
+/* footer                                    */
+/*********************************************/
+
+/* footer widget area */
+	#footer .footer-widgets-wrap {
+		background: #de5a49;
+		color: #ddd;
+	}
+	#footer .footer-widgets-wrap a {color: #fff}
+	#footer .widget-heading {color: #ccc}
+
+
+
+/* top link */
+	#footer .top-of-page {background-image: url(../img/dark/btn-top.png)}
+
+
+
+
+
+/*********************************************/
+/* sidebar and widgets                       */
+/*********************************************/
+
+/* Tag Cloud widget */
+	/* normal tag state */
+	.widget_tag_cloud a {
+		color: #000;
+		background: url(../img/dark/transparent/20.png);
+	}
+
+	/* when mouse over */
+	.widget_tag_cloud a:hover {
+		color: #000;
+		background: url(../img/dark/transparent/10.png);
+	}
+
+
+
+/* Twitter widget */
+	/* tweets list bullet */
+	.widget.wm-twitter ul li {background-image: url(../img/dark/icons/twitter.png) !important}
+
+
+
+/* End of color scheme */

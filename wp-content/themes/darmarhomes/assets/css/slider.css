@@ -1,0 +1,128 @@
+/*********************************************/
+/* featured content slider                   */
+/*********************************************/
+
+#slider {
+	position: relative;
+	overflow: hidden;
+}
+#slider.no-border {padding-bottom: 0}
+.slider {
+	/* height: 360px; */
+	padding: 0 !important;
+	overflow: hidden;
+	z-index: 0;
+}
+	.slider ul {margin: 0}
+	.slider ul li {background: none !important}
+	.high .slider {
+		height: 400px;
+		padding: 40px 0 !important;
+		overflow: visible;
+	}
+
+/* video slider */
+.video .slider {
+	height: auto;
+	text-align: center;
+}
+	.no-js #video-slider.no-cover {display: none}
+	.no-js #video-slider.has-cover .video-container {display: none}
+	.video .slider iframe {
+		margin: 0 auto;
+		z-index: 0;
+	}
+	img.video-cover {cursor: pointer}
+
+/* static image */
+.static-slider {text-align: center}
+.static-slider img {
+	position: relative;
+	vertical-align: top;
+}
+
+/* slide description */
+.slider-caption-content {
+	display: none;
+	position: absolute;
+	max-width: 33%;
+	left: 0;
+	bottom: 0;
+	padding: 15px;
+	text-align: left;
+	background: url(../img/dark/transparent/70.png);
+	background: rgba(0,0,0, 0.7);
+	color: #fff;
+	overflow: hidden;
+}
+	.no-boxed .slider-caption-content {margin-left: 60px}
+	.slider-caption-content.left {left: -1500px}
+	.slider-caption-content.right {left: 1500px}
+	.slider-caption-content.top {bottom: 1000px}
+	.slider-caption-content.bottom {bottom: -1000px}
+	.no-js .slider-caption-content {display: inline}
+	.no-js .boxed .slider-caption-content {
+		left: 130px;
+		margin-left: 0;
+	}
+.slider-caption-content h2 {
+	margin: 0;
+	text-transform: uppercase;
+	color: #fff;
+}
+	#slider .slider-caption-content h2 a {color: #fff}
+	#slider .slider-caption-content h2 a:hover {text-decoration: none}
+.slider-caption-content h2 + .desc {margin-top: 5px}
+.slider-caption-content .desc {color: #aaa}
+.slider-caption-content .button {
+	height: 34px;
+	line-height: 34px;
+	margin-top: 15px;
+}
+	.slider-caption-content .button a {line-height: 22px}
+
+
+
+/*********************************************/
+/* static image used as slider               */
+/*********************************************/
+
+.static-slider .slider-caption-content {
+	display: block;
+	width: auto;
+	max-width: 50%;
+	left: 50%;
+	margin-left: -450px;
+	margin-bottom: 60px;
+}
+
+
+
+/*********************************************/
+/* portfolio slider                          */
+/*********************************************/
+
+.portfolio-slider,
+.portfolio-slider.simpleSlider {
+	position: relative;
+	width: 100%;
+	left: 0;
+	margin: 0;
+	overflow: hidden;
+}
+	.portfolio-slider figure {overflow: hidden}
+	.portfolio-slider.slider-images {height: 500px !important}
+	.portfolio-slider img {margin: -105px 0}
+		.portfolio-slider.full-images img {margin: 0}
+
+	/* portfolio slider navigation */
+	.portfolio-slider .simpleSlider-nav {
+		position: absolute;
+		width: auto;
+		left: auto;
+		right: 30px;
+		top: 30px;
+		bottom: auto;
+	}
+
+

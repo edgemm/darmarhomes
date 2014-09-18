@@ -1,0 +1,245 @@
+/*********************************************/
+/* top bar                                   */
+/*********************************************/
+
+#top-bar {
+	position: relative;
+	width: 100%;
+	height: 40px;
+	line-height: 40px;
+	overflow: hidden;
+	z-index: 2;
+}
+	.boxed #top-bar.boxed-bar {
+		width: 1200px;
+		left: 50%;
+		margin: 0 -600px;
+	}
+	#top-bar.fixed {
+		position: fixed;
+		left: 0;
+		top: 0;
+	}
+		.admin-bar #top-bar.fixed {top: 28px}
+		#top-bar.fixed + #wrap {top: 40px}
+
+	#top-bar .widget {
+		float: right;
+		text-align: right;
+	}
+	#top-bar .count-2 .widget:first-child {
+		float: left;
+		text-align: left;
+	}
+	#top-bar .widget-heading {display: none}
+
+	#top-bar a.btn {
+		height: 22px;
+		margin: 4px 0;
+		line-height: 22px;
+		vertical-align: top;
+	}
+
+	/* top bar search form */
+	#top-bar #form-search {
+		height: 34px;
+		margin-top: 3px;
+		line-height: 34px;
+	}
+		#top-bar #form-search input {vertical-align: top}
+
+	/* top bar list */
+	#top-bar .widget li {
+		display: inline;
+		padding: 0;
+		margin: 0 0 0 15px;
+		background: none;
+	}
+		#top-bar .count-2 .widget:first-child li {margin: 0 15px 0 0}
+		#top-bar .widget li a {
+			display: inline;
+			padding: 0;
+			border: none;
+		}
+		#top-bar .widget li ul,
+		#top-bar .widget li ol {display: none}
+
+
+
+/*********************************************/
+/* header                                    */
+/*********************************************/
+
+#header {
+	position: relative;
+	z-index: 1;
+}
+
+
+
+/*********************************************/
+/* logo                                      */
+/*********************************************/
+
+.logo,
+h1.logo {
+	position: relative;
+	float: left;
+	padding: 0;
+	margin: 20px 0;
+}
+	.logo a,
+	.logo a:hover {text-decoration: none}
+	.logo img {vertical-align: middle}
+
+
+
+/*********************************************/
+/* navigation                                */
+/*********************************************/
+
+#nav-main {
+	position: relative;
+	display: block;
+	clear: both;
+	height: 40px;
+	padding: 0;
+	z-index: 99;
+}
+	#nav-main ul {
+		height: 40px;
+		padding: 0;
+		margin: 0;
+	}
+	#nav-main li {
+		position: relative;
+		float: left;
+		padding: 0;
+		margin: 0;
+		text-transform: uppercase;
+		list-style: none;
+		background: none;
+	}
+		#nav-main li.right {float: right}
+		.no-js #nav-main li.right {display: none}
+		#nav-main li a {
+			display: block;
+			height: 40px;
+			padding: 0 15px;
+			line-height: 20px;
+			text-decoration: none;
+		}
+		#nav-main li a span {
+			display: block;
+			padding: 10px 0 10px;
+			margin-bottom: -2px;
+			border-bottom: 3px solid transparent;
+		}
+		#nav-main li a:hover span,
+		#nav-main li:hover > a span,
+		#nav-main li.active > a span,
+		#nav-main li.current-menu-item > a span,
+		#nav-main li.current-menu-parent > a span,
+		#nav-main li.current-post-ancestor > a span,
+		#nav-main li.current-page-ancestor > a span,
+		#nav-main li.current-menu-ancestor > a span {
+			text-decoration: none;
+			border-color: #fc0;
+		}
+
+	/* submenu styling */
+	#nav-main li ul {
+		position: absolute;
+		display: none;
+		min-width: 100%;
+		height: auto;
+		left: 0;
+		top: 39px;
+		padding: 5px 0 !important;
+		margin: 0;
+		white-space: nowrap;
+		-webkit-box-shadow: 0 1px 3px rgba(0,0,0, 0.25);
+		-moz-box-shadow: 0 1px 3px rgba(0,0,0, 0.25);
+		box-shadow: 0 1px 3px rgba(0,0,0, 0.25);
+		z-index: 99;
+	}
+		#nav-main li li {
+			float: none;
+			text-transform: none;
+		}
+		#nav-main li li a {
+			min-width: 140px;
+			height: 32px;
+		}
+		#nav-main li li a span {
+			padding: 6px 0 6px 12px;
+			margin: 0 0 0 -15px;
+			border-left: 3px solid transparent;
+			border-bottom: none;
+		}
+		.no-js #nav-main li:hover > ul {display: block}
+	#nav-main li li ul {
+		display: none;
+		left: 100%;
+		top: -5px;
+	}
+		.no-js #nav-main li li:hover > ul {display: block}
+
+
+
+/*********************************************/
+/* status                                    */
+/*********************************************/
+
+.status {
+	position: absolute;
+	width: 594px; /* 3/5 */
+	right: 0;
+	top: 0;
+	padding: 30px 0 0;
+	text-align: right;
+}
+	.status .msg {text-align: left}
+	.status.type-widgets .widget-heading,
+	.status.type-widgets .wm-twitter .user-info {display: none}
+	.status.type-widgets .wm-twitter li {display: none}
+	.status.type-widgets .wm-twitter li:first-child {display: inline}
+
+
+
+/*********************************************/
+/* contact / special menu area               */
+/*********************************************/
+
+#contact-section {position: relative}
+.no-js #contact-section {z-index: 99}
+	/* contact link */
+	a.contact-link {
+		position: absolute;
+		display: none;
+		height: 40px;
+		right: 0;
+		top: -46px;
+		padding: 0 20px 5px;
+		line-height: 20px;
+		text-decoration: none;
+		z-index: 99;
+	}
+	.contact-link > span {
+		display: block;
+		padding: 10px 0 10px;
+		margin-bottom: -2px;
+		border-bottom: 3px solid transparent;
+	}
+	.no-js a.contact-link {display: block}
+
+	/* contact content */
+	.contact-content {
+		display: none;
+		padding: 30px 0;
+		overflow: hidden;
+	}
+		.ie7 #contact-section .contact-content {margin-top: -1px}
+		.no-js #contact-section:hover .contact-content {display: block}
+
+

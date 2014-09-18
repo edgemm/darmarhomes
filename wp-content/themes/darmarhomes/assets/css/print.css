@@ -1,0 +1,298 @@
+/*
+*****************************************************
+* WEBMAN'S WORDPRESS THEME FRAMEWORK
+* Created by WebMan - www.webmandesign.eu
+*
+* Print stylesheet
+*****************************************************
+*/
+
+@import url('wp-styles.css');
+@import url('columns-print.css');
+
+
+
+/*********************************************/
+/* fonts                                     */
+/*********************************************/
+
+body,
+#main-heading h2 {font-family: "Palatino Linotype", Georgia, Times, serif}
+h1, h2, h3, h4, h5, h6,
+th,
+#header,
+#footer {font-family: Arial, sans-serif}
+
+
+
+/*********************************************/
+/* basic styles                              */
+/*********************************************/
+
+body {
+	padding: 0;
+	margin: 0;
+	font-size: 10pt;
+	line-height: 1.4em;
+	color: #000;
+	background: transparent;
+}
+
+#header, #footer,
+h1, h2, h3, h4, h5, h6 {
+	font-weight: normal;
+	text-transform: uppercase;
+	line-height: 1.15em;
+}
+h1 {font-size: 3em}
+	#main-heading {
+		padding: 2em 0;
+		margin: -40pt 0 2em;
+		border-bottom: 1px dotted #999;
+	}
+	#main-heading h1 {
+		padding: 0;
+		margin: 0;
+	}
+h2 {font-size: 1.6em}
+	#main-heading h2 {
+		padding: 0.5em 0 0;
+		margin: 0;
+		font-style: italic;
+		text-transform: none;
+		color: #666;
+	}
+h3 {font-size: 1.4em}
+h4 {font-size: 1.2em}
+h5, h6 {font-size: 1em}
+
+.big-size {
+	line-height: 1.15em;
+	text-transform: none;
+	font-size: 2.8em;
+}
+
+a {
+	color: #000;
+	text-decoration: none;
+}
+
+blockquote {
+	padding: 0 1em 0 2em;
+	margin: 0 0 1em 0;
+	line-height: 1.4em;
+	font-size: 1.15em;
+	font-style: italic;
+	color: #666;
+	border-left: 1pt solid #999;
+}
+	blockquote p {padding: 0}
+
+p,
+address,
+pre,
+.column {margin-bottom: 1em}
+
+pre {
+	padding: 1em;
+	border: 1px solid #999;
+}
+
+img,
+iframe {vertical-align: middle}
+
+/* classes */
+.text-center {text-align: center !important}
+.hide {display: none !important}
+.image-container {position: relative}
+.clear {clear: both}
+	span.br {
+		clear: both;
+		display: block;
+		width: 100%;
+		height: 10pt;
+	}
+
+/* devider */
+.devider {
+	position: relative;
+	display: block;
+	clear: both;
+	width: 100%;
+	height: 10pt;
+	text-indent: -999em;
+}
+
+/* buttons */
+a.btn,
+input[type="submit"] {
+	position: relative;
+	display: inline-block;
+	padding: 4px 15px;
+	text-decoration: none;
+	background-color: #666;
+	color: #fff;
+}
+
+/* dropcaps */
+.dropcap {
+	float: left;
+	display: block;
+	margin: 1pt 6pt 0 0;
+	line-height: 16pt;
+	text-align: center;
+	font-size: 16pt;
+}
+
+/* quotes */
+cite,
+.quote-source {margin: 1em 0 0}
+p cite {padding: 0}
+.quote-source p {padding: 0}
+
+/* pullquotes */
+blockquote.pullquote {width: 30%}
+
+/* tables */
+table {
+	margin: 1em 0;
+	line-height: 1.25em;
+}
+	td, th {
+		padding: 2pt 5pt;
+		border: 1px solid #ccc;
+	}
+	caption {
+		line-height: 2em;
+		text-transform: uppercase;
+	}
+	thead {}
+		th,
+		tfoot td {
+			font-weight: bold;
+			background: #ddd;
+			border: 1pt solid #000;
+		}
+	tfoot {}
+		tfoot td {}
+	tbody {}
+		td {border: 1pt solid #ccc}
+
+
+
+/*********************************************/
+/* hidden content                            */
+/*********************************************/
+
+#header .logo span, #header #nav-main, #header .status, #contact-section, .social-links,
+.slider,
+.cta,
+.msg,
+#breadcrumbs,
+#respond,
+.pagination,
+.portfolio-bottom-widgets,
+.portfolio,
+#comments .gravatar, .comment-reply-link, .comment-edit-link,
+.sidebar,
+.above-footer,
+.footer-widgets-wrap, .menu-footer,
+.top-of-page {display: none}
+
+.toggle-wrapper > *,
+.toggle-content {display: block !important}
+
+
+
+/*********************************************/
+/* header                                    */
+/*********************************************/
+
+#header {
+	padding: 0 0 20pt;
+	margin: 0 0 40pt;
+	color: #666;
+	border-bottom: 1px solid #999;
+}
+#header .logo,
+#header .logo img {
+	position: relative;
+	height: 30pt;
+	padding: 0;
+	margin: 0;
+	vertical-align: middle;
+}
+#header .logo {padding-bottom: 10pt}
+#header .logo a:after {
+	content: attr(href);
+	position: absolute;
+	height: 10pt;
+	left: 0;
+	bottom: -10pt;
+	font-size: 8pt;
+	text-transform: lowercase;
+	color: #666;
+	vertical-align: baseline;
+}
+
+
+
+/*********************************************/
+/* main content                              */
+/*********************************************/
+
+#content p a:after,
+#footer a:after {
+	content: ' ('attr(href)') ';
+	font-size: inherit;
+	text-transform: lowercase;
+	color: #666;
+}
+#content img {vertical-align: middle}
+.list-articles > article {margin-top: 30pt}
+.meta-article {
+	height: 20pt;
+	line-height: 20pt;
+	font-size: 8pt;
+	color: #666;
+	border-top: 1px solid #999;
+	border-bottom: 1px solid #999;
+}
+	.meta-article a {color: #666}
+	.meta-item {margin-right: 10pt}
+	.meta-item.icon-format {display: none}
+
+
+
+/*********************************************/
+/* comments                                  */
+/*********************************************/
+
+#comments {page-break-before: always}
+#comments ol {
+	padding: 0;
+	margin: 0;
+}
+#comments ol li {
+	list-style: none;
+	border-bottom: 2px solid #eee;
+	margin: 0 0 10pt 0;
+}
+
+
+
+/*********************************************/
+/* footer                                    */
+/*********************************************/
+
+#footer {
+	display: block;
+	clear: both;
+	padding: 10pt 0 0;
+	margin: 40pt 0 0;
+	font-size: 8pt;
+	color: #666;
+	border-top: 1px solid #999;
+}
+
+/* End of file */

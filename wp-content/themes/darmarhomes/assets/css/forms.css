@@ -1,0 +1,212 @@
+/*********************************************/
+/* form styles                               */
+/*********************************************/
+
+form {margin: 1em 0 0}
+
+label {
+	display: inline-block;
+	padding-bottom: 0.5em;
+}
+label[for] {cursor: pointer}
+
+/* general */
+button,
+input,
+select,
+textarea {vertical-align: middle}
+.bg-light button,
+.bg-light input[type="text"],
+.bg-light input[type="password"],
+.bg-light select,
+.bg-light textarea,
+.bg-dark button,
+.bg-dark input[type="text"],
+.bg-dark input[type="password"],
+.bg-dark select,
+.bg-dark textarea {background: transparent}
+input {
+	height: 32px;
+	line-height: 32px;
+}
+
+/* text input */
+input[type="text"],
+input[type="password"] {
+	width: 220px;
+	margin-right: 0.5em;
+}
+
+textarea {
+	padding: 9px;
+	margin-right: 0.5em;
+	vertical-align: top;
+	overflow-y: auto;
+	resize: vertical;
+}
+
+/* checkbox, radio buttons */
+input[type="checkbox"],
+input[type="radio"] {
+	width: 14px;
+	height: 14px;
+	margin-right: 0.5em;
+}
+
+/* select */
+select {
+	position: relative;
+	width: 240px;
+	height: auto;
+	padding: 8px 9px;
+	margin-right: 0.5em;
+	line-height: 20px;
+	/* -webkit-appearance: none; */
+}
+
+/* submit */
+input[type="submit"] { /* more in core.css */
+	padding: 0 15px;
+	line-height: normal;
+	cursor: pointer;
+}
+	input[disabled] {background-image: none}
+
+
+
+/* search form */
+#form-search {
+	position: relative;
+	float: right;
+	width: 220px;
+	margin: 0;
+	text-align: left;
+	overflow: hidden;
+}
+ .sidebar #form-search {width: 220px}
+	#form-search input[type="text"] {
+		width: 176px;
+		padding: 0 32px 0 8px;
+	}
+	 .sidebar #form-search input[type="text"] {width: 176px}
+	#form-search input[type="submit"] {
+		position: absolute;
+		width: 32px;
+		height: 32px;
+		right: 2px;
+		top: 2px;
+		text-indent: -999em;
+		background-color: transparent;
+		background-repeat: no-repeat;
+		background-position: 0 0;
+		border: none;
+		-webkit-border-radius: 0;
+		-moz-border-radius: 0;
+		border-radius: 0;
+	}
+	.ie7 #form-search input[type="submit"] {
+		text-transform: capitalize; /* magically, this causes IE7 to accept text-indent */
+	}
+	#form-search input[type="submit"]:before {display: none}
+	#form-search input[type="submit"]:hover {
+		background-position: 0 -32px;
+		-webkit-box-shadow: none;
+		-moz-box-shadow: none;
+		box-shadow: none;
+	}
+
+
+
+/* comments reply form */
+#respond {
+	position: relative;
+	padding: 20px 0;
+}
+	#reply-title {margin: 0}
+	#commentform p {
+		position: relative;
+		padding: 0 0 10px;
+		margin: 0;
+	}
+	/* form title */
+	#reply-title {position: relative}
+	#reply-title small a { /* cancle reply link */
+		position: absolute;
+		right: 0;
+		top: 0;
+	}
+
+	#commentform .required,
+	.comment-notes,
+	#commentform .comment-form-comment label {display: none}
+
+	/* inputs */
+	.comment-form-url input,
+	.comment-form-email input,
+	.comment-form-author input {
+		width: 220px;
+		margin-right: 0.5em;
+	}
+
+	/* textarea */
+	#comment {
+		width: 480px;
+		height: 100px;
+		padding: 10px;
+		margin: 0;
+	}
+
+	/* additional info */
+	.allowed-tags {width: 400px}
+	.allowed-tags code {
+		display: block;
+		padding: 0.5em 0 0 0;
+	}
+
+	/* logged in user data */
+	.personal_data p {
+		float: left;
+		width: 33%;
+	}
+	.personal_data label {display: none}
+
+	/* comment form when replying */
+	.commentlist #respond {padding-left: 70px}
+	.commentlist .children #respond {padding-left: 50px}
+	.commentlist #respond .note {display: none}
+
+
+
+/* widget form styles */
+/* text input fields widths */
+.sidebar .widget input[type="text"],
+.sidebar .widget input[type="password"],
+.sidebar .widget textarea {width: 180px} /* sidebar width */
+
+.count-5 .widget input[type="text"],
+.count-5 .widget input[type="password"],
+.count-5 .widget textarea {width: 152px} /* 1/5 widget width */
+
+.count-4 .widget textarea {width: 200px} /* 1/4 widget width */
+
+.count-3 .widget textarea {width: 280px} /* 1/3 widget width */
+
+.widget input[type="text"],
+.widget input[type="password"] {width: 200px} /* default fallback width in widgets (1/4 widget width) */
+
+.widget textarea {width: 340px} /* default fallback width in widgets */
+
+/* select widths */
+.widget select {width: 100%}
+
+
+
+/* Contact Form 7 styles */
+.wpcf7 {}
+	.wpcf7 span.wpcf7-list-item {
+		display: block;
+		padding-bottom: 0.5em;
+		margin: 0;
+	}
+
+

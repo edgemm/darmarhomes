@@ -1,0 +1,167 @@
+/*********************************************/
+/* form styles                               */
+/*********************************************/
+
+/* label, containers */
+.wm-wrap label {
+	position: relative;
+	display: inline-block;
+	line-height: 1.4em;
+	padding: 0.3em 0;
+	text-transform: uppercase;
+}
+	.wm-wrap label[for] {cursor: pointer}
+.wm-wrap p.radio,
+.wm-wrap p.checkbox {
+	line-height: 32px;
+	background: transparent;
+}
+	.wm-wrap p.radio {
+		line-height: 26px;
+		padding: 5px 0 0 0;
+	}
+	.wm-wrap p.radio label {font-weight: normal}
+
+/* text, file, textarea, readonly */
+.wm-wrap input[type='text'],
+.wm-wrap input[type='date'],
+.wm-wrap input[type='file'],
+.wm-wrap textarea,
+.wm-wrap .select-wrapper {
+	width: 300px;
+	height: 38px;
+	padding: 0 20px;
+	margin: 5px 0 0 0;
+	line-height: 38px;
+	background: #fdfdfd url(../../img/bg-white.png) repeat-x 0 -8px;
+	border: 1px solid #ccc;
+	box-sizing: content-box;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+}
+	.wm-wrap .btn-add + input[type="text"] {
+		-webkit-border-top-left-radius: 0;
+		-webkit-border-bottom-left-radius: 0;
+		-moz-border-radius-topleft: 0;
+		-moz-border-radius-bottomleft: 0;
+		border-top-left-radius: 0;
+		border-bottom-left-radius: 0;
+	}
+	.wm-wrap .add-items input[type='text'],
+	.wm-wrap .add-items .select-wrapper {
+		-webkit-border-radius: 0;
+		-moz-border-radius: 0;
+		border-radius: 0;
+	}
+	.wm-wrap input[type='text'].short,
+	.wm-wrap .select-wrapper.short,
+	.wm-wrap select.short {width: 160px}
+	.wm-wrap input[type='text'].shortest {width: 60px}
+
+	.wm-wrap p.slide-number {clear: both}
+	.wm-wrap p.slide-number-wrapper {
+		height: 42px;
+		padding: 0 0 20px;
+		background: url(../../img/bg-slide-number.png) no-repeat 0 15px;
+	}
+		.wm-wrap p.slide-number-wrapper.no-js {background: transparent}
+		.wm-wrap .slide-number-wrapper input[type='text'] {
+			width: 60px;
+			height: 30px;
+			padding: 0 2px;
+			margin: 5px 0 5px 10px;
+			line-height: 30px;
+			text-align: center;
+		}
+			.wm-wrap .slide-number-wrapper.no-js input[type='text'] {margin-left: 0}
+
+	.wm-wrap input[readonly] {background: #f6f6f6}
+	.wm-wrap textarea {
+		display: block;
+		width: auto;
+		height: auto;
+		padding: 10px 20px;
+		line-height: 20px;
+		overflow-y: auto;
+		resize: vertical;
+	}
+		.wm-wrap textarea.code {
+			padding: 10px;
+			background: url(../../img/lines.png) repeat 0 11px;
+		}
+
+/* select */
+.wm-wrap .select-wrapper {
+	display: block;
+	height: 24px;
+	line-height: 24px;
+	padding: 7px 20px;
+}
+	.wm-wrap select {
+		width: 300px;
+		height: 24px;
+		line-height: 24px;
+		padding: 0 !important;
+		margin: 0 !important;
+		border: 0 !important;
+		outline: 0 !important;
+		vertical-align: middle !important;
+		background: #fdfdfd;
+	}
+
+/* radio, checkbox */
+.wm-wrap input[type='checkbox'],
+.wm-wrap input[type='radio'] {
+	width: 16px;
+	height: 16px;
+	margin-right: 5px;
+	vertical-align: middle;
+	background: #fdfdfd url(../../img/bg-white.png) repeat-x 0 -8px;
+	color: #666;
+	border: 1px solid #ccc;
+}
+	.wm-wrap .layout-boxes input[type="radio"],
+	.wm-wrap .pattern-boxes input[type="radio"],
+	.wm-wrap .pattern-boxes input[type="checkbox"] {
+		position: relative;
+		margin: -18px 0 0 0;
+		vertical-align: top;
+		z-index: 2;
+	}
+
+/* submit button */
+.wm-wrap input[type='submit'] {
+	width: 190px;
+	height: 60px;
+	padding: 0;
+	margin: 0;
+	line-height: 60px;
+	text-transform: uppercase;
+	text-shadow: 0 1px #000;
+	background: #48e url(../../img/buttons/btn.png) no-repeat;
+	color: #fff;
+	cursor: pointer;
+}
+	.wm-wrap input[type='submit']:hover {background-color: #59e}
+	.wm-wrap input[type='submit']:active {background-color: #37e}
+
+/* add-item styles */
+.wm-wrap .rows input,
+.wm-wrap .rows .select-wrapper {float: left}
+
+/* reset form */
+.wm-wrap .reset-form {
+	position: absolute;
+	right: 260px;
+	bottom: 30px;
+}
+
+	.wm-wrap .reset-form input[type='submit'] {
+		float: right;
+		background-color: #d10 /* #f71 */;
+	}
+		.wm-wrap .reset-form input[type='submit']:hover {background-color: #e20 /* #f71 */}
+		.wm-wrap .reset-form input[type='submit']:active {background-color: #b10 /* #e50 */}
+
+

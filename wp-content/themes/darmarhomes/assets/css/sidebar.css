@@ -1,0 +1,372 @@
+/*********************************************/
+/* sidebar                                   */
+/*********************************************/
+
+.sidebar {
+	position: relative;
+	float: right;
+	width: 220px;
+	padding: 30px 0;
+	overflow: hidden;
+}
+	.sidebar.sidebar-left {float: left}
+	.sidebar .widget {
+		margin: 30px 0 0;
+		overflow: hidden;
+	}
+		.sidebar .widget:first-child {margin: 0}
+
+	/* sidebar buttons */
+	.sidebar li a.btn {width: auto}
+
+	/* widget lists */
+	.widget ul {
+		margin-top: 0;
+		border-bottom: 1px solid #eee;
+	}
+	.widget ul li {
+		padding: 0;
+		margin: 0;
+		background: none !important;
+	}
+	.widget li ul {
+		padding-left: 15px;
+		margin: 0;
+		border-top: 1px solid #eee;
+		border-bottom: none;
+	}
+	.widget li a {
+		display: block;
+		width: 100%;
+		padding: 10px 0;
+		border-top: 1px solid #eee;
+	}
+		.widget li:first-child > a {border-top: none}
+
+	/* widget section heading */
+	.widget .section-heading {margin-bottom: 30px}
+
+
+
+/*********************************************/
+/* WP widgets                                */
+/*********************************************/
+
+/* archive widget */
+.widget-heading + select {margin-top: 15px}
+
+
+
+/* calendar widget */
+.widget_calendar {}
+	#wp-calendar {}
+	#wp-calendar tr th,
+	#wp-calendar tr td {
+		width: auto;
+		height: 26px;
+		padding: 0;
+		text-align: center;
+	}
+	#wp-calendar caption {padding-top: 0}
+	#wp-calendar tbody a {
+		display: block;
+		width: 100%;
+		height: 100%;
+		line-height: 26px;
+	}
+	#wp-calendar tfoot a {color: inherit}
+
+
+
+/* recent comments, archives and categories widget */
+.widget_recent_comments {}
+	.widget_recent_comments ul,
+	.widget_archive ul,
+	.widget_categories ul {border: 0}
+		.widget_recent_comments li ul,
+		.widget_archive li ul,
+		.widget_categories li ul {
+			margin-top: 10px;
+			margin-bottom: -11px;
+		}
+	.widget_recent_comments ul li.recentcomments,
+	.widget_archive ul li,
+	.widget_categories ul li {
+		padding: 10px 0;
+		border-bottom: 1px solid #eee;
+	}
+	.footer-content .widget_recent_comments ul li.recentcomments:first-child,
+	.footer-content .widget_archive ul li:first-child,
+	.footer-content .widget_categories ul li:first-child {padding-top: 0}
+	.widget_recent_comments ul li.recentcomments a,
+	.widget_archive ul li a,
+	.widget_categories ul li a {
+		display: inline;
+		border: 0;
+	}
+
+
+
+/* tag cloud widget */
+.widget_links {}
+	.tagcloud {margin-top: 15px}
+	.widget_tag_cloud a {
+		display: inline-block;
+		padding: 2px 8px;
+		margin: 2px 1px;
+		white-space: nowrap;
+		font-size: 1em !important;
+		-webkit-border-radius: 5px;
+		-moz-border-radius: 5px;
+		border-radius: 5px;
+	}
+	.widget_tag_cloud a,
+	.widget_tag_cloud a:hover {text-decoration: none}
+
+
+
+/* text widget */
+.sidebar .widget-heading + .textwidget {margin-top: 15px}
+
+
+
+/*********************************************/
+/* WebMan widgets                            */
+/*********************************************/
+
+/* content module widget and page widget */
+.wm-content-module {}
+.wm-page-content {}
+	.wm-page-content .image-container,
+	.wm-content-module .image-container {padding: 0 0 10px}
+	.layout-center {text-align: center}
+	.wm-content-module .icon-module {
+		position: relative;
+		padding-left: 52px;
+	}
+		.sidebar .wm-content-module .icon-module {padding-left: 42px}
+		.wm-content-module .icon-module.layout-center {padding-left: 0}
+	.wm-page-content h2,
+	.wm-content-module h2 {margin-top: 0}
+	.wm-page-content h2 + .page-content,
+	.wm-content-module h2 + .module-content {margin-top: 10px}
+	.wm-content-module .layout-center h2 + .module-content {margin-top: 1em}
+	.wm-content-module .layout-center .image-container {padding-bottom: 1em}
+	.wm-content-module .icon-container {
+		position: absolute;
+		width: 32px;
+		height: 32px;
+		left: 0;
+		top: 0;
+	}
+		.wm-content-module .layout-center .icon-container {
+			position: relative;
+			width: 100%;
+			height: auto;
+			padding-bottom: 1em;
+		}
+	.icon-container img {width: 100%}
+		.layout-center .image-container img,
+		.layout-center .icon-container img {
+			width: auto;
+			max-width: 100%;
+		}
+	.image-container + .page-content,
+	.image-container + .module-content {margin-top: 0}
+	.widget .page-content,
+	.widget .module-content {
+		padding-top: 0;
+		padding-bottom: 1em;
+	}
+	.sidebar .page-content,
+	.sidebar .module-content {padding-bottom: 10px}
+	.no-btn .page-content,
+	.no-btn .module-content {padding-bottom: 0}
+	.widget-heading + .no-thumb {margin-top: 15px}
+
+
+
+/* contact widget */
+.wm-contact-info address {margin-top: 0}
+.wm-contact-info .widget-heading + address {margin-top: 15px}
+
+
+
+/* page widget */
+.wm-page-content {}
+	.wm-page-content h2 {margin: 0 0 1em}
+
+
+
+/* twitter widget */
+.wm-twitter {}
+	.wm-twitter li a {
+		display: inline;
+		padding: 0;
+		border: 0;
+	}
+	.wm-twitter ul {
+		margin-top: 15px;
+		border: 0;
+	}
+	.wm-twitter ul li {
+		padding: 0 0 0 24px;
+		margin-top: 15px;
+		background-repeat: no-repeat !important;
+		background-position: 0 0 !important;
+	}
+	.wm-twitter li:first-child {margin-top: 0}
+	.wm-twitter .user-info {
+		position: relative;
+		min-height: 48px;
+		padding: 0 0 10px 58px;
+		margin: 0;
+		border-bottom: 1px solid #eee;
+	}
+		.widget-heading + .user-info {padding-top: 10px}
+	.wm-twitter .user-info h3 {margin: 0 0 0.25em}
+	.wm-twitter .user-info img {
+		position: absolute;
+		width: 48px;
+		height: 48px;
+		left: 0;
+		top: 0;
+	}
+		.widget-heading + .user-info img {top: 10px}
+
+
+
+/* posts list */
+.wm-post-list {}
+	.wm-post-list ul {border: 0}
+	.wm-post-list li a {
+		display: inline;
+		padding: 0;
+		border: 0;
+	}
+	.wm-post-list li h3 {
+		padding: 0 0 0.5em;
+		margin: 0;
+	}
+		.wm-post-list .column h3 {padding-bottom: 15px}
+	.wm-post-list ul li {
+		clear: both;
+		padding: 15px 0;
+		margin: 0;
+		border-bottom: 1px solid #eee;
+		overflow: hidden;
+	}
+		.wm-post-list li:first-child {padding-top: 0}
+		.sidebar .wm-post-list li:first-child {padding-top: 15px}
+		.wm-post-list li.column {
+			clear: none;
+			padding: 0;
+			margin-top: 0;
+			margin-right: 4%;
+			border: none;
+		}
+	.wm-post-list .date {
+		position: relative;
+		display: inline-block;
+		padding: 0 0 0.5em;
+	}
+	.wm-post-list .image-container {
+		float: left;
+		width: 50px;
+		height: 50px;
+		padding: 4px;
+		margin: 0 10px 0 0;
+		border: 1px solid #eee;
+	}
+		.wm-post-list .column .image-container {
+			width: 100%;
+			height: auto;
+			padding: 0;
+			margin: 0 0 15px;
+			border: none;
+		}
+		.sidebar .wm-post-list .image-container {margin: 0 10px 0 0}
+	.wm-post-list .column .more-link {
+		display: block;
+		margin-top: 15px;
+	}
+
+
+
+/* portfolio list */
+.wm-portfolio-list{}
+	.wm-portfolio-list .section-heading {margin-bottom: 15px}
+	.sidebar .wm-portfolio-list ul,
+	.count-2 .wm-portfolio-list ul,
+	.count-3 .wm-portfolio-list ul,
+	.count-4 .wm-portfolio-list ul,
+	.count-5 .wm-portfolio-list ul {
+		padding: 0;
+		margin: 0 0 -15px -15px;
+	}
+	.wm-portfolio-list ul {border: 0}
+	.sidebar .widget-heading + .portfolio-content {margin-top: 15px}
+		.sidebar .wm-portfolio-list ul,
+		.normal-width .wm-portfolio-list ul {margin: 0 0 -10px -10px}
+		.count-1 .wm-portfolio-list ul {margin: 0 -15px}
+			.count-1 .wm-portfolio-list .columns-1 ul {margin: 0}
+		.count-2 .wm-portfolio-list ul {width: 480px}
+			.normal-width .count-2 .wm-portfolio-list ul {width: 350px}
+		.count-3 .wm-portfolio-list ul {width: 320px}
+			.normal-width .count-3 .wm-portfolio-list ul {width: 230px}
+		.count-4 .wm-portfolio-list ul {width: 240px}
+			.normal-width .count-4 .wm-portfolio-list ul {width: 170px}
+		.count-5 .wm-portfolio-list ul {width: 160px}
+			.normal-width .count-5 .wm-portfolio-list ul {width: 134px}
+		.sidebar .wm-portfolio-list ul {width: 235px}
+	.widget.wm-portfolio-list ul li {
+		padding: 0;
+		background: none !important;
+	}
+	.sidebar .wm-portfolio-list li,
+	.count-2 .wm-portfolio-list li,
+	.count-3 .wm-portfolio-list li,
+	.count-4 .wm-portfolio-list li,
+	.count-5 .wm-portfolio-list li {
+		float: left;
+		width: 60px;
+		height: 60px;
+		margin: 0 0 15px 15px;
+	}
+		.normal-width .count-5 .wm-portfolio-list li {
+			width: 56px;
+			height: 56px;
+		}
+		.normal-width .wm-portfolio-list li {margin: 0 0 10px 10px}
+		.count-1 .wm-portfolio-list li {margin: 15px}
+		.count-1 .wm-portfolio-list .columns-1 li {margin: 15px 0}
+	.wm-portfolio-list li a {
+		display: inline;
+		width: 100%;
+		height: 100%;
+		padding: 0;
+		border: 0
+	}
+	.sidebar .wm-portfolio-list img,
+	.count-2 .wm-portfolio-list img,
+	.count-3 .wm-portfolio-list img,
+	.count-4 .wm-portfolio-list img,
+	.count-5 .wm-portfolio-list img {
+		width: 50px;
+		padding: 4px;
+		margin: 0;
+		border: 1px solid #eee;
+	}
+	.normal-width .count-5 .wm-portfolio-list img {padding: 2px}
+	.sidebar .wm-portfolio-list .desc,
+	.count-2 .wm-portfolio-list .desc,
+	.count-3 .wm-portfolio-list .desc,
+	.count-4 .wm-portfolio-list .desc,
+	.count-5 .wm-portfolio-list .desc,
+	.sidebar .wm-portfolio-list .col-14,
+	.count-2 .wm-portfolio-list .col-14,
+	.count-3 .wm-portfolio-list .col-14,
+	.count-4 .wm-portfolio-list .col-14,
+	.count-5 .wm-portfolio-list .col-14 {display: none}
+
+

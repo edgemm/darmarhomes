@@ -1,0 +1,591 @@
+/*
+Package: Jaguar
+Color Scheme: Winter
+Description: Winter color skin for Jaguar WordPress theme.
+Version: 1.0
+Author: WebMan
+
+Link color: 000000
+Text color on light background: 666666
+Headings color on light background: 444444
+Text color on dark background: 999999
+Headings color on dark background: bbbbbb
+
+HTML: ffffff
+#wrap: ffffff
+#wrap shadow: 10
+Header:
+Slider:
+Call to action:
+Main heading:
+Clients:
+Footer: f9f9f9
+
+Gray color: eeeeee
+Text on gray:
+Green color: 66ff99
+Text on green:
+Blue color: bbddff
+Text on blue:
+Orange color: ffcc00
+Text on orange:
+Red color: e05757
+Text on red: ffffff
+
+Icon scheme: light
+
+Font embed: <link href='http://fonts.googleapis.com/css?family=Dosis:300' rel='stylesheet' type='text/css'>
+Font primary: Dosis, Helvetica, Arial, FreeSans, sans-serif
+Font secondary: Dosis, Helvetica, Arial, FreeSans, sans-serif
+*/
+
+/*
+NOTE:
+As the theme automatically detects brightness of background color on main website sections, it is required (for almost all colors) to set their value for both light and dark backgrounds.
+*/
+
+
+
+
+
+/*********************************************/
+/* website background                        */
+/*********************************************/
+html {background-image: url(../img/patterns/light_blu_stripes.png)}
+
+.boxed #wrap {
+	border-left: 1px solid #eee;
+	border-right: 1px solid #eee;
+}
+
+
+
+
+
+/*********************************************/
+/* text colors                               */
+/*********************************************/
+
+/* slightly shaded text color */
+	.bg-light blockquote,
+	.bg-light h2.subtitle,
+	.bg-light .status,
+	.bg-light .cta,
+	.bg-light .meta-article,
+	.bg-light .widget_categories li,
+	.bg-light .widget_links li,
+	.bg-light .tabs-wrapper ul.tabs li a, .bg-light .accordion-heading {color: #666666}
+
+	.bg-dark blockquote,
+	.bg-dark h2.subtitle,
+	.bg-dark .status,
+	.bg-dark .cta,
+	.bg-dark .meta-article,
+	.bg-dark .widget_categories li,
+	.bg-dark .widget_links li,
+	.bg-dark .tabs-wrapper ul.tabs li a, .bg-dark .accordion-heading {color: #999999}
+
+
+
+/* text color when link color used as background */
+	.portfolio-content .desc a,
+	.portfolio-nav a:hover,
+	.portfolio-nav .active a {color: #fff !important}
+
+	.portfolio-content .desc span {color: #000}
+
+
+
+
+
+/*********************************************/
+/* core                                      */
+/*********************************************/
+
+/* links */
+	a:hover {text-decoration: underline}
+	a.btn:hover {text-decoration: none}
+
+
+
+/* typography styles */
+	/* call to action text */
+	.font-secondary,
+	.cta-text {font-style: italic}
+
+
+
+/* basic elements and classes */
+	/* quotations */
+	.bg-light blockquote {background-image: url(../img/dark/quote.png)}
+	.bg-dark blockquote {background-image: url(../img/light/quote.png)}
+
+	/* zoomable image zoom image */
+	.bg-light .zoomable {background-image: url(../img/dark/zoom.png)}
+	.bg-dark .zoomable {background-image: url(../img/light/zoom.png)}
+
+
+
+/* buttons  */
+	/* default button color (the same as color link) */
+	a.btn,
+	input[type="submit"] {
+		text-shadow: 0 -1px rgba(0,0,0, 0.5);
+		color: #fff;
+	}
+		/* when mouse over */
+		a.btn:hover,
+		input[type="submit"]:hover {
+			color: #fff;
+			-webkit-box-shadow: 0 1px 3px rgba(0,0,0, 0.25);
+			-moz-box-shadow: 0 1px 3px rgba(0,0,0, 0.25);
+			box-shadow: 0 1px 3px rgba(0,0,0, 0.25);
+		}
+
+
+
+/* borders */
+	#top-bar input[type="text"],
+	.bg-light .frame,
+	.bg-light pre,
+	.bg-light td, .bg-light th,
+	.bg-light button, .bg-light input, .bg-light select, .bg-light textarea,
+	.bg-light .wm-sub-pages ul, .bg-light .wm-sub-pages li ul, .bg-light .wm-sub-pages a,
+	.bg-light .border-color,
+	.bg-light .devider,
+	.bg-light .meta-article,
+	.bg-light .wp-caption, .bg-light .wp-caption img,
+	.bg-light .tabs-wrapper ul.tabs li, .bg-light .accordion-heading, .bg-light .toggle-heading, .bg-light .accordion-wrapper ul,
+	.bg-light .gallery-columns a,
+	.bg-light .widget ul, .bg-light .widget li a, .bg-light .widget_recent_comments ul li.recentcomments, .bg-light .widget_archive ul li, .bg-light .widget_categories ul li,
+	.bg-light .wm-portfolio-list img,
+	.bg-light .wm-post-list .image-container,
+	.bg-light .gravatar,
+	.bg-light .footer-widgets-wrap {
+		/* requires !important rule */
+		border-color: #dddddd !important;
+		border-color: rgba(0,0,0, 0.1) !important;
+	}
+
+	.bg-dark .frame,
+	.bg-dark pre,
+	.bg-dark td, .bg-dark th,
+	.bg-dark button, .bg-dark input, .bg-dark select, .bg-dark textarea,
+	.bg-dark .wm-sub-pages ul, .bg-dark .wm-sub-pages li ul, .bg-dark .wm-sub-pages a,
+	.bg-dark .border-color,
+	.bg-dark .devider,
+	.bg-dark .meta-article,
+	.bg-dark .wp-caption, .bg-dark .wp-caption img,
+	.bg-dark .tabs-wrapper ul.tabs li, .bg-dark .accordion-heading, .bg-dark .toggle-heading, .bg-dark .accordion-wrapper ul,
+	.bg-dark .gallery-columns a,
+	.bg-dark .widget ul, .bg-dark .widget li a, .bg-dark .widget_recent_comments ul li.recentcomments, .bg-dark .widget_archive ul li, .bg-dark .widget_categories ul li,
+	.bg-dark .wm-portfolio-list img,
+	.bg-dark .wm-post-list .image-container,
+	.bg-dark .gravatar,
+	.bg-dark .footer-widgets-wrap {
+		border-color: #222222 !important;
+		border-color: rgba(255,255,255, 0.1) !important;
+	}
+
+
+
+/* message boxes */
+	/* default message box */
+	.msg {
+		color: #333;
+		color: rgba(0,0,0, 0.66); /* when browser doesn't support RGBA color, falls back to previous line */
+		background-color: #eee;
+		border-color: #eee; /* use the same as for message box background color */
+	}
+
+
+
+/* dropcaps */
+	.bg-light .dropcap.round,
+	.bg-light .dropcap.square {
+		color: #000;
+		background: url(../img/dark/transparent/10.png);
+		background: rgba(0,0,0, 0.10);
+	}
+	.bg-dark .dropcap.round,
+	.bg-dark .dropcap.square {
+		color: #fff;
+		background: url(../img/light/transparent/10.png);
+		background: rgba(255,255,255, 0.10);
+	}
+
+
+
+/* cite */
+	.bg-light cite,
+	.bg-light .quote-source {background-image: url(../img/dark/quote-source.png)}
+
+	.bg-dark cite,
+	.bg-dark .quote-source {background-image: url(../img/light/quote-source.png)}
+
+
+
+/* address */
+	/* main address icon */
+	.bg-light .address-icons {background-image: url(../img/dark/icons/mail.png)}
+	.bg-dark .address-icons {background-image: url(../img/light/icons/mail.png)}
+
+	/* email icon */
+	.bg-light .contact-email {background-image: url(../img/dark/icons/email.png)}
+	.bg-dark .contact-email {background-image: url(../img/light/icons/email.png)}
+
+	/* phone icon */
+	.bg-light .contact-phone {background-image: url(../img/dark/icons/phone.png)}
+	.bg-dark .contact-phone {background-image: url(../img/light/icons/phone.png)}
+
+
+
+/* tables */
+	/* table header cells */
+	/* table footer cells */
+	.bg-light th,
+	.bg-light tfoot td {
+		color: #000;
+		background: url(../img/dark/transparent/20.png);
+		background: rgba(0,0,0, 0.2);
+	}
+	.bg-dark th,
+	.bg-dark tfoot td {
+		color: #fff;
+		background: url(../img/light/transparent/20.png);
+		background: rgba(255,255,255, 0.2);
+	}
+
+	/* table header link */
+	/* table footer link */
+	.bg-light th a,
+	.bg-light tfoot a {color: #000}
+	.bg-dark th a,
+	.bg-dark tfoot a {color: #fff}
+
+	/* even table rows background color - doesn't work in older versions of Internet Explorer */
+	.bg-light tbody tr:nth-child(even) {
+		background: url(../img/dark/transparent/5.png);
+		background: rgba(0,0,0, 0.05);
+	}
+	.bg-dark tbody tr:nth-child(even) {
+		background: url(../img/light/transparent/5.png);
+		background: rgba(255,255,255, 0.05);
+	}
+
+	/* table rows background color when mouse over */
+	.bg-light .article-content tbody tr:hover, .bg-light .article-content tbody tr:hover td {
+		background: url(../img/dark/transparent/10.png);
+		background: rgba(0,0,0, 0.1);
+	}
+	.bg-dark .article-content tbody tr:hover, .bg-dark .article-content tbody tr:hover td {
+		background: url(../img/light/transparent/10.png);
+		background: rgba(255,255,255, 0.1);
+	}
+
+
+
+/* stripes */
+	#main-heading, .bg-light #main-heading,
+	#slider, .bg-light #slider,
+	.portfolio-detail-wrap, .bg-light .portfolio-detail-wrap,
+	.bg-light .bio,
+	.bg-light .tabs-wrapper .tabs + ul > li, .bg-light .tabs-wrapper .tabs li.active a,
+	.bg-light .accordion-content, .bg-light .toggle-content,
+	.bg-light .sidebar .widget-heading,
+	.bg-light .sitemap-item h5 {background-image: url(../img/dark/stripes/stripes-10.png)}
+
+	.bg-dark #main-heading,
+	.bg-dark #slider,
+	.bg-dark .portfolio-detail-wrap,
+	.bg-dark .bio,
+	.bg-dark .tabs-wrapper .tabs + ul > li, .bg-dark .tabs-wrapper .tabs li.active a,
+	.bg-dark .accordion-content, .bg-dark .toggle-content,
+	.bg-dark .sidebar .widget-heading,
+	.bg-dark .sitemap-item h5 {background-image: url(../img/light/stripes/stripes-10.png)}
+
+	#slider.high {background: transparent}
+
+
+
+/* breadcrumbs */
+	/* breadcrumbs link text color */
+	.bg-light #breadcrumbs a {color: #aaa}
+	.bg-dark #breadcrumbs a {color: #555}
+		/* when mouse over */
+		.bg-light #breadcrumbs a:hover {color: #000}
+		.bg-dark #breadcrumbs a:hover {color: #fff}
+
+	/* current page/post title color */
+	.bg-light #breadcrumbs .current-item {color: #333}
+	.bg-dark #breadcrumbs .current-item {color: #ccc}
+
+	/* breadcrumbs separator */
+	.bg-light #breadcrumbs .separator {background-image: url(../img/dark/separator-breadcrumbs.png)}
+	.bg-dark #breadcrumbs .separator {background-image: url(../img/light/separator-breadcrumbs.png)}
+
+
+
+/* pagination */
+	/* dots when lot of page numbers displayed */
+	.page-numbers.dots {background: none}
+
+	/* default pagination numbers colors */
+	/* default post pagination number colors */
+	.bg-light .page-numbers,
+	.bg-light .pagination.post a .page-numbers {
+		color: #000;
+		background: url(../img/dark/transparent/5.png);
+		background: rgba(0,0,0, 0.05);
+	}
+	.bg-dark .page-numbers,
+	.bg-dark .pagination.post a .page-numbers {
+		color: #fff;
+		background: url(../img/light/transparent/5.png);
+		background: rgba(255,255,255, 0.05);
+	}
+
+	/* pagination numbers colors when mouse over */
+	/* post pagination number colors when mouse over */
+	.bg-light .pagination a.page-numbers:hover,
+	.bg-light .pagination.post a:hover .page-numbers {
+		color: #000;
+		background: url(../img/dark/transparent/10.png);
+		background: rgba(0,0,0, 0.1);
+	}
+	.bg-dark .pagination a.page-numbers:hover,
+	.bg-dark .pagination.post a:hover .page-numbers {
+		color: #fff;
+		background: url(../img/light/transparent/10.png);
+		background: rgba(255,255,255, 0.1);
+	}
+
+	/* current pagination number colors */
+	/* current post pagination number colors */
+	.bg-light .page-numbers.current,
+	.bg-light .pagination.post .page-numbers {
+		color: #000;
+		background: url(../img/dark/transparent/20.png);
+		background: rgba(0,0,0, 0.2);
+	}
+	.bg-dark .page-numbers.current,
+	.bg-dark .pagination.post .page-numbers {
+		color: #fff;
+		background: url(../img/light/transparent/20.png);
+		background: rgba(255,255,255, 0.2);
+	}
+
+
+
+
+
+/*********************************************/
+/* forms                                     */
+/*********************************************/
+
+/* text inputs */
+	#top-bar input[type="text"],
+	.bg-light input[type="text"],
+	.bg-light input[type="password"],
+	.bg-light select,
+	.bg-light textarea {
+		background-color: rgba(0,0,0, 0); /* rgba background color is for Opera browser to force background image */
+		background-image: url(../img/dark/transparent/5.png);
+	}
+
+	.bg-dark input[type="text"],
+	.bg-dark input[type="password"],
+	.bg-dark select,
+	.bg-dark textarea {
+		background-color: rgba(255,255,255, 0); /* rgba background color is for Opera browser to force background image */
+		background-image: url(../img/light/transparent/5.png);
+	}
+
+
+
+/* placeholders */
+	:-moz-placeholder {color: #999}
+	::-webkit-input-placeholder {color: #999}
+
+
+
+/* search submit button */
+	#top-bar input[type="submit"],
+	.bg-light #form-search input[type="submit"] {background-image: url(../img/dark/btn-search.png)}
+	.bg-dark #form-search input[type="submit"] {background-image: url(../img/light/btn-search.png)}
+
+
+
+
+
+/*********************************************/
+/* header                                    */
+/*********************************************/
+
+/* top bar */
+	#top-bar {
+		background: #f9f9f9;
+		color: #666;
+	}
+	#top-bar a {color: #666}
+	#top-bar a:hover {color: #000}
+
+/* main navigation submenus */
+	 .bg-light #nav-main {height: 42px}
+
+	/* submenu */
+	.bg-light #nav-main li ul {background-color: #f9f9f9}
+		.bg-light #nav-main li li {
+			border-top: 1px solid #ddd;
+			border-color: #dddddd;
+			border-color: rgba(0,0,0, 0.1);
+		}
+		#nav-main li li:first-child {border-top: 0}
+
+	.bg-dark #nav-main li ul {background-color: #060606}
+		.bg-dark #nav-main li li {
+			border-color: #222222;
+			border-color: rgba(255,255,255, 0.1);
+		}
+
+
+
+
+
+/*********************************************/
+/* slider                                    */
+/*********************************************/
+
+/* slide caption */
+	.slider-caption-content .desc {color: #eee !important}
+	.slider-caption-content h2,
+	.slider-caption-content h2 a {color: #fff !important}
+
+	/* simple slider */
+	/* nivo slider */
+	.simpleSlider-nav a.active, .simpleSlider-nav a:hover,
+	.nivo-controlNav a.active, .nivo-controlNav a:hover, .nivo-directionNav a:hover {background-color: #fff !important}
+
+
+
+
+
+/*********************************************/
+/* content                                   */
+/*********************************************/
+
+/* callout area */
+	#cta + #content,
+	#cta + #main-heading.invisible + #content {border-top: 1px solid #ddd}
+	.bg-light #cta + #content,
+	.bg-light #cta + #main-heading.invisible + #content {
+		border-color: #dddddd;
+		border-color: rgba(0,0,0, 0.1);
+	}
+	.bg-dark #cta + #content,
+	.bg-dark #cta + #main-heading.invisible + #content {
+		border-color: #222222;
+		border-color: rgba(255,255,255, 0.1);
+	}
+
+
+
+/* main website heading */
+	#main-heading .section {
+		padding-top: 45px;
+		padding-bottom: 45px;
+		text-align: left;
+	}
+	#main-heading .section h2 {font-style: italic}
+
+
+
+/* lists */
+	/* unordered lists bullet */
+	.bg-light ul > li {background-image: url(../img/dark/bullets/bullet.png)}
+
+	.bg-dark ul > li {background-image: url(../img/light/bullets/bullet.png)}
+
+
+
+/* portfolio filter */
+	/* filter button */
+	.bg-light .portfolio-nav a {
+		color: #333;
+		background-color: #eee;
+	}
+	.bg-dark .portfolio-nav a {
+		color: #ccc;
+		background-color: #111;
+	}
+
+
+
+/* clients */
+	/* removing the stripped border */
+	#above-footer {
+		background: url(../img/dark/transparent/10.png);
+		background: rgba(0,0,0, 0.10);
+	}
+
+
+
+
+
+/*********************************************/
+/* footer                                    */
+/*********************************************/
+
+/* footer widget area */
+	.footer-widgets-wrap {
+		border-top: 1px solid #ccc;
+		border-bottom: 1px solid #ccc;
+	}
+		.bg-light .footer-widgets-wrap {
+			background: url(../img/light/transparent/50.png);
+			background: rgba(255,255,255, 0.50);
+		}
+		.bg-dark .footer-widgets-wrap {
+			background: url(../img/light/transparent/10.png);
+			background: rgba(255,255,255, 0.10);
+		}
+
+
+
+
+
+/*********************************************/
+/* sidebar and widgets                       */
+/*********************************************/
+
+/* Tag Cloud widget */
+	/* normal tag state */
+	.bg-light .widget_tag_cloud a {
+		color: #000;
+		background: url(../img/dark/transparent/10.png);
+	}
+	.bg-dark .widget_tag_cloud a {
+		color: #fff;
+		background: url(../img/light/transparent/10.png);
+	}
+
+	/* when mouse over */
+	.bg-light .widget_tag_cloud a:hover {
+		color: #000;
+		background: url(../img/dark/transparent/20.png);
+	}
+	.bg-dark .widget_tag_cloud a:hover {
+		color: #fff;
+		background: url(../img/light/transparent/20.png);
+	}
+
+
+
+/* Twitter widget */
+	/* tweets list bullet */
+	.bg-light .widget.wm-twitter ul li {background-image: url(../img/dark/icons/twitter.png) !important}
+	.bg-dark .widget.wm-twitter ul li {background-image: url(../img/light/icons/twitter.png) !important}
+
+
+
+/* End of color scheme */

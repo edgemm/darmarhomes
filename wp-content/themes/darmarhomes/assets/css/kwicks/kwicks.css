@@ -1,0 +1,39 @@
+/*
+*****************************************************
+*      KWICKS SLIDER CSS STYLES
+*****************************************************
+*/
+
+ul.kwicks-slider {
+	position: relative;
+	width: 100%;
+	/* height: 360px; */
+	padding: 0;
+	list-style: none;
+	overflow: hidden;
+}
+	ul.kwicks-slider li {
+		position: relative;
+		list-style: none;
+		/* these are required, but the values are up to you (must be pixel) */
+		width: 100%;
+		height: 100%;
+		/* do not change these */
+		display: block;
+		overflow: hidden;
+		padding: 0;  /* if you need padding, do so with an inner div (or implement your own box-model hack) */
+		/* This is optional and will be disregarded by the script. However, it should be provided for non-JS enabled browsers. */
+		margin: 0; /*Set to same as spacing option. */
+		float: left;
+	}
+	ul.kwicks-slider img {
+		position: relative;
+		left: -600px;
+		margin-left: 50%;
+	}
+
+/* slide description */
+.slider-caption-content {max-width: 45%}
+.no-js .slider-caption-content {margin-bottom: 60px}
+
+/* End of file */

@@ -1,0 +1,115 @@
+/*********************************************/
+/* comments                                  */
+/*********************************************/
+
+#comments {
+	padding-top: 30px;
+	margin-top: 30px;
+}
+#comments-title {margin: 0}
+#comments .commentlist {
+	padding: 0 0 30px;
+	margin: 0;
+}
+	#comments .commentlist.pingbacks {margin-top: 1em}
+	.commentlist li {
+		position: relative;
+		min-height: 90px;
+		padding: 0;
+		margin: 30px 0 0;
+		list-style: none;
+		border-bottom: 1px solid #eee;
+		background: none !important;
+		overflow: hidden;
+	}
+		.commentlist li.pingback {
+			min-height: 1em;
+			margin-top: 0.5em;
+		}
+	.commentlist li li {
+		margin: 30px 0 0;
+	}
+	.commentlist .children {margin: 0 0 -1px 70px}
+	.commentlist .children .children {margin: 0 0 0 50px}
+
+/* gravatar */
+.gravatar {
+	position: absolute;
+	height: 100%;
+	width: 50px;
+	left: 0;
+	top: 0;
+	padding: 4px;
+	border: 1px solid #eee;
+	z-index: 2;
+}
+	.gravatar img {
+		width: 100%;
+		margin: 0;
+	}
+	.children .gravatar {width: 30px}
+	.children .gravatar img {height: 30px}
+
+/* author name */
+.comment .author {
+	padding: 0;
+	margin: 0;
+	text-transform: uppercase;
+	letter-spacing: 1.5px;
+	background: transparent;
+}
+
+/* comment meta info */
+.comment .meta {
+	padding: 0.5em 0;
+	margin-top: 0;
+	line-height: 1em;
+}
+
+/* comment content */
+.comment-content {
+	position: relative;
+	margin: 0 0 0 70px;
+	padding: 0;
+	z-index: 3;
+}
+	.children .comment-content {margin-left: 50px}
+	.comment-text {
+		clear: both;
+		padding-top: 0.25em;
+	}
+
+/* comment links */
+.comment-reply-link {
+	position: absolute;
+	display: block;
+	width: 60px;
+	left: -70px;
+	top: 60px;
+	line-height: 20px;
+	text-decoration: none;
+	text-align: center;
+}
+	.children .comment-reply-link {
+		width: 40px;
+		left: -50px;
+		top: 40px;
+	}
+
+/* comment pagination */
+.comments-nav {
+	position: relative;
+	display: block;
+	clear: both;
+	padding: 5px 10px;
+	margin: 0 0 20px 0;
+	overflow: hidden;
+}
+	#comment-nav-below {margin-top: 20px}
+	.comments-nav .nav-previous a {float: left}
+	.comments-nav .nav-next a {float: right}
+
+/* other comments styles */
+li.bypostauthor {}
+
+
